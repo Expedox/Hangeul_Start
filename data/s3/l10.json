@@ -1,0 +1,268 @@
+{
+ "id": "s3-l10",
+ "stage": 3,
+ "lesson": 10,
+ "title": {
+  "de": "Familie",
+  "en": "Family"
+ },
+ "intro": {
+  "de": "Bei Geschwistern hängt das Wort davon ab, wer spricht: Ein Mann nennt seinen älteren Bruder 형, eine Frau sagt 오빠. Die ältere Schwester einer Frau ist 언니 (die eines Mannes 누나, kennst du schon).",
+  "en": "For siblings, the word depends on who is speaking: a man calls his older brother 형, a woman says 오빠. A woman's older sister is 언니 (a man's is 누나, which you already know)."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "see-sound"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s3-w-gajok",
+   "hangul": "가족",
+   "type": "word",
+   "topic": "family",
+   "sound": {
+    "de": "gajok",
+    "en": "gajok"
+   },
+   "meaning": {
+    "de": "Familie",
+    "en": "family"
+   },
+   "mnemonic": {
+    "de": "Die ganze Familie ruft „gajok!“ zum Essen.",
+    "en": "The whole family gathers: \"gajok\"."
+   },
+   "audio": "audio/s3-w-gajok.mp3"
+  },
+  {
+   "id": "s3-w-eomma",
+   "hangul": "엄마",
+   "type": "word",
+   "topic": "family",
+   "sound": {
+    "de": "eomma",
+    "en": "eomma"
+   },
+   "meaning": {
+    "de": "Mama",
+    "en": "mom"
+   },
+   "mnemonic": {
+    "de": "Fast wie „Mama“, nur mit „eom“ vorn.",
+    "en": "Sounds close to \"mama\"."
+   },
+   "note": {
+    "de": "Vertraut; höflicher ist 어머니.",
+    "en": "Familiar; 어머니 is more polite."
+   },
+   "audio": "audio/s3-w-eomma.mp3"
+  },
+  {
+   "id": "s3-w-appa",
+   "hangul": "아빠",
+   "type": "word",
+   "topic": "family",
+   "sound": {
+    "de": "appa",
+    "en": "appa"
+   },
+   "meaning": {
+    "de": "Papa",
+    "en": "dad"
+   },
+   "mnemonic": {
+    "de": "Fast wie „Papa“.",
+    "en": "Almost \"papa\"."
+   },
+   "note": {
+    "de": "Vertraut; höflicher ist 아버지.",
+    "en": "Familiar; 아버지 is more polite."
+   },
+   "audio": "audio/s3-w-appa.mp3"
+  },
+  {
+   "id": "s3-w-bumonim",
+   "hangul": "부모님",
+   "type": "word",
+   "topic": "family",
+   "sound": {
+    "de": "bumonim",
+    "en": "bumonim"
+   },
+   "meaning": {
+    "de": "Eltern",
+    "en": "parents"
+   },
+   "note": {
+    "de": "님 am Ende zeigt Respekt.",
+    "en": "님 at the end shows respect."
+   },
+   "audio": "audio/s3-w-bumonim.mp3"
+  },
+  {
+   "id": "s3-w-halmeoni",
+   "hangul": "할머니",
+   "type": "word",
+   "topic": "family",
+   "sound": {
+    "de": "halmeoni",
+    "en": "halmeoni"
+   },
+   "meaning": {
+    "de": "Großmutter",
+    "en": "grandmother"
+   },
+   "mnemonic": {
+    "de": "Oma hält die Familie zusammen: „halmeoni“.",
+    "en": "Grandma holds the family: \"halmeoni\"."
+   },
+   "note": {
+    "de": "Auch höfliche Anrede für ältere Frauen.",
+    "en": "Also a polite way to address elderly women."
+   },
+   "audio": "audio/s3-w-halmeoni.mp3"
+  },
+  {
+   "id": "s3-w-harabeoji",
+   "hangul": "할아버지",
+   "type": "word",
+   "topic": "family",
+   "sound": {
+    "de": "harabeoji",
+    "en": "harabeoji"
+   },
+   "meaning": {
+    "de": "Großvater",
+    "en": "grandfather"
+   },
+   "mnemonic": {
+    "de": "Steckt 아버지 (Vater) drin.",
+    "en": "It contains 아버지 (father)."
+   },
+   "note": {
+    "de": "Gesprochen [하라버지].",
+    "en": "Pronounced [하라버지]."
+   },
+   "audio": "audio/s3-w-harabeoji.mp3"
+  },
+  {
+   "id": "s3-w-hyeong",
+   "hangul": "형",
+   "type": "word",
+   "topic": "family",
+   "sound": {
+    "de": "hyeong",
+    "en": "hyeong"
+   },
+   "meaning": {
+    "de": "älterer Bruder (eines Mannes)",
+    "en": "older brother (of a man)"
+   },
+   "note": {
+    "de": "Nur Männer sagen 형.",
+    "en": "Only men say 형."
+   },
+   "audio": "audio/s3-w-hyeong.mp3"
+  },
+  {
+   "id": "s3-w-oppa",
+   "hangul": "오빠",
+   "type": "word",
+   "topic": "family",
+   "sound": {
+    "de": "oppa",
+    "en": "oppa"
+   },
+   "meaning": {
+    "de": "älterer Bruder (einer Frau)",
+    "en": "older brother (of a woman)"
+   },
+   "note": {
+    "de": "Nur Frauen sagen 오빠.",
+    "en": "Only women say 오빠."
+   },
+   "audio": "audio/s3-w-oppa.mp3"
+  },
+  {
+   "id": "s3-w-eonni",
+   "hangul": "언니",
+   "type": "word",
+   "topic": "family",
+   "sound": {
+    "de": "eonni",
+    "en": "eonni"
+   },
+   "meaning": {
+    "de": "ältere Schwester (einer Frau)",
+    "en": "older sister (of a woman)"
+   },
+   "note": {
+    "de": "Nur Frauen sagen 언니.",
+    "en": "Only women say 언니."
+   },
+   "audio": "audio/s3-w-eonni.mp3"
+  },
+  {
+   "id": "s3-w-dongsaeng",
+   "hangul": "동생",
+   "type": "word",
+   "topic": "family",
+   "sound": {
+    "de": "dongsaeng",
+    "en": "dongsaeng"
+   },
+   "meaning": {
+    "de": "jüngere Geschwister",
+    "en": "younger sibling"
+   },
+   "note": {
+    "de": "Gilt für Bruder und Schwester, egal wer spricht.",
+    "en": "For a younger brother or sister, whoever speaks."
+   },
+   "audio": "audio/s3-w-dongsaeng.mp3"
+  },
+  {
+   "id": "s3-w-adeul",
+   "hangul": "아들",
+   "type": "word",
+   "topic": "family",
+   "sound": {
+    "de": "adeul",
+    "en": "adeul"
+   },
+   "meaning": {
+    "de": "Sohn",
+    "en": "son"
+   },
+   "mnemonic": {
+    "de": "Der Sohn ist der kleine Adler der Familie.",
+    "en": "Your son is your little \"adeul\"."
+   },
+   "audio": "audio/s3-w-adeul.mp3"
+  },
+  {
+   "id": "s3-w-ttal",
+   "hangul": "딸",
+   "type": "word",
+   "topic": "family",
+   "sound": {
+    "de": "ttal",
+    "en": "ttal"
+   },
+   "meaning": {
+    "de": "Tochter",
+    "en": "daughter"
+   },
+   "mnemonic": {
+    "de": "Ein kurzes, kräftiges Wort: „ttal“.",
+    "en": "Short and strong: \"ttahl\"."
+   },
+   "audio": "audio/s3-w-ttal.mp3"
+  }
+ ]
+}

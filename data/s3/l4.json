@@ -1,0 +1,257 @@
+{
+ "id": "s3-l4",
+ "stage": 3,
+ "lesson": 4,
+ "title": {
+  "de": "Uhrzeit",
+  "en": "Telling the time"
+ },
+ "intro": {
+  "de": "Bei der Uhrzeit mischt Koreanisch beide Zahlenreihen: Die Stunde ist rein koreanisch (한 시, 세 시), die Minuten sind sino-koreanisch (십 분).\n„Halb“ (반) kommt nach der Stunde: 세 시 반 = 3:30.",
+  "en": "Korean mixes both number sets for time: hours use native numbers (한 시, 세 시), minutes use Sino-Korean ones (십 분).\n\"Half\" (반) comes after the hour: 세 시 반 = 3:30."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "see-sound"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s3-w-si",
+   "hangul": "시",
+   "type": "word",
+   "topic": "time",
+   "sound": {
+    "de": "si",
+    "en": "si"
+   },
+   "meaning": {
+    "de": "Uhr (Stunde)",
+    "en": "o'clock (hour)"
+   },
+   "mnemonic": {
+    "de": "„Schi“ – die Uhr schlägt.",
+    "en": "\"She\" checks the hour."
+   },
+   "note": {
+    "de": "Steht nach der Zahl: 다섯 시 = fünf Uhr.",
+    "en": "Comes after the number: 다섯 시 = five o'clock."
+   },
+   "audio": "audio/s3-w-si.mp3"
+  },
+  {
+   "id": "s3-w-bun",
+   "hangul": "분",
+   "type": "word",
+   "topic": "time",
+   "sound": {
+    "de": "bun",
+    "en": "bun"
+   },
+   "meaning": {
+    "de": "Minute",
+    "en": "minute"
+   },
+   "mnemonic": {
+    "de": "Bunte Minuten vergehen schnell.",
+    "en": "A minute is a little boon."
+   },
+   "note": {
+    "de": "Mit sino-koreanischen Zahlen: 오 분, 이십 분.",
+    "en": "Used with Sino-Korean numbers: 오 분, 이십 분."
+   },
+   "audio": "audio/s3-w-bun.mp3"
+  },
+  {
+   "id": "s3-w-ban",
+   "hangul": "반",
+   "type": "word",
+   "topic": "time",
+   "sound": {
+    "de": "ban",
+    "en": "ban"
+   },
+   "meaning": {
+    "de": "halb",
+    "en": "half"
+   },
+   "mnemonic": {
+    "de": "Die Bahn kommt um halb.",
+    "en": "Cut the bun in half: \"bahn\"."
+   },
+   "note": {
+    "de": "Auch allgemein „Hälfte“.",
+    "en": "Also means \"half\" in general."
+   },
+   "audio": "audio/s3-w-ban.mp3"
+  },
+  {
+   "id": "s3-p-han-si",
+   "hangul": "한 시",
+   "type": "phrase",
+   "topic": "time",
+   "sound": {
+    "de": "han si",
+    "en": "han si"
+   },
+   "meaning": {
+    "de": "ein Uhr",
+    "en": "one o'clock"
+   },
+   "note": {
+    "de": "한 ist die kurze Form von 하나.",
+    "en": "한 is the short form of 하나."
+   },
+   "audio": "audio/s3-p-han-si.mp3"
+  },
+  {
+   "id": "s3-p-se-si",
+   "hangul": "세 시",
+   "type": "phrase",
+   "topic": "time",
+   "sound": {
+    "de": "se si",
+    "en": "se si"
+   },
+   "meaning": {
+    "de": "drei Uhr",
+    "en": "three o'clock"
+   },
+   "note": {
+    "de": "세 kommt von 셋 (drei).",
+    "en": "세 comes from 셋 (three)."
+   },
+   "audio": "audio/s3-p-se-si.mp3"
+  },
+  {
+   "id": "s3-p-se-si-ban",
+   "hangul": "세 시 반",
+   "type": "phrase",
+   "topic": "time",
+   "sound": {
+    "de": "se si ban",
+    "en": "se si ban"
+   },
+   "meaning": {
+    "de": "halb vier (3:30)",
+    "en": "half past three (3:30)"
+   },
+   "mnemonic": {
+    "de": "Wörtlich „drei Uhr halb“.",
+    "en": "Literally \"three o'clock half\"."
+   },
+   "note": {
+    "de": "Achtung: Im Deutschen sagt man „halb vier“, auf Koreanisch zählt die volle Stunde davor.",
+    "en": "The hour stays the one that just passed, as in English."
+   },
+   "audio": "audio/s3-p-se-si-ban.mp3"
+  },
+  {
+   "id": "s3-p-yeoldu-si",
+   "hangul": "열두 시",
+   "type": "phrase",
+   "topic": "time",
+   "sound": {
+    "de": "yeoldu si",
+    "en": "yeoldu si"
+   },
+   "meaning": {
+    "de": "zwölf Uhr",
+    "en": "twelve o'clock"
+   },
+   "note": {
+    "de": "열 (zehn) + 두 (zwei) = zwölf.",
+    "en": "열 (ten) + 두 (two) = twelve."
+   },
+   "audio": "audio/s3-p-yeoldu-si.mp3"
+  },
+  {
+   "id": "s3-p-sip-bun",
+   "hangul": "십 분",
+   "type": "phrase",
+   "topic": "time",
+   "sound": {
+    "de": "sip bun",
+    "en": "sip bun"
+   },
+   "meaning": {
+    "de": "zehn Minuten",
+    "en": "ten minutes"
+   },
+   "note": {
+    "de": "Nach ㅂ wird das ㅂ von 분 gespannt: [십뿐].",
+    "en": "After ㅂ, the ㅂ of 분 becomes tense: [십뿐]."
+   },
+   "audio": "audio/s3-p-sip-bun.mp3"
+  },
+  {
+   "id": "s3-p-myeot-si",
+   "hangul": "몇 시예요?",
+   "type": "phrase",
+   "topic": "time",
+   "sound": {
+    "de": "myeot siyeyo?",
+    "en": "myeot siyeyo?"
+   },
+   "meaning": {
+    "de": "Wie spät ist es?",
+    "en": "What time is it?"
+   },
+   "mnemonic": {
+    "de": "몇 = wie viele, 시 = Uhr: „Wie viel Uhr ist es?“",
+    "en": "몇 = how many, 시 = o'clock: \"How many o'clock is it?\""
+   },
+   "note": {
+    "de": "Gesprochen [멷씨에요].",
+    "en": "Pronounced [멷씨에요]."
+   },
+   "audio": "audio/s3-p-myeot-si.mp3"
+  },
+  {
+   "id": "s3-w-ojeon",
+   "hangul": "오전",
+   "type": "word",
+   "topic": "time",
+   "sound": {
+    "de": "ojeon",
+    "en": "ojeon"
+   },
+   "meaning": {
+    "de": "vormittags",
+    "en": "a.m., morning"
+   },
+   "note": {
+    "de": "Steht vor der Uhrzeit: 오전 열 시 = 10 Uhr morgens.",
+    "en": "Goes before the time: 오전 열 시 = 10 a.m."
+   },
+   "audio": "audio/s3-w-ojeon.mp3"
+  },
+  {
+   "id": "s3-w-ohu",
+   "hangul": "오후",
+   "type": "word",
+   "topic": "time",
+   "sound": {
+    "de": "ohu",
+    "en": "ohu"
+   },
+   "meaning": {
+    "de": "nachmittags",
+    "en": "p.m., afternoon"
+   },
+   "mnemonic": {
+    "de": "„Oh, hu!“ – schon Nachmittag.",
+    "en": "\"Oh-hoo\", it's already afternoon."
+   },
+   "note": {
+    "de": "오후 두 시 = 14 Uhr.",
+    "en": "오후 두 시 = 2 p.m."
+   },
+   "audio": "audio/s3-w-ohu.mp3"
+  }
+ ]
+}

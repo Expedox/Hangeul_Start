@@ -1,0 +1,427 @@
+{
+ "id": "s4-l14",
+ "stage": 4,
+ "lesson": 14,
+ "title": {
+  "de": "Notfall",
+  "en": "Emergency"
+ },
+ "intro": {
+  "de": "In Korea erreichst du die Polizei unter 112 und Feuerwehr und Rettungsdienst unter 119.\nIm Notfall reichen kurze Sätze: 도와주세요! = Hilfe! Laut und deutlich sprechen ist wichtiger als perfekte Grammatik.",
+  "en": "In Korea, police is 112, and fire and ambulance is 119.\nIn an emergency, short sentences are enough: 도와주세요! = Help! Speaking loud and clear matters more than perfect grammar."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "build-sentence"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-p-help",
+   "hangul": "도와주세요",
+   "type": "phrase",
+   "topic": "emergency",
+   "sound": {
+    "de": "dowajuseyo",
+    "en": "dowajuseyo"
+   },
+   "meaning": {
+    "de": "Hilfe! / Bitte helfen Sie mir.",
+    "en": "Help! / Please help me."
+   },
+   "mnemonic": {
+    "de": "Laut gerufen: „Do-wa!“ – jemand soll kommen.",
+    "en": "Shouted out loud: \"Doh-wah!\" – someone come."
+   },
+   "note": {
+    "de": "Grundform 도와주다. -세요 ist eine höfliche Bitte.",
+    "en": "Dictionary form 도와주다. -세요 makes it a polite request."
+   },
+   "audio": "audio/s4-p-help.mp3"
+  },
+  {
+   "id": "s4-w-hurt",
+   "hangul": "아파요",
+   "type": "word",
+   "topic": "emergency",
+   "sound": {
+    "de": "apayo",
+    "en": "apayo"
+   },
+   "meaning": {
+    "de": "wehtun; krank sein",
+    "en": "to hurt; to be sick"
+   },
+   "mnemonic": {
+    "de": "„Au, apa!“ – es tut weh.",
+    "en": "\"Ah, apa!\" – ouch, that hurts."
+   },
+   "note": {
+    "de": "Grundform 아프다. Das ㅡ fällt weg.",
+    "en": "Dictionary form 아프다. The ㅡ drops."
+   },
+   "audio": "audio/s4-w-hurt.mp3"
+  },
+  {
+   "id": "s4-w-police",
+   "hangul": "경찰",
+   "type": "word",
+   "topic": "emergency",
+   "sound": {
+    "de": "gyeongchal",
+    "en": "gyeongchal"
+   },
+   "meaning": {
+    "de": "Polizei; Polizist",
+    "en": "police; police officer"
+   },
+   "mnemonic": {
+    "de": "Die Sirene: „gyeongchal, gyeongchal“.",
+    "en": "The siren: \"gyeongchal, gyeongchal\"."
+   },
+   "note": {
+    "de": "Notruf 112.",
+    "en": "Emergency number 112."
+   },
+   "audio": "audio/s4-w-police.mp3"
+  },
+  {
+   "id": "s4-w-ambulance",
+   "hangul": "구급차",
+   "type": "word",
+   "topic": "emergency",
+   "sound": {
+    "de": "gugeupcha",
+    "en": "gugeupcha"
+   },
+   "meaning": {
+    "de": "Krankenwagen",
+    "en": "ambulance"
+   },
+   "mnemonic": {
+    "de": "차 ist das Auto: das Rettungsauto.",
+    "en": "차 is car: the rescue car."
+   },
+   "note": {
+    "de": "Notruf 119.",
+    "en": "Emergency number 119."
+   },
+   "audio": "audio/s4-w-ambulance.mp3"
+  },
+  {
+   "id": "s4-p-please-call",
+   "hangul": "불러 주세요",
+   "type": "phrase",
+   "topic": "emergency",
+   "sound": {
+    "de": "bulleo juseyo",
+    "en": "bulleo juseyo"
+   },
+   "meaning": {
+    "de": "Bitte rufen Sie …",
+    "en": "Please call …"
+   },
+   "mnemonic": {
+    "de": "부르다 heißt rufen: Bitte ruf jemanden für mich.",
+    "en": "부르다 means to call: please call someone for me."
+   },
+   "note": {
+    "de": "Mit Objekt: 경찰을 불러 주세요.",
+    "en": "With object: 경찰을 불러 주세요."
+   },
+   "audio": "audio/s4-p-please-call.mp3"
+  },
+  {
+   "id": "s4-w-passport",
+   "hangul": "여권",
+   "type": "word",
+   "topic": "emergency",
+   "sound": {
+    "de": "yeogwon",
+    "en": "yeogwon"
+   },
+   "meaning": {
+    "de": "Reisepass",
+    "en": "passport"
+   },
+   "mnemonic": {
+    "de": "Ohne Pass kein Weg ins Ausland: „yeogwon“.",
+    "en": "No passport, no journey: \"yeogwon\"."
+   },
+   "note": {
+    "de": "Gesprochen mit gespanntem kk: [여꿘].",
+    "en": "Said with a tense kk: [여꿘]."
+   },
+   "audio": "audio/s4-w-passport.mp3"
+  },
+  {
+   "id": "s4-w-wallet",
+   "hangul": "지갑",
+   "type": "word",
+   "topic": "emergency",
+   "sound": {
+    "de": "jigap",
+    "en": "jigap"
+   },
+   "meaning": {
+    "de": "Geldbörse",
+    "en": "wallet"
+   },
+   "mnemonic": {
+    "de": "Die Börse klappt zu: „gap“.",
+    "en": "The wallet snaps shut: \"gahp\"."
+   },
+   "audio": "audio/s4-w-wallet.mp3"
+  },
+  {
+   "id": "s4-w-mobile-phone",
+   "hangul": "휴대폰",
+   "type": "word",
+   "topic": "emergency",
+   "sound": {
+    "de": "hyudaepon",
+    "en": "hyudaepon"
+   },
+   "meaning": {
+    "de": "Handy",
+    "en": "mobile phone"
+   },
+   "mnemonic": {
+    "de": "Das „pon“ am Ende ist das Telefon.",
+    "en": "The \"pon\" at the end is the phone."
+   },
+   "audio": "audio/s4-w-mobile-phone.mp3"
+  },
+  {
+   "id": "s4-p-lost",
+   "hangul": "잃어버렸어요",
+   "type": "phrase",
+   "topic": "emergency",
+   "sound": {
+    "de": "ireobeoryeosseoyo",
+    "en": "ireobeoryeosseoyo"
+   },
+   "meaning": {
+    "de": "Ich habe … verloren.",
+    "en": "I lost …"
+   },
+   "mnemonic": {
+    "de": "Ein langes Wort für einen langen Schreck: weg ist es.",
+    "en": "A long word for a long moment of panic: it's gone."
+   },
+   "note": {
+    "de": "Vergangenheit von 잃어버리다. Mit Objekt: 지갑을 잃어버렸어요.",
+    "en": "Past tense of 잃어버리다. With object: 지갑을 잃어버렸어요."
+   },
+   "audio": "audio/s4-p-lost.mp3"
+  },
+  {
+   "id": "s4-w-dangerous",
+   "hangul": "위험해요",
+   "type": "word",
+   "topic": "emergency",
+   "sound": {
+    "de": "wiheomhaeyo",
+    "en": "wiheomhaeyo"
+   },
+   "meaning": {
+    "de": "gefährlich sein",
+    "en": "to be dangerous"
+   },
+   "mnemonic": {
+    "de": "Steht auf Warnschildern: 위험.",
+    "en": "Warning signs say 위험."
+   },
+   "note": {
+    "de": "Grundform 위험하다.",
+    "en": "Dictionary form 위험하다."
+   },
+   "audio": "audio/s4-w-dangerous.mp3"
+  },
+  {
+   "id": "s4-w-embassy",
+   "hangul": "대사관",
+   "type": "word",
+   "topic": "emergency",
+   "sound": {
+    "de": "daesagwan",
+    "en": "daesagwan"
+   },
+   "meaning": {
+    "de": "Botschaft",
+    "en": "embassy"
+   },
+   "mnemonic": {
+    "de": "관 wie in 박물관: ein offizielles Haus.",
+    "en": "관 as in 박물관: an official building."
+   },
+   "note": {
+    "de": "독일 대사관 = deutsche Botschaft.",
+    "en": "독일 대사관 = German embassy."
+   },
+   "audio": "audio/s4-w-embassy.mp3"
+  },
+  {
+   "id": "s4-w-fire",
+   "hangul": "불",
+   "type": "word",
+   "topic": "emergency",
+   "sound": {
+    "de": "bul",
+    "en": "bul"
+   },
+   "meaning": {
+    "de": "Feuer; Licht",
+    "en": "fire; light"
+   },
+   "mnemonic": {
+    "de": "Ein Feuer lodert: „bul!“",
+    "en": "Flames flare up: \"bool!\""
+   },
+   "note": {
+    "de": "불이야! = Feuer!",
+    "en": "불이야! = Fire!"
+   },
+   "audio": "audio/s4-w-fire.mp3"
+  },
+  {
+   "id": "s4-p-be-careful",
+   "hangul": "조심하세요",
+   "type": "phrase",
+   "topic": "emergency",
+   "sound": {
+    "de": "josimhaseyo",
+    "en": "josimhaseyo"
+   },
+   "meaning": {
+    "de": "Vorsicht! Passen Sie auf!",
+    "en": "Be careful!"
+   },
+   "mnemonic": {
+    "de": "Das ㅎ wird weich: [조시마세요].",
+    "en": "The ㅎ softens: [조시마세요]."
+   },
+   "note": {
+    "de": "Grundform 조심하다.",
+    "en": "Dictionary form 조심하다."
+   },
+   "audio": "audio/s4-p-be-careful.mp3"
+  },
+  {
+   "id": "s4-s-lost-passport",
+   "hangul": "여권을 잃어버렸어요",
+   "type": "sentence",
+   "topic": "emergency",
+   "sound": {
+    "de": "yeogwoneul ireobeoryeosseoyo",
+    "en": "yeogwoneul ireobeoryeosseoyo"
+   },
+   "meaning": {
+    "de": "Ich habe meinen Pass verloren.",
+    "en": "I lost my passport."
+   },
+   "parts": [
+    "여권을",
+    "잃어버렸어요"
+   ],
+   "extraParts": [
+    "여권이"
+   ],
+   "audio": "audio/s4-s-lost-passport.mp3"
+  },
+  {
+   "id": "s4-s-call-ambulance",
+   "hangul": "구급차를 불러 주세요",
+   "type": "sentence",
+   "topic": "emergency",
+   "sound": {
+    "de": "gugeupchareul bulleo juseyo",
+    "en": "gugeupchareul bulleo juseyo"
+   },
+   "meaning": {
+    "de": "Bitte rufen Sie einen Krankenwagen.",
+    "en": "Please call an ambulance."
+   },
+   "parts": [
+    "구급차를",
+    "불러",
+    "주세요"
+   ],
+   "extraParts": [
+    "구급차가"
+   ],
+   "audio": "audio/s4-s-call-ambulance.mp3"
+  },
+  {
+   "id": "s4-s-headache",
+   "hangul": "머리가 아파요",
+   "type": "sentence",
+   "topic": "emergency",
+   "sound": {
+    "de": "meoriga apayo",
+    "en": "meoriga apayo"
+   },
+   "meaning": {
+    "de": "Ich habe Kopfschmerzen.",
+    "en": "I have a headache."
+   },
+   "parts": [
+    "머리가",
+    "아파요"
+   ],
+   "extraParts": [
+    "머리를"
+   ],
+   "audio": "audio/s4-s-headache.mp3"
+  },
+  {
+   "id": "s4-s-where-embassy",
+   "hangul": "대사관이 어디에 있어요?",
+   "type": "sentence",
+   "topic": "emergency",
+   "sound": {
+    "de": "daesagwani eodie isseoyo?",
+    "en": "daesagwani eodie isseoyo?"
+   },
+   "meaning": {
+    "de": "Wo ist die Botschaft?",
+    "en": "Where is the embassy?"
+   },
+   "parts": [
+    "대사관이",
+    "어디에",
+    "있어요?"
+   ],
+   "extraParts": [
+    "대사관을"
+   ],
+   "audio": "audio/s4-s-where-embassy.mp3"
+  },
+  {
+   "id": "s4-s-no-phone",
+   "hangul": "휴대폰이 없어요",
+   "type": "sentence",
+   "topic": "emergency",
+   "sound": {
+    "de": "hyudaeponi eopseoyo",
+    "en": "hyudaeponi eopseoyo"
+   },
+   "meaning": {
+    "de": "Ich habe kein Handy.",
+    "en": "I don't have a phone."
+   },
+   "parts": [
+    "휴대폰이",
+    "없어요"
+   ],
+   "extraParts": [
+    "휴대폰을"
+   ],
+   "audio": "audio/s4-s-no-phone.mp3"
+  }
+ ]
+}

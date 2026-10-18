@@ -1,0 +1,323 @@
+{
+ "id": "s4-l17",
+ "stage": 4,
+ "lesson": 17,
+ "title": {
+  "de": "Gespräch: im Restaurant",
+  "en": "Conversation: at a restaurant"
+ },
+ "intro": {
+  "de": "Bedienungen fragen kurz und höflich. 드릴까요? heißt „Soll ich Ihnen … bringen?“.\nZum Zählen von Personen nimmst du 명: 한 명, 두 명.",
+  "en": "Servers ask short, polite questions. 드릴까요? means \"Shall I bring you …?\".\nTo count people use 명: 한 명, 두 명."
+ },
+ "exercises": [
+  "dialog-reply"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-d-rest-how-many",
+   "hangul": "몇 분이세요?",
+   "type": "dialog",
+   "topic": "restaurant",
+   "sound": {
+    "de": "myeot buniseyo?",
+    "en": "myeot buniseyo?"
+   },
+   "meaning": {
+    "de": "Wie viele Personen?",
+    "en": "How many people?"
+   },
+   "reply": {
+    "hangul": "두 명이에요",
+    "sound": {
+     "de": "du myeongieyo",
+     "en": "du myeongieyo"
+    },
+    "meaning": {
+     "de": "Zwei Personen.",
+     "en": "Two people."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "김밥이 싸요",
+     "meaning": {
+      "de": "Kimbap ist billig.",
+      "en": "Kimbap is cheap."
+     }
+    },
+    {
+     "hangul": "저는 의사예요",
+     "meaning": {
+      "de": "Ich bin Arzt / Ärztin.",
+      "en": "I'm a doctor."
+     }
+    },
+    {
+     "hangul": "화장실이 없어요",
+     "meaning": {
+      "de": "Es gibt keine Toilette.",
+      "en": "There's no toilet."
+     }
+    }
+   ],
+   "note": {
+    "de": "분 ist das ehrende Zählwort für Personen. Du selbst sagst 명.",
+    "en": "분 is the honorific counter for people. You say 명 yourself."
+   },
+   "audio": "audio/s4-d-rest-how-many.mp3"
+  },
+  {
+   "id": "s4-d-rest-what-order",
+   "hangul": "뭐 드릴까요?",
+   "type": "dialog",
+   "topic": "restaurant",
+   "sound": {
+    "de": "mwo deurilkkayo?",
+    "en": "mwo deurilkkayo?"
+   },
+   "meaning": {
+    "de": "Was darf ich Ihnen bringen?",
+    "en": "What can I get you?"
+   },
+   "reply": {
+    "hangul": "비빔밥 하나 주세요",
+    "sound": {
+     "de": "bibimbap hana juseyo",
+     "en": "bibimbap hana juseyo"
+    },
+    "meaning": {
+     "de": "Ein Bibimbap, bitte.",
+     "en": "One bibimbap, please."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "저는 운동해요",
+     "meaning": {
+      "de": "Ich mache Sport.",
+      "en": "I'm exercising."
+     }
+    },
+    {
+     "hangul": "우산이 있어요",
+     "meaning": {
+      "de": "Ich habe einen Regenschirm.",
+      "en": "I have an umbrella."
+     }
+    },
+    {
+     "hangul": "박물관에 가요",
+     "meaning": {
+      "de": "Ich gehe ins Museum.",
+      "en": "I'm going to the museum."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-rest-what-order.mp3"
+  },
+  {
+   "id": "s4-d-rest-drink",
+   "hangul": "음료는 뭐 드릴까요?",
+   "type": "dialog",
+   "topic": "restaurant",
+   "sound": {
+    "de": "eumnyoneun mwo deurilkkayo?",
+    "en": "eumnyoneun mwo deurilkkayo?"
+   },
+   "meaning": {
+    "de": "Und was möchten Sie trinken?",
+    "en": "And what would you like to drink?"
+   },
+   "reply": {
+    "hangul": "콜라 주세요",
+    "sound": {
+     "de": "kolla juseyo",
+     "en": "kolla juseyo"
+    },
+    "meaning": {
+     "de": "Eine Cola, bitte.",
+     "en": "A cola, please."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "지도를 찾아요",
+     "meaning": {
+      "de": "Ich suche die Karte.",
+      "en": "I'm looking for the map."
+     }
+    },
+    {
+     "hangul": "방이 작아요",
+     "meaning": {
+      "de": "Das Zimmer ist klein.",
+      "en": "The room is small."
+     }
+    },
+    {
+     "hangul": "저는 회사원이에요",
+     "meaning": {
+      "de": "Ich bin Angestellte(r).",
+      "en": "I'm an office worker."
+     }
+    }
+   ],
+   "note": {
+    "de": "음료 heißt Getränk, gesprochen eumnyo.",
+    "en": "음료 means drink, said eumnyo."
+   },
+   "audio": "audio/s4-d-rest-drink.mp3"
+  },
+  {
+   "id": "s4-d-rest-spicy",
+   "hangul": "김치찌개가 매워요?",
+   "type": "dialog",
+   "topic": "restaurant",
+   "sound": {
+    "de": "gimchijjigaega maewoyo?",
+    "en": "gimchijjigaega maewoyo?"
+   },
+   "meaning": {
+    "de": "Ist der Kimchi-Eintopf scharf?",
+    "en": "Is the kimchi stew spicy?"
+   },
+   "reply": {
+    "hangul": "네, 조금 매워요",
+    "sound": {
+     "de": "ne, jogeum maewoyo",
+     "en": "ne, jogeum maewoyo"
+    },
+    "meaning": {
+     "de": "Ja, ein bisschen scharf.",
+     "en": "Yes, a little spicy."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "네, 여권이 있어요",
+     "meaning": {
+      "de": "Ja, ich habe einen Pass.",
+      "en": "Yes, I have a passport."
+     }
+    },
+    {
+     "hangul": "아니요, 버스를 타요",
+     "meaning": {
+      "de": "Nein, ich nehme den Bus.",
+      "en": "No, I take the bus."
+     }
+    },
+    {
+     "hangul": "네, 친구가 와요",
+     "meaning": {
+      "de": "Ja, mein Freund kommt.",
+      "en": "Yes, my friend is coming."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-rest-spicy.mp3"
+  },
+  {
+   "id": "s4-d-rest-tasty",
+   "hangul": "맛있어요?",
+   "type": "dialog",
+   "topic": "restaurant",
+   "sound": {
+    "de": "masisseoyo?",
+    "en": "masisseoyo?"
+   },
+   "meaning": {
+    "de": "Schmeckt es?",
+    "en": "Is it good?"
+   },
+   "reply": {
+    "hangul": "네, 정말 맛있어요",
+    "sound": {
+     "de": "ne, jeongmal masisseoyo",
+     "en": "ne, jeongmal masisseoyo"
+    },
+    "meaning": {
+     "de": "Ja, sehr lecker.",
+     "en": "Yes, really delicious."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "네, 회사에 가요",
+     "meaning": {
+      "de": "Ja, ich gehe zur Arbeit.",
+      "en": "Yes, I'm going to work."
+     }
+    },
+    {
+     "hangul": "아니요, 학생이 아니에요",
+     "meaning": {
+      "de": "Nein, ich bin kein Student.",
+      "en": "No, I'm not a student."
+     }
+    },
+    {
+     "hangul": "네, 표를 사요",
+     "meaning": {
+      "de": "Ja, ich kaufe eine Fahrkarte.",
+      "en": "Yes, I'm buying a ticket."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-rest-tasty.mp3"
+  },
+  {
+   "id": "s4-d-rest-takeout",
+   "hangul": "포장해 드릴까요?",
+   "type": "dialog",
+   "topic": "restaurant",
+   "sound": {
+    "de": "pojanghae deurilkkayo?",
+    "en": "pojanghae deurilkkayo?"
+   },
+   "meaning": {
+    "de": "Zum Mitnehmen?",
+    "en": "Would you like it to go?"
+   },
+   "reply": {
+    "hangul": "아니요, 여기서 먹어요",
+    "sound": {
+     "de": "aniyo, yeogiseo meogeoyo",
+     "en": "aniyo, yeogiseo meogeoyo"
+    },
+    "meaning": {
+     "de": "Nein, ich esse hier.",
+     "en": "No, I'll eat here."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "네, 사진을 찍어요",
+     "meaning": {
+      "de": "Ja, ich mache ein Foto.",
+      "en": "Yes, I'm taking a photo."
+     }
+    },
+    {
+     "hangul": "아니요, 안 피곤해요",
+     "meaning": {
+      "de": "Nein, ich bin nicht müde.",
+      "en": "No, I'm not tired."
+     }
+    },
+    {
+     "hangul": "네, 바다에 가요",
+     "meaning": {
+      "de": "Ja, ich fahre ans Meer.",
+      "en": "Yes, I'm going to the sea."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-rest-takeout.mp3"
+  }
+ ]
+}

@@ -1,0 +1,260 @@
+{
+ "id": "s3-l13",
+ "stage": 3,
+ "lesson": 13,
+ "title": {
+  "de": "Körper",
+  "en": "The body"
+ },
+ "intro": {
+  "de": "Körperteile sind meist kurze Wörter. 머리, 다리 und 이마 kennst du schon aus Stufe 1.",
+  "en": "Body parts are mostly short words. You already know 머리, 다리 and 이마 from stage 1."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "see-sound"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s3-w-mom",
+   "hangul": "몸",
+   "type": "word",
+   "topic": "body",
+   "sound": {
+    "de": "mom",
+    "en": "mom"
+   },
+   "meaning": {
+    "de": "Körper",
+    "en": "body"
+   },
+   "mnemonic": {
+    "de": "Zwei Kästchen übereinander, wie ein Körper: 몸.",
+    "en": "Mom looks after your body."
+   },
+   "audio": "audio/s3-w-mom.mp3"
+  },
+  {
+   "id": "s3-w-eolgul",
+   "hangul": "얼굴",
+   "type": "word",
+   "topic": "body",
+   "sound": {
+    "de": "eolgul",
+    "en": "eolgul"
+   },
+   "meaning": {
+    "de": "Gesicht",
+    "en": "face"
+   },
+   "mnemonic": {
+    "de": "Ein rundes Gesicht wie eine Kugel: „eolgul“.",
+    "en": "Look in the mirror at your face: \"eolgul\"."
+   },
+   "audio": "audio/s3-w-eolgul.mp3"
+  },
+  {
+   "id": "s3-w-nun",
+   "hangul": "눈",
+   "type": "word",
+   "topic": "body",
+   "sound": {
+    "de": "nun",
+    "en": "nun"
+   },
+   "meaning": {
+    "de": "Auge",
+    "en": "eye"
+   },
+   "mnemonic": {
+    "de": "Augen auf – „nun“ sieh mal!",
+    "en": "Open your eyes at noon."
+   },
+   "note": {
+    "de": "Bedeutet auch „Schnee“.",
+    "en": "Also means \"snow\"."
+   },
+   "audio": "audio/s3-w-nun.mp3"
+  },
+  {
+   "id": "s3-w-ko",
+   "hangul": "코",
+   "type": "word",
+   "topic": "body",
+   "sound": {
+    "de": "ko",
+    "en": "ko"
+   },
+   "meaning": {
+    "de": "Nase",
+    "en": "nose"
+   },
+   "mnemonic": {
+    "de": "Mit der Nase riecht man den Kohl.",
+    "en": "Your nose smells cocoa: \"koh\"."
+   },
+   "audio": "audio/s3-w-ko.mp3"
+  },
+  {
+   "id": "s3-w-ip",
+   "hangul": "입",
+   "type": "word",
+   "topic": "body",
+   "sound": {
+    "de": "ip",
+    "en": "ip"
+   },
+   "meaning": {
+    "de": "Mund",
+    "en": "mouth"
+   },
+   "mnemonic": {
+    "de": "Beim p am Ende gehen die Lippen zu: „ip“.",
+    "en": "Close your mouth on the final p: \"eep\"."
+   },
+   "audio": "audio/s3-w-ip.mp3"
+  },
+  {
+   "id": "s3-w-gwi",
+   "hangul": "귀",
+   "type": "word",
+   "topic": "body",
+   "sound": {
+    "de": "gwi",
+    "en": "gwi"
+   },
+   "meaning": {
+    "de": "Ohr",
+    "en": "ear"
+   },
+   "mnemonic": {
+    "de": "Ohren hören ein leises „gwi“.",
+    "en": "Your ears hear a tiny \"gwee\"."
+   },
+   "audio": "audio/s3-w-gwi.mp3"
+  },
+  {
+   "id": "s3-w-mok",
+   "hangul": "목",
+   "type": "word",
+   "topic": "body",
+   "sound": {
+    "de": "mok",
+    "en": "mok"
+   },
+   "meaning": {
+    "de": "Hals",
+    "en": "neck, throat"
+   },
+   "mnemonic": {
+    "de": "Ein Mokka wärmt den Hals.",
+    "en": "A mocha warms your throat."
+   },
+   "audio": "audio/s3-w-mok.mp3"
+  },
+  {
+   "id": "s3-w-eokkae",
+   "hangul": "어깨",
+   "type": "word",
+   "topic": "body",
+   "sound": {
+    "de": "eokkae",
+    "en": "eokkae"
+   },
+   "meaning": {
+    "de": "Schulter",
+    "en": "shoulder"
+   },
+   "mnemonic": {
+    "de": "Alles auf die Schultern: „eokkae“, okay?",
+    "en": "\"Uh, okay\" – shrug your shoulders."
+   },
+   "audio": "audio/s3-w-eokkae.mp3"
+  },
+  {
+   "id": "s3-w-gaseum",
+   "hangul": "가슴",
+   "type": "word",
+   "topic": "body",
+   "sound": {
+    "de": "gaseum",
+    "en": "gaseum"
+   },
+   "meaning": {
+    "de": "Brust",
+    "en": "chest"
+   },
+   "mnemonic": {
+    "de": "Tief einatmen, die Brust hebt sich.",
+    "en": "Take a deep breath into your chest."
+   },
+   "audio": "audio/s3-w-gaseum.mp3"
+  },
+  {
+   "id": "s3-w-bae",
+   "hangul": "배",
+   "type": "word",
+   "topic": "body",
+   "sound": {
+    "de": "bae",
+    "en": "bae"
+   },
+   "meaning": {
+    "de": "Bauch",
+    "en": "belly, stomach"
+   },
+   "mnemonic": {
+    "de": "Ein dicker Bauch – „bä“, zu viel gegessen.",
+    "en": "Pat your belly: \"bae\"."
+   },
+   "note": {
+    "de": "Bedeutet auch „Birne“ und „Schiff“.",
+    "en": "Also means \"pear\" and \"boat\"."
+   },
+   "audio": "audio/s3-w-bae.mp3"
+  },
+  {
+   "id": "s3-w-son",
+   "hangul": "손",
+   "type": "word",
+   "topic": "body",
+   "sound": {
+    "de": "son",
+    "en": "son"
+   },
+   "meaning": {
+    "de": "Hand",
+    "en": "hand"
+   },
+   "mnemonic": {
+    "de": "Der Sohn gibt dir die Hand.",
+    "en": "Hold your son's hand."
+   },
+   "audio": "audio/s3-w-son.mp3"
+  },
+  {
+   "id": "s3-w-bal",
+   "hangul": "발",
+   "type": "word",
+   "topic": "body",
+   "sound": {
+    "de": "bal",
+    "en": "bal"
+   },
+   "meaning": {
+    "de": "Fuß",
+    "en": "foot"
+   },
+   "mnemonic": {
+    "de": "Mit dem Fuß kickst du den Ball.",
+    "en": "Kick the ball with your foot."
+   },
+   "audio": "audio/s3-w-bal.mp3"
+  }
+ ]
+}

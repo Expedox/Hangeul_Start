@@ -1,0 +1,234 @@
+{
+ "id": "s2-l9",
+ "stage": 2,
+ "lesson": 9,
+ "title": {
+  "de": "Wörter aus dem Englischen",
+  "en": "Words from English"
+ },
+ "intro": {
+  "de": "Viele Wörter kennst du schon, sie kommen aus dem Englischen. Weil Koreanisch keine Laute wie f, v oder th hat und Konsonanten am Wortende anders behandelt, ändern sie sich ein wenig:\nf wird zu ㅍ, und zwischen Konsonanten wird oft ein ㅡ eingeschoben (bus → 버스).\nWenn du ein Wort nicht sofort erkennst: laut lesen hilft.",
+  "en": "You already know many of these words: they come from English. Korean has no f, v or th, and it treats final consonants differently, so the words change a bit:\nf becomes ㅍ, and an ㅡ is often added between consonants (bus → 버스).\nIf you don't recognize a word right away, read it out loud."
+ },
+ "exercises": [
+  "see-sound",
+  "see-meaning",
+  "hear-meaning",
+  "pick-hangul"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s2-w-keopi",
+   "hangul": "커피",
+   "type": "word",
+   "topic": "loanwords",
+   "sound": {
+    "de": "keopi",
+    "en": "keopi"
+   },
+   "meaning": {
+    "de": "Kaffee",
+    "en": "coffee"
+   },
+   "mnemonic": {
+    "de": "Aus „coffee“ wird keopi, denn Koreanisch hat kein f. Statt f steht ㅍ.",
+    "en": "\"Coffee\" becomes keopi, since Korean has no f. ㅍ fills in."
+   },
+   "audio": "audio/s2-w-keopi.mp3"
+  },
+  {
+   "id": "s2-w-hotel",
+   "hangul": "호텔",
+   "type": "word",
+   "topic": "loanwords",
+   "sound": {
+    "de": "hotel",
+    "en": "hotel"
+   },
+   "meaning": {
+    "de": "Hotel",
+    "en": "hotel"
+   },
+   "audio": "audio/s2-w-hotel.mp3"
+  },
+  {
+   "id": "s2-w-taeksi",
+   "hangul": "택시",
+   "type": "word",
+   "topic": "loanwords",
+   "sound": {
+    "de": "taeksi",
+    "en": "taeksi"
+   },
+   "meaning": {
+    "de": "Taxi",
+    "en": "taxi"
+   },
+   "note": {
+    "de": "Nach dem Batchim ㄱ wird ㅅ gespannt: 택씨.",
+    "en": "After the batchim ㄱ, ㅅ becomes tense: 택씨."
+   },
+   "audio": "audio/s2-w-taeksi.mp3",
+   "verify": true,
+   "verifyNote": "Lautschrift: 택시 wird [택씨] gesprochen; ㅆ vor ㅣ ist eher sch-artig. Darstellung ssi/ssee prüfen."
+  },
+  {
+   "id": "s2-w-beoseu",
+   "hangul": "버스",
+   "type": "word",
+   "topic": "loanwords",
+   "sound": {
+    "de": "beoseu",
+    "en": "beoseu"
+   },
+   "meaning": {
+    "de": "Bus",
+    "en": "bus"
+   },
+   "note": {
+    "de": "Ein ㅡ wird eingefügt, damit das s eine eigene Silbe bekommt. Umgangssprachlich hört man auch 뻐쓰.",
+    "en": "An ㅡ is added so the s gets its own syllable. In casual speech you may also hear 뻐쓰."
+   },
+   "audio": "audio/s2-w-beoseu.mp3"
+  },
+  {
+   "id": "s2-w-keompyuteo",
+   "hangul": "컴퓨터",
+   "type": "word",
+   "topic": "loanwords",
+   "sound": {
+    "de": "keompyuteo",
+    "en": "keompyuteo"
+   },
+   "meaning": {
+    "de": "Computer",
+    "en": "computer"
+   },
+   "audio": "audio/s2-w-keompyuteo.mp3"
+  },
+  {
+   "id": "s2-w-aiseukeurim",
+   "hangul": "아이스크림",
+   "type": "word",
+   "topic": "loanwords",
+   "sound": {
+    "de": "aiseukeurim",
+    "en": "aiseukeurim"
+   },
+   "meaning": {
+    "de": "Eis (Speiseeis)",
+    "en": "ice cream"
+   },
+   "mnemonic": {
+    "de": "Fünf Silben für zwei englische: Jedes s und k bekommt sein eigenes ㅡ.",
+    "en": "Five syllables for two English ones: each s and k gets its own ㅡ."
+   },
+   "audio": "audio/s2-w-aiseukeurim.mp3"
+  },
+  {
+   "id": "s2-w-pija",
+   "hangul": "피자",
+   "type": "word",
+   "topic": "loanwords",
+   "sound": {
+    "de": "pija",
+    "en": "pija"
+   },
+   "meaning": {
+    "de": "Pizza",
+    "en": "pizza"
+   },
+   "audio": "audio/s2-w-pija.mp3"
+  },
+  {
+   "id": "s2-w-haembeogeo",
+   "hangul": "햄버거",
+   "type": "word",
+   "topic": "loanwords",
+   "sound": {
+    "de": "haembeogeo",
+    "en": "haembeogeo"
+   },
+   "meaning": {
+    "de": "Hamburger",
+    "en": "hamburger"
+   },
+   "audio": "audio/s2-w-haembeogeo.mp3"
+  },
+  {
+   "id": "s2-w-kolla",
+   "hangul": "콜라",
+   "type": "word",
+   "topic": "loanwords",
+   "sound": {
+    "de": "kolla",
+    "en": "kolla"
+   },
+   "meaning": {
+    "de": "Cola",
+    "en": "cola"
+   },
+   "note": {
+    "de": "ㄹㄹ hintereinander klingt wie ein langes l.",
+    "en": "Two ㄹ in a row sound like a long l."
+   },
+   "audio": "audio/s2-w-kolla.mp3"
+  },
+  {
+   "id": "s2-w-kamera",
+   "hangul": "카메라",
+   "type": "word",
+   "topic": "loanwords",
+   "sound": {
+    "de": "kamera",
+    "en": "kamera"
+   },
+   "meaning": {
+    "de": "Kamera",
+    "en": "camera"
+   },
+   "audio": "audio/s2-w-kamera.mp3"
+  },
+  {
+   "id": "s2-w-inteonet",
+   "hangul": "인터넷",
+   "type": "word",
+   "topic": "loanwords",
+   "sound": {
+    "de": "inteonet",
+    "en": "inteonet"
+   },
+   "meaning": {
+    "de": "Internet",
+    "en": "internet"
+   },
+   "note": {
+    "de": "Das ㅅ am Ende klingt wie t.",
+    "en": "The final ㅅ sounds like t."
+   },
+   "audio": "audio/s2-w-inteonet.mp3"
+  },
+  {
+   "id": "s2-w-haendeupon",
+   "hangul": "핸드폰",
+   "type": "word",
+   "topic": "loanwords",
+   "sound": {
+    "de": "haendeupon",
+    "en": "haendeupon"
+   },
+   "meaning": {
+    "de": "Handy",
+    "en": "cell phone"
+   },
+   "note": {
+    "de": "Ein in Korea gebildetes Wort aus „hand“ und „phone“.",
+    "en": "A word made up in Korea from \"hand\" and \"phone\"."
+   },
+   "audio": "audio/s2-w-haendeupon.mp3"
+  }
+ ]
+}

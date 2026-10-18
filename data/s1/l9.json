@@ -1,0 +1,185 @@
+{
+ "id": "s1-l9",
+ "stage": 1,
+ "lesson": 9,
+ "title": {
+  "de": "Noch mehr Wörter",
+  "en": "More words"
+ },
+ "exercises": [
+  "see-meaning",
+  "see-sound",
+  "pick-hangul",
+  "hear-meaning"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s1-w-eomeoni",
+   "hangul": "어머니",
+   "type": "word",
+   "sound": {
+    "de": "eomeoni",
+    "en": "eomeoni"
+   },
+   "meaning": {
+    "de": "Mutter",
+    "en": "mother"
+   },
+   "topic": "family",
+   "audio": "audio/s1-w-eomeoni.mp3"
+  },
+  {
+   "id": "s1-w-abeoji",
+   "hangul": "아버지",
+   "type": "word",
+   "sound": {
+    "de": "abeoji",
+    "en": "abeoji"
+   },
+   "meaning": {
+    "de": "Vater",
+    "en": "father"
+   },
+   "topic": "family",
+   "audio": "audio/s1-w-abeoji.mp3"
+  },
+  {
+   "id": "s1-w-gogi",
+   "hangul": "고기",
+   "type": "word",
+   "sound": {
+    "de": "gogi",
+    "en": "gogi"
+   },
+   "meaning": {
+    "de": "Fleisch",
+    "en": "meat"
+   },
+   "topic": "food",
+   "audio": "audio/s1-w-gogi.mp3"
+  },
+  {
+   "id": "s1-w-nabi",
+   "hangul": "나비",
+   "type": "word",
+   "sound": {
+    "de": "nabi",
+    "en": "nabi"
+   },
+   "meaning": {
+    "de": "Schmetterling",
+    "en": "butterfly"
+   },
+   "topic": "animals",
+   "audio": "audio/s1-w-nabi.mp3"
+  },
+  {
+   "id": "s1-w-jigu",
+   "hangul": "지구",
+   "type": "word",
+   "sound": {
+    "de": "jigu",
+    "en": "jigu"
+   },
+   "meaning": {
+    "de": "Erde (Planet)",
+    "en": "Earth (planet)"
+   },
+   "topic": "nature",
+   "audio": "audio/s1-w-jigu.mp3"
+  },
+  {
+   "id": "s1-w-baji",
+   "hangul": "바지",
+   "type": "word",
+   "sound": {
+    "de": "baji",
+    "en": "baji"
+   },
+   "meaning": {
+    "de": "Hose",
+    "en": "trousers"
+   },
+   "topic": "clothes",
+   "audio": "audio/s1-w-baji.mp3"
+  },
+  {
+   "id": "s1-w-dosi",
+   "hangul": "도시",
+   "type": "word",
+   "sound": {
+    "de": "dosi",
+    "en": "dosi"
+   },
+   "meaning": {
+    "de": "Stadt",
+    "en": "city"
+   },
+   "topic": "places",
+   "audio": "audio/s1-w-dosi.mp3"
+  },
+  {
+   "id": "s1-w-yeogi",
+   "hangul": "여기",
+   "type": "word",
+   "sound": {
+    "de": "yeogi",
+    "en": "yeogi"
+   },
+   "meaning": {
+    "de": "hier",
+    "en": "here"
+   },
+   "topic": "places",
+   "audio": "audio/s1-w-yeogi.mp3"
+  },
+  {
+   "id": "s1-w-geogi",
+   "hangul": "거기",
+   "type": "word",
+   "sound": {
+    "de": "geogi",
+    "en": "geogi"
+   },
+   "meaning": {
+    "de": "dort",
+    "en": "there"
+   },
+   "topic": "places",
+   "audio": "audio/s1-w-geogi.mp3"
+  },
+  {
+   "id": "s1-w-radio",
+   "hangul": "라디오",
+   "type": "word",
+   "sound": {
+    "de": "radio",
+    "en": "radio"
+   },
+   "meaning": {
+    "de": "Radio",
+    "en": "radio"
+   },
+   "topic": "things",
+   "audio": "audio/s1-w-radio.mp3"
+  },
+  {
+   "id": "s1-w-juseu",
+   "hangul": "주스",
+   "type": "word",
+   "sound": {
+    "de": "juseu",
+    "en": "juseu"
+   },
+   "meaning": {
+    "de": "Saft",
+    "en": "juice"
+   },
+   "topic": "food",
+   "audio": "audio/s1-w-juseu.mp3"
+  }
+ ]
+}

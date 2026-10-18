@@ -1,0 +1,233 @@
+{
+ "id": "s2-l8",
+ "stage": 2,
+ "lesson": 8,
+ "title": {
+  "de": "Wie man wirklich spricht",
+  "en": "How it's really said"
+ },
+ "intro": {
+  "de": "Koreanisch wird oft anders gesprochen als geschrieben. Drei Regeln helfen schon sehr viel:\n1. Bindung: Beginnt die nächste Silbe mit dem stummen ㅇ, rutscht der Endkonsonant hinüber. 음악 klingt wie 으막.\n2. Nasalierung: Vor ㄴ oder ㅁ wird ㅂ zu m und ㄱ zu ng. 감사합니다 klingt wie 감사함니다, 한국말 wie 한궁말.\n3. Schwaches ㅎ: Zwischen Vokalen und nach ㄴ, ㅁ, ㄹ, ㅇ wird ㅎ fast unhörbar. 좋아요 klingt wie 조아요.\nDie Lautschrift zeigt immer die gesprochene Form.",
+  "en": "Korean is often pronounced differently from how it is written. Three rules already go a long way:\n1. Linking: if the next syllable starts with a silent ㅇ, the final consonant slides over. 음악 sounds like 으막.\n2. Nasalization: before ㄴ or ㅁ, ㅂ becomes m and ㄱ becomes ng. 감사합니다 sounds like 감사함니다, 한국말 like 한궁말.\n3. Weak ㅎ: between vowels and after ㄴ, ㅁ, ㄹ, ㅇ, ㅎ becomes almost silent. 좋아요 sounds like 조아요.\nThe pronunciation guide always shows the spoken form."
+ },
+ "exercises": [
+  "see-sound",
+  "see-meaning",
+  "hear-meaning",
+  "pick-hangul"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s2-w-eumak",
+   "hangul": "음악",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "eumak",
+    "en": "eumak"
+   },
+   "meaning": {
+    "de": "Musik",
+    "en": "music"
+   },
+   "note": {
+    "de": "음악 → 으막. Bindung: Der Endkonsonant rutscht in die nächste Silbe, wenn sie mit ㅇ beginnt.",
+    "en": "음악 → 으막. Linking: the final consonant moves to the next syllable when that starts with ㅇ."
+   },
+   "audio": "audio/s2-w-eumak.mp3"
+  },
+  {
+   "id": "s2-w-hangugeo",
+   "hangul": "한국어",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "hangugeo",
+    "en": "hangugeo"
+   },
+   "meaning": {
+    "de": "Koreanisch (Sprache)",
+    "en": "Korean (language)"
+   },
+   "note": {
+    "de": "한국어 → 한구거. Bindung: Der Endkonsonant rutscht in die nächste Silbe, wenn sie mit ㅇ beginnt.",
+    "en": "한국어 → 한구거. Linking: the final consonant moves to the next syllable when that starts with ㅇ."
+   },
+   "audio": "audio/s2-w-hangugeo.mp3"
+  },
+  {
+   "id": "s2-w-bareum",
+   "hangul": "발음",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "bareum",
+    "en": "bareum"
+   },
+   "meaning": {
+    "de": "Aussprache",
+    "en": "pronunciation"
+   },
+   "note": {
+    "de": "발음 → 바름. Das ㄹ wandert weiter und klingt dann wie r.",
+    "en": "발음 → 바름. The ㄹ moves over and then sounds like r."
+   },
+   "audio": "audio/s2-w-bareum.mp3"
+  },
+  {
+   "id": "s2-w-jigeop",
+   "hangul": "직업",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "jigeop",
+    "en": "jigeop"
+   },
+   "meaning": {
+    "de": "Beruf",
+    "en": "job, occupation"
+   },
+   "note": {
+    "de": "직업 → 지겁. Bindung: Der Endkonsonant rutscht in die nächste Silbe, wenn sie mit ㅇ beginnt.",
+    "en": "직업 → 지겁. Linking: the final consonant moves to the next syllable when that starts with ㅇ."
+   },
+   "audio": "audio/s2-w-jigeop.mp3"
+  },
+  {
+   "id": "s2-w-gamsahamnida",
+   "hangul": "감사합니다",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "gamsahamnida",
+    "en": "gamsahamnida"
+   },
+   "meaning": {
+    "de": "Danke (höflich)",
+    "en": "thank you (polite)"
+   },
+   "note": {
+    "de": "감사합니다 → 감사함니다. Nasalierung: ㅂ vor ㄴ oder ㅁ wird zu m.",
+    "en": "감사합니다 → 감사함니다. Nasalization: ㅂ before ㄴ or ㅁ turns into m."
+   },
+   "audio": "audio/s2-w-gamsahamnida.mp3"
+  },
+  {
+   "id": "s2-w-imnida",
+   "hangul": "입니다",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "imnida",
+    "en": "imnida"
+   },
+   "meaning": {
+    "de": "ist, bin, sind (höflich-förmlich)",
+    "en": "is, am, are (formal)"
+   },
+   "note": {
+    "de": "입니다 → 임니다. Nasalierung: ㅂ vor ㄴ oder ㅁ wird zu m.",
+    "en": "입니다 → 임니다. Nasalization: ㅂ before ㄴ or ㅁ turns into m."
+   },
+   "audio": "audio/s2-w-imnida.mp3"
+  },
+  {
+   "id": "s2-w-hangukmal",
+   "hangul": "한국말",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "hangungmal",
+    "en": "hangungmal"
+   },
+   "meaning": {
+    "de": "Koreanisch (Sprache, alltäglich)",
+    "en": "Korean (language, everyday word)"
+   },
+   "note": {
+    "de": "한국말 → 한궁말. Nasalierung: ㄱ vor ㄴ oder ㅁ wird zu ng.",
+    "en": "한국말 → 한궁말. Nasalization: ㄱ before ㄴ or ㅁ turns into ng."
+   },
+   "audio": "audio/s2-w-hangukmal.mp3"
+  },
+  {
+   "id": "s2-w-jangnyeon",
+   "hangul": "작년",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "jangnyeon",
+    "en": "jangnyeon"
+   },
+   "meaning": {
+    "de": "letztes Jahr",
+    "en": "last year"
+   },
+   "note": {
+    "de": "작년 → 장년. Nasalierung: ㄱ vor ㄴ oder ㅁ wird zu ng.",
+    "en": "작년 → 장년. Nasalization: ㄱ before ㄴ or ㅁ turns into ng."
+   },
+   "audio": "audio/s2-w-jangnyeon.mp3"
+  },
+  {
+   "id": "s2-w-joayo",
+   "hangul": "좋아요",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "joayo",
+    "en": "joayo"
+   },
+   "meaning": {
+    "de": "gut, gefällt mir",
+    "en": "good, I like it"
+   },
+   "note": {
+    "de": "좋아요 → 조아요. ㅎ wird schwach: Zwischen Vokalen oder nach ㄴ, ㅁ, ㄹ, ㅇ verschwindet ㅎ fast.",
+    "en": "좋아요 → 조아요. Weak ㅎ: between vowels or after ㄴ, ㅁ, ㄹ, ㅇ, ㅎ almost disappears."
+   },
+   "audio": "audio/s2-w-joayo.mp3"
+  },
+  {
+   "id": "s2-w-gwaenchanayo",
+   "hangul": "괜찮아요",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "gwaenchanayo",
+    "en": "gwaenchanayo"
+   },
+   "meaning": {
+    "de": "in Ordnung, kein Problem",
+    "en": "it's okay, no problem"
+   },
+   "note": {
+    "de": "괜찮아요 → 괜차나요. Das ㅎ im Batchim fällt weg, das ㄴ rutscht weiter.",
+    "en": "괜찮아요 → 괜차나요. The ㅎ in the batchim drops out and the ㄴ moves on."
+   },
+   "audio": "audio/s2-w-gwaenchanayo.mp3"
+  },
+  {
+   "id": "s2-w-mani",
+   "hangul": "많이",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "mani",
+    "en": "mani"
+   },
+   "meaning": {
+    "de": "viel",
+    "en": "a lot, much"
+   },
+   "note": {
+    "de": "많이 → 마니. Das ㅎ verschwindet, ㄴ wandert in die nächste Silbe.",
+    "en": "많이 → 마니. The ㅎ vanishes and ㄴ moves to the next syllable."
+   },
+   "audio": "audio/s2-w-mani.mp3"
+  }
+ ]
+}

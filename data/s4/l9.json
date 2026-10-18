@@ -1,0 +1,367 @@
+{
+ "id": "s4-l9",
+ "stage": 4,
+ "lesson": 9,
+ "title": {
+  "de": "Verneinen: 안 und 아니에요",
+  "en": "Saying no: 안 and 아니에요"
+ },
+ "intro": {
+  "de": "Ein Verb oder Adjektiv verneinst du mit 안 direkt davor: 가요 → 안 가요, 비싸요 → 안 비싸요.\nBei Verben aus Nomen + 해요 steht 안 vor 해요: 공부 안 해요.\nEin Nomen verneinst du mit 아니에요 („ist nicht“), davor meist 이/가: 학생이 아니에요, 의사가 아니에요.",
+  "en": "To negate a verb or adjective, put 안 right before it: 가요 → 안 가요, 비싸요 → 안 비싸요.\nWith noun + 해요 verbs, 안 goes before 해요: 공부 안 해요.\nTo negate a noun, use 아니에요 (\"is not\"), usually with 이/가 before it: 학생이 아니에요, 의사가 아니에요."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "build-sentence"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-w-not",
+   "hangul": "안",
+   "type": "word",
+   "topic": "grammar",
+   "sound": {
+    "de": "an",
+    "en": "an"
+   },
+   "meaning": {
+    "de": "nicht (vor Verben)",
+    "en": "not (before verbs)"
+   },
+   "mnemonic": {
+    "de": "Ein kurzes „an“ – und schon ist der Schalter aus.",
+    "en": "A quick \"ahn\" flips the verb to \"off\"."
+   },
+   "note": {
+    "de": "Steht direkt vor Verb oder Adjektiv.",
+    "en": "Goes right before the verb or adjective."
+   },
+   "audio": "audio/s4-w-not.mp3"
+  },
+  {
+   "id": "s4-w-is-not",
+   "hangul": "아니에요",
+   "type": "word",
+   "topic": "grammar",
+   "sound": {
+    "de": "anieyo",
+    "en": "anieyo"
+   },
+   "meaning": {
+    "de": "ist nicht, bin nicht",
+    "en": "is not, am not"
+   },
+   "mnemonic": {
+    "de": "„Ah, nie!“ – das bin ich nicht.",
+    "en": "\"Ah, nee!\" – that's not me."
+   },
+   "note": {
+    "de": "Grundform 아니다. Gegenstück zu 이에요/예요.",
+    "en": "Dictionary form 아니다. The opposite of 이에요/예요."
+   },
+   "audio": "audio/s4-w-is-not.mp3"
+  },
+  {
+   "id": "s4-w-spicy",
+   "hangul": "매워요",
+   "type": "word",
+   "topic": "adjectives",
+   "sound": {
+    "de": "maewoyo",
+    "en": "maewoyo"
+   },
+   "meaning": {
+    "de": "scharf sein",
+    "en": "to be spicy"
+   },
+   "mnemonic": {
+    "de": "„Mäh, wo ist das Wasser?“ – zu scharf.",
+    "en": "\"Mae, whoa!\" – too spicy."
+   },
+   "note": {
+    "de": "Grundform 맵다. Unregelmäßig: ㅂ wird zu 우.",
+    "en": "Dictionary form 맵다. Irregular: ㅂ turns into 우."
+   },
+   "audio": "audio/s4-w-spicy.mp3"
+  },
+  {
+   "id": "s4-w-difficult",
+   "hangul": "어려워요",
+   "type": "word",
+   "topic": "adjectives",
+   "sound": {
+    "de": "eoryeowoyo",
+    "en": "eoryeowoyo"
+   },
+   "meaning": {
+    "de": "schwierig sein",
+    "en": "to be difficult"
+   },
+   "mnemonic": {
+    "de": "Ein langes, holpriges Wort für „schwierig“.",
+    "en": "A long, bumpy word for \"difficult\"."
+   },
+   "note": {
+    "de": "Grundform 어렵다. ㅂ wird zu 우.",
+    "en": "Dictionary form 어렵다. ㅂ turns into 우."
+   },
+   "audio": "audio/s4-w-difficult.mp3"
+  },
+  {
+   "id": "s4-w-easy",
+   "hangul": "쉬워요",
+   "type": "word",
+   "topic": "adjectives",
+   "sound": {
+    "de": "swiwoyo",
+    "en": "swiwoyo"
+   },
+   "meaning": {
+    "de": "leicht sein",
+    "en": "to be easy"
+   },
+   "mnemonic": {
+    "de": "„Swi!“ – so schnell geht's, ganz leicht.",
+    "en": "\"Swee!\" – done in a swish, easy."
+   },
+   "note": {
+    "de": "Grundform 쉽다. ㅂ wird zu 우.",
+    "en": "Dictionary form 쉽다. ㅂ turns into 우."
+   },
+   "audio": "audio/s4-w-easy.mp3"
+  },
+  {
+   "id": "s4-w-far",
+   "hangul": "멀어요",
+   "type": "word",
+   "topic": "adjectives",
+   "sound": {
+    "de": "meoreoyo",
+    "en": "meoreoyo"
+   },
+   "meaning": {
+    "de": "weit (entfernt) sein",
+    "en": "to be far"
+   },
+   "mnemonic": {
+    "de": "„Meoreo…“ – noch mehr Weg.",
+    "en": "\"Meoreo\" – more road to go."
+   },
+   "note": {
+    "de": "Grundform 멀다.",
+    "en": "Dictionary form 멀다."
+   },
+   "audio": "audio/s4-w-far.mp3"
+  },
+  {
+   "id": "s4-w-near",
+   "hangul": "가까워요",
+   "type": "word",
+   "topic": "adjectives",
+   "sound": {
+    "de": "gakkawoyo",
+    "en": "gakkawoyo"
+   },
+   "meaning": {
+    "de": "nah sein",
+    "en": "to be close, near"
+   },
+   "mnemonic": {
+    "de": "Ga-kka: Es ist gleich da, nur ein paar Schritte.",
+    "en": "Gah-kkah: just a couple of steps away."
+   },
+   "note": {
+    "de": "Grundform 가깝다. ㅂ wird zu 우.",
+    "en": "Dictionary form 가깝다. ㅂ turns into 우."
+   },
+   "audio": "audio/s4-w-near.mp3"
+  },
+  {
+   "id": "s4-s-not-student",
+   "hangul": "저는 학생이 아니에요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeoneun haksaengi anieyo",
+    "en": "jeoneun haksaengi anieyo"
+   },
+   "meaning": {
+    "de": "Ich bin kein(e) Student(in).",
+    "en": "I'm not a student."
+   },
+   "parts": [
+    "저는",
+    "학생이",
+    "아니에요"
+   ],
+   "extraParts": [
+    "학생가"
+   ],
+   "audio": "audio/s4-s-not-student.mp3"
+  },
+  {
+   "id": "s4-s-not-my-bag",
+   "hangul": "이거는 제 가방이 아니에요",
+   "type": "sentence",
+   "sound": {
+    "de": "igeoneun je gabangi anieyo",
+    "en": "igeoneun je gabangi anieyo"
+   },
+   "meaning": {
+    "de": "Das ist nicht meine Tasche.",
+    "en": "This isn't my bag."
+   },
+   "parts": [
+    "이거는",
+    "제",
+    "가방이",
+    "아니에요"
+   ],
+   "extraParts": [
+    "가방가"
+   ],
+   "audio": "audio/s4-s-not-my-bag.mp3"
+  },
+  {
+   "id": "s4-s-not-eat-meat",
+   "hangul": "저는 고기를 안 먹어요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeoneun gogireul an meogeoyo",
+    "en": "jeoneun gogireul an meogeoyo"
+   },
+   "meaning": {
+    "de": "Ich esse kein Fleisch.",
+    "en": "I don't eat meat."
+   },
+   "parts": [
+    "저는",
+    "고기를",
+    "안",
+    "먹어요"
+   ],
+   "extraParts": [
+    "고기가"
+   ],
+   "audio": "audio/s4-s-not-eat-meat.mp3"
+  },
+  {
+   "id": "s4-s-kimchi-not-spicy",
+   "hangul": "김치가 안 매워요",
+   "type": "sentence",
+   "sound": {
+    "de": "gimchiga an maewoyo",
+    "en": "gimchiga an maewoyo"
+   },
+   "meaning": {
+    "de": "Das Kimchi ist nicht scharf.",
+    "en": "The kimchi isn't spicy."
+   },
+   "parts": [
+    "김치가",
+    "안",
+    "매워요"
+   ],
+   "extraParts": [
+    "김치를"
+   ],
+   "audio": "audio/s4-s-kimchi-not-spicy.mp3"
+  },
+  {
+   "id": "s4-s-station-not-far",
+   "hangul": "역이 안 멀어요",
+   "type": "sentence",
+   "sound": {
+    "de": "yeogi an meoreoyo",
+    "en": "yeogi an meoreoyo"
+   },
+   "meaning": {
+    "de": "Der Bahnhof ist nicht weit.",
+    "en": "The station isn't far."
+   },
+   "parts": [
+    "역이",
+    "안",
+    "멀어요"
+   ],
+   "extraParts": [
+    "역가"
+   ],
+   "audio": "audio/s4-s-station-not-far.mp3"
+  },
+  {
+   "id": "s4-s-no-study-today",
+   "hangul": "오늘은 공부 안 해요",
+   "type": "sentence",
+   "sound": {
+    "de": "oneureun gongbu an haeyo",
+    "en": "oneureun gongbu an haeyo"
+   },
+   "meaning": {
+    "de": "Heute lerne ich nicht.",
+    "en": "I'm not studying today."
+   },
+   "note": {
+    "de": "안 해요 klingt verbunden: [아내요].",
+    "en": "안 해요 runs together: [아내요]."
+   },
+   "parts": [
+    "오늘은",
+    "공부",
+    "안",
+    "해요"
+   ],
+   "extraParts": [
+    "오늘는"
+   ],
+   "audio": "audio/s4-s-no-study-today.mp3"
+  },
+  {
+   "id": "s4-s-subway-not-expensive",
+   "hangul": "지하철이 안 비싸요",
+   "type": "sentence",
+   "sound": {
+    "de": "jihacheori an bissayo",
+    "en": "jihacheori an bissayo"
+   },
+   "meaning": {
+    "de": "Die U-Bahn ist nicht teuer.",
+    "en": "The subway isn't expensive."
+   },
+   "parts": [
+    "지하철이",
+    "안",
+    "비싸요"
+   ],
+   "extraParts": [
+    "지하철을"
+   ],
+   "audio": "audio/s4-s-subway-not-expensive.mp3"
+  },
+  {
+   "id": "s4-s-korean-not-easy",
+   "hangul": "한국어는 안 쉬워요",
+   "type": "sentence",
+   "sound": {
+    "de": "hangugeoneun an swiwoyo",
+    "en": "hangugeoneun an swiwoyo"
+   },
+   "meaning": {
+    "de": "Koreanisch ist nicht leicht.",
+    "en": "Korean isn't easy."
+   },
+   "parts": [
+    "한국어는",
+    "안",
+    "쉬워요"
+   ],
+   "extraParts": [
+    "한국어은"
+   ],
+   "audio": "audio/s4-s-korean-not-easy.mp3"
+  }
+ ]
+}

@@ -1,0 +1,414 @@
+{
+ "id": "s4-l6",
+ "stage": 4,
+ "lesson": 6,
+ "title": {
+  "de": "Das Objekt: 을/를",
+  "en": "The object: 을/를"
+ },
+ "intro": {
+  "de": "을/를 markiert das Objekt, also das, was gegessen, gekauft oder gesehen wird. Nach Konsonant steht 을, nach Vokal 를: 책을, 커피를.\nDie Reihenfolge ist: wer – was – Verb. 저는 커피를 마셔요 = Ich trinke Kaffee.\nIm Gespräch fällt 을/를 oft weg. Zum Lernen schreibst du es aber mit.",
+  "en": "을/를 marks the object: the thing being eaten, bought or seen. Use 을 after a consonant and 를 after a vowel: 책을, 커피를.\nThe order is: who – what – verb. 저는 커피를 마셔요 = I drink coffee.\nIn conversation 을/를 is often dropped, but while learning, keep it in."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "build-sentence"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-w-read",
+   "hangul": "읽어요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "ilgeoyo",
+    "en": "ilgeoyo"
+   },
+   "meaning": {
+    "de": "lesen",
+    "en": "to read"
+   },
+   "mnemonic": {
+    "de": "Ein Igel liest im Laub: „ilgeo“.",
+    "en": "\"Eel, go!\" – an eel reading a book."
+   },
+   "note": {
+    "de": "Grundform 읽다. Vom Doppelkonsonanten hörst du hier beide: ilgeoyo.",
+    "en": "Dictionary form 읽다. Here you hear both final consonants: ilgeoyo."
+   },
+   "audio": "audio/s4-w-read.mp3"
+  },
+  {
+   "id": "s4-w-listen",
+   "hangul": "들어요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "deureoyo",
+    "en": "deureoyo"
+   },
+   "meaning": {
+    "de": "hören",
+    "en": "to listen, to hear"
+   },
+   "mnemonic": {
+    "de": "Musik dröhnt: „deureo“.",
+    "en": "Music through the door: \"deureo\"."
+   },
+   "note": {
+    "de": "Grundform 듣다. Unregelmäßig: ㄷ wird zu ㄹ.",
+    "en": "Dictionary form 듣다. Irregular: ㄷ becomes ㄹ."
+   },
+   "audio": "audio/s4-w-listen.mp3"
+  },
+  {
+   "id": "s4-w-learn",
+   "hangul": "배워요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "baewoyo",
+    "en": "baewoyo"
+   },
+   "meaning": {
+    "de": "lernen (eine Fähigkeit)",
+    "en": "to learn (a skill)"
+   },
+   "mnemonic": {
+    "de": "Baewo: Ein Baby lernt laufen.",
+    "en": "Baewo: a baby learning to walk."
+   },
+   "note": {
+    "de": "Grundform 배우다. 우 + 어 → 워.",
+    "en": "Dictionary form 배우다. 우 + 어 → 워."
+   },
+   "audio": "audio/s4-w-learn.mp3"
+  },
+  {
+   "id": "s4-w-look-for",
+   "hangul": "찾아요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "chajayo",
+    "en": "chajayo"
+   },
+   "meaning": {
+    "de": "suchen; finden; abheben",
+    "en": "to look for; to find"
+   },
+   "mnemonic": {
+    "de": "„Tscha, tscha, wo ist es?“ – suchen.",
+    "en": "\"Cha-cha\" around the room looking for it."
+   },
+   "note": {
+    "de": "Grundform 찾다.",
+    "en": "Dictionary form 찾다."
+   },
+   "audio": "audio/s4-w-look-for.mp3"
+  },
+  {
+   "id": "s4-w-take-photo",
+   "hangul": "찍어요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "jjigeoyo",
+    "en": "jjigeoyo"
+   },
+   "meaning": {
+    "de": "fotografieren",
+    "en": "to take (a photo)"
+   },
+   "mnemonic": {
+    "de": "Das Klicken der Kamera: „ttschik!“",
+    "en": "The camera click: \"jjik!\""
+   },
+   "note": {
+    "de": "Grundform 찍다. 사진을 찍어요 = ein Foto machen.",
+    "en": "Dictionary form 찍다. 사진을 찍어요 = to take a photo."
+   },
+   "audio": "audio/s4-w-take-photo.mp3"
+  },
+  {
+   "id": "s4-w-write",
+   "hangul": "써요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "sseoyo",
+    "en": "sseoyo"
+   },
+   "meaning": {
+    "de": "schreiben; benutzen",
+    "en": "to write; to use"
+   },
+   "mnemonic": {
+    "de": "Der Stift kratzt: „sseo“.",
+    "en": "The pen scratches: \"sseo\"."
+   },
+   "note": {
+    "de": "Grundform 쓰다. Das ㅡ fällt weg.",
+    "en": "Dictionary form 쓰다. The ㅡ drops."
+   },
+   "audio": "audio/s4-w-write.mp3"
+  },
+  {
+   "id": "s4-w-movie",
+   "hangul": "영화",
+   "type": "word",
+   "topic": "leisure",
+   "sound": {
+    "de": "yeonghwa",
+    "en": "yeonghwa"
+   },
+   "meaning": {
+    "de": "Film",
+    "en": "movie"
+   },
+   "mnemonic": {
+    "de": "Im Kino macht jeder „hwa!“ bei der großen Szene.",
+    "en": "Everyone in the cinema goes \"hwah!\" at the big scene."
+   },
+   "audio": "audio/s4-w-movie.mp3"
+  },
+  {
+   "id": "s4-w-map",
+   "hangul": "지도",
+   "type": "word",
+   "topic": "travel",
+   "sound": {
+    "de": "jido",
+    "en": "jido"
+   },
+   "meaning": {
+    "de": "Landkarte, Stadtplan",
+    "en": "map"
+   },
+   "mnemonic": {
+    "de": "Dschi-do: „Geh da so“ – zeigt die Karte.",
+    "en": "Jee-doh: \"Gee, go that way\", says the map."
+   },
+   "audio": "audio/s4-w-map.mp3"
+  },
+  {
+   "id": "s4-w-gift",
+   "hangul": "선물",
+   "type": "word",
+   "topic": "things",
+   "sound": {
+    "de": "seonmul",
+    "en": "seonmul"
+   },
+   "meaning": {
+    "de": "Geschenk",
+    "en": "gift, present"
+   },
+   "mnemonic": {
+    "de": "Ein Geschenk für den Sohn: „seon“.",
+    "en": "A present for your son: \"seon\"."
+   },
+   "audio": "audio/s4-w-gift.mp3"
+  },
+  {
+   "id": "s4-w-photo",
+   "hangul": "사진",
+   "type": "word",
+   "topic": "things",
+   "sound": {
+    "de": "sajin",
+    "en": "sajin"
+   },
+   "meaning": {
+    "de": "Foto",
+    "en": "photo"
+   },
+   "mnemonic": {
+    "de": "„Sag Dschin!“ statt „Cheese“.",
+    "en": "\"Say jeen!\" instead of \"cheese\"."
+   },
+   "audio": "audio/s4-w-photo.mp3"
+  },
+  {
+   "id": "s4-s-i-drink-coffee",
+   "hangul": "저는 커피를 마셔요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeoneun keopireul masyeoyo",
+    "en": "jeoneun keopireul masyeoyo"
+   },
+   "meaning": {
+    "de": "Ich trinke Kaffee.",
+    "en": "I drink coffee."
+   },
+   "note": {
+    "de": "커피 endet auf Vokal, also 를.",
+    "en": "커피 ends in a vowel, so 를."
+   },
+   "parts": [
+    "저는",
+    "커피를",
+    "마셔요"
+   ],
+   "extraParts": [
+    "커피을"
+   ],
+   "audio": "audio/s4-s-i-drink-coffee.mp3"
+  },
+  {
+   "id": "s4-s-friend-reads-book",
+   "hangul": "친구가 책을 읽어요",
+   "type": "sentence",
+   "sound": {
+    "de": "chinguga chaegeul ilgeoyo",
+    "en": "chinguga chaegeul ilgeoyo"
+   },
+   "meaning": {
+    "de": "Mein Freund / meine Freundin liest ein Buch.",
+    "en": "My friend is reading a book."
+   },
+   "parts": [
+    "친구가",
+    "책을",
+    "읽어요"
+   ],
+   "extraParts": [
+    "책를"
+   ],
+   "audio": "audio/s4-s-friend-reads-book.mp3"
+  },
+  {
+   "id": "s4-s-we-watch-movie",
+   "hangul": "우리는 영화를 봐요",
+   "type": "sentence",
+   "sound": {
+    "de": "urineun yeonghwareul bwayo",
+    "en": "urineun yeonghwareul bwayo"
+   },
+   "meaning": {
+    "de": "Wir sehen einen Film.",
+    "en": "We are watching a movie."
+   },
+   "parts": [
+    "우리는",
+    "영화를",
+    "봐요"
+   ],
+   "extraParts": [
+    "영화을"
+   ],
+   "audio": "audio/s4-s-we-watch-movie.mp3"
+  },
+  {
+   "id": "s4-s-i-listen-music",
+   "hangul": "저는 음악을 들어요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeoneun eumageul deureoyo",
+    "en": "jeoneun eumageul deureoyo"
+   },
+   "meaning": {
+    "de": "Ich höre Musik.",
+    "en": "I listen to music."
+   },
+   "parts": [
+    "저는",
+    "음악을",
+    "들어요"
+   ],
+   "extraParts": [
+    "음악를"
+   ],
+   "audio": "audio/s4-s-i-listen-music.mp3"
+  },
+  {
+   "id": "s4-s-look-for-map",
+   "hangul": "지도를 찾아요",
+   "type": "sentence",
+   "sound": {
+    "de": "jidoreul chajayo",
+    "en": "jidoreul chajayo"
+   },
+   "meaning": {
+    "de": "Ich suche die Karte.",
+    "en": "I'm looking for the map."
+   },
+   "parts": [
+    "지도를",
+    "찾아요"
+   ],
+   "extraParts": [
+    "지도가"
+   ],
+   "audio": "audio/s4-s-look-for-map.mp3"
+  },
+  {
+   "id": "s4-s-take-photo",
+   "hangul": "사진을 찍어요",
+   "type": "sentence",
+   "sound": {
+    "de": "sajineul jjigeoyo",
+    "en": "sajineul jjigeoyo"
+   },
+   "meaning": {
+    "de": "Ich mache ein Foto.",
+    "en": "I'm taking a photo."
+   },
+   "parts": [
+    "사진을",
+    "찍어요"
+   ],
+   "extraParts": [
+    "사진를"
+   ],
+   "audio": "audio/s4-s-take-photo.mp3"
+  },
+  {
+   "id": "s4-s-learn-korean",
+   "hangul": "저는 한국어를 배워요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeoneun hangugeoreul baewoyo",
+    "en": "jeoneun hangugeoreul baewoyo"
+   },
+   "meaning": {
+    "de": "Ich lerne Koreanisch.",
+    "en": "I'm learning Korean."
+   },
+   "parts": [
+    "저는",
+    "한국어를",
+    "배워요"
+   ],
+   "extraParts": [
+    "한국어을"
+   ],
+   "audio": "audio/s4-s-learn-korean.mp3"
+  },
+  {
+   "id": "s4-s-write-name",
+   "hangul": "이름을 써요",
+   "type": "sentence",
+   "sound": {
+    "de": "ireumeul sseoyo",
+    "en": "ireumeul sseoyo"
+   },
+   "meaning": {
+    "de": "Ich schreibe meinen Namen.",
+    "en": "I write my name."
+   },
+   "parts": [
+    "이름을",
+    "써요"
+   ],
+   "extraParts": [
+    "이름를"
+   ],
+   "audio": "audio/s4-s-write-name.mp3"
+  }
+ ]
+}

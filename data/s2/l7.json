@@ -1,0 +1,218 @@
+{
+ "id": "s2-l7",
+ "stage": 2,
+ "lesson": 7,
+ "title": {
+  "de": "Wörter mit Batchim",
+  "en": "Words with batchim"
+ },
+ "exercises": [
+  "see-sound",
+  "see-meaning",
+  "hear-meaning",
+  "pick-hangul"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s2-w-hanguk",
+   "hangul": "한국",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "hanguk",
+    "en": "hanguk"
+   },
+   "meaning": {
+    "de": "Korea",
+    "en": "Korea"
+   },
+   "mnemonic": {
+    "de": "Zwei Batchim: n und k. Das Land, um das sich hier alles dreht.",
+    "en": "Two batchim: n and k. The country this whole course is about."
+   },
+   "audio": "audio/s2-w-hanguk.mp3"
+  },
+  {
+   "id": "s2-w-saram",
+   "hangul": "사람",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "saram",
+    "en": "saram"
+   },
+   "meaning": {
+    "de": "Mensch, Person",
+    "en": "person"
+   },
+   "mnemonic": {
+    "de": "Ein Mensch steht stabil auf seinem ㅁ wie auf einem Sockel.",
+    "en": "A person stands firmly on the ㅁ like on a box."
+   },
+   "audio": "audio/s2-w-saram.mp3"
+  },
+  {
+   "id": "s2-w-mul",
+   "hangul": "물",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "mul",
+    "en": "mul"
+   },
+   "meaning": {
+    "de": "Wasser",
+    "en": "water"
+   },
+   "mnemonic": {
+    "de": "Mul klingt fast wie „Mulde“, und in der Mulde sammelt sich Wasser.",
+    "en": "Think \"mool\" like a cool pool of water."
+   },
+   "audio": "audio/s2-w-mul.mp3"
+  },
+  {
+   "id": "s2-w-bap",
+   "hangul": "밥",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "bap",
+    "en": "bap"
+   },
+   "meaning": {
+    "de": "gekochter Reis, Essen",
+    "en": "cooked rice, meal"
+   },
+   "mnemonic": {
+    "de": "Ein kurzes „bap“ wie ein Löffel, der in die Reisschüssel klopft.",
+    "en": "A short \"bahp\", like a spoon tapping a rice bowl."
+   },
+   "note": {
+    "de": "밥 steht auch allgemein für eine Mahlzeit.",
+    "en": "밥 can also mean a meal in general."
+   },
+   "audio": "audio/s2-w-bap.mp3"
+  },
+  {
+   "id": "s2-w-chaek",
+   "hangul": "책",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "chaek",
+    "en": "chaek"
+   },
+   "meaning": {
+    "de": "Buch",
+    "en": "book"
+   },
+   "mnemonic": {
+    "de": "„Tschäk!“ macht es, wenn man ein Buch zuklappt.",
+    "en": "\"Chaek!\" is the snap of a book closing."
+   },
+   "audio": "audio/s2-w-chaek.mp3"
+  },
+  {
+   "id": "s2-w-jip",
+   "hangul": "집",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "jip",
+    "en": "jip"
+   },
+   "meaning": {
+    "de": "Haus, Zuhause",
+    "en": "house, home"
+   },
+   "mnemonic": {
+    "de": "Mit dem Jeep fährst du nach Hause.",
+    "en": "You drive your jeep home."
+   },
+   "audio": "audio/s2-w-jip.mp3"
+  },
+  {
+   "id": "s2-w-don",
+   "hangul": "돈",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "don",
+    "en": "don"
+   },
+   "meaning": {
+    "de": "Geld",
+    "en": "money"
+   },
+   "mnemonic": {
+    "de": "Ein Don hat immer Geld in der Tasche.",
+    "en": "\"Don't\" spend all your money: dohn."
+   },
+   "audio": "audio/s2-w-don.mp3"
+  },
+  {
+   "id": "s2-w-ireum",
+   "hangul": "이름",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "ireum",
+    "en": "ireum"
+   },
+   "meaning": {
+    "de": "Name",
+    "en": "name"
+   },
+   "mnemonic": {
+    "de": "Dein Name steht auf dem Schild an der Tür, unter ireum.",
+    "en": "Your name hangs on your room's door: ireum, \"ee room\"."
+   },
+   "audio": "audio/s2-w-ireum.mp3"
+  },
+  {
+   "id": "s2-w-gabang",
+   "hangul": "가방",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "gabang",
+    "en": "gabang"
+   },
+   "meaning": {
+    "de": "Tasche",
+    "en": "bag"
+   },
+   "mnemonic": {
+    "de": "Die volle Tasche fällt runter: „Bang!“",
+    "en": "Your heavy bag drops with a \"bang\"."
+   },
+   "audio": "audio/s2-w-gabang.mp3"
+  },
+  {
+   "id": "s2-w-chingu",
+   "hangul": "친구",
+   "type": "word",
+   "topic": "basics",
+   "sound": {
+    "de": "chingu",
+    "en": "chingu"
+   },
+   "meaning": {
+    "de": "Freund, Freundin",
+    "en": "friend"
+   },
+   "mnemonic": {
+    "de": "Mit Freunden stößt man an: „Tschin tschin!“",
+    "en": "Friends clink glasses: \"chin-chin!\""
+   },
+   "note": {
+    "de": "Gilt für Freunde gleich welchen Geschlechts.",
+    "en": "Used for friends of any gender."
+   },
+   "audio": "audio/s2-w-chingu.mp3"
+  }
+ ]
+}

@@ -1,0 +1,379 @@
+{
+ "id": "s4-l12",
+ "stage": 4,
+ "lesson": 12,
+ "title": {
+  "de": "Restaurant",
+  "en": "Restaurant"
+ },
+ "intro": {
+  "de": "Im Restaurant kommt alles mit 주세요 („bitte geben Sie mir“): 메뉴 주세요, 물 주세요.\nBeilagen (반찬) gibt es meist kostenlos und auch zum Nachfüllen. Bezahlt wird oft vorne an der Kasse.",
+  "en": "In a restaurant, everything goes with 주세요 (\"please give me\"): 메뉴 주세요, 물 주세요.\nSide dishes (반찬) are usually free, with refills. You often pay at the counter by the door."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "build-sentence"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-w-order",
+   "hangul": "주문해요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "jumunhaeyo",
+    "en": "jumunhaeyo"
+   },
+   "meaning": {
+    "de": "bestellen",
+    "en": "to order"
+   },
+   "mnemonic": {
+    "de": "주문 ist die Bestellung, 해요 macht ein Verb daraus.",
+    "en": "주문 is the order, 해요 makes it a verb."
+   },
+   "note": {
+    "de": "Grundform 주문하다.",
+    "en": "Dictionary form 주문하다."
+   },
+   "audio": "audio/s4-w-order.mp3"
+  },
+  {
+   "id": "s4-w-pay",
+   "hangul": "계산해요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "gyesanhaeyo",
+    "en": "gyesanhaeyo"
+   },
+   "meaning": {
+    "de": "bezahlen, abrechnen",
+    "en": "to pay (the bill)"
+   },
+   "mnemonic": {
+    "de": "계산 heißt rechnen: Die Rechnung wird gemacht.",
+    "en": "계산 means calculating: settling the bill."
+   },
+   "note": {
+    "de": "Grundform 계산하다. 계 klingt wie ge.",
+    "en": "Dictionary form 계산하다. 계 sounds like geh."
+   },
+   "audio": "audio/s4-w-pay.mp3"
+  },
+  {
+   "id": "s4-w-receipt",
+   "hangul": "영수증",
+   "type": "word",
+   "topic": "restaurant",
+   "sound": {
+    "de": "yeongsujeung",
+    "en": "yeongsujeung"
+   },
+   "meaning": {
+    "de": "Quittung, Beleg",
+    "en": "receipt"
+   },
+   "mnemonic": {
+    "de": "Der Zettel mit dem „Zeug“ (jeung), das du gekauft hast.",
+    "en": "The slip that shows what you bought: \"jeung\"."
+   },
+   "audio": "audio/s4-w-receipt.mp3"
+  },
+  {
+   "id": "s4-w-spoon",
+   "hangul": "숟가락",
+   "type": "word",
+   "topic": "restaurant",
+   "sound": {
+    "de": "sutgarak",
+    "en": "sutgarak"
+   },
+   "meaning": {
+    "de": "Löffel",
+    "en": "spoon"
+   },
+   "mnemonic": {
+    "de": "숟 ist der Löffel, 가락 ein dünnes Stück.",
+    "en": "숟 is spoon, 가락 a thin piece."
+   },
+   "note": {
+    "de": "Gesprochen [숟까락].",
+    "en": "Said [숟까락]."
+   },
+   "audio": "audio/s4-w-spoon.mp3"
+  },
+  {
+   "id": "s4-w-chopsticks",
+   "hangul": "젓가락",
+   "type": "word",
+   "topic": "restaurant",
+   "sound": {
+    "de": "jeotgarak",
+    "en": "jeotgarak"
+   },
+   "meaning": {
+    "de": "Essstäbchen",
+    "en": "chopsticks"
+   },
+   "mnemonic": {
+    "de": "Klingt fast wie 숟가락: Löffel und Stäbchen sind ein Paar.",
+    "en": "Sounds like 숟가락: spoon and chopsticks are a pair."
+   },
+   "audio": "audio/s4-w-chopsticks.mp3"
+  },
+  {
+   "id": "s4-w-small-plate",
+   "hangul": "앞접시",
+   "type": "word",
+   "topic": "restaurant",
+   "sound": {
+    "de": "apjeopsi",
+    "en": "apjeopsi"
+   },
+   "meaning": {
+    "de": "kleiner Teller (zum Teilen)",
+    "en": "small plate (for sharing)"
+   },
+   "mnemonic": {
+    "de": "앞 heißt vorn: der kleine Teller vor dir.",
+    "en": "앞 means front: the little plate in front of you."
+   },
+   "note": {
+    "de": "Für geteilte Gerichte in der Mitte.",
+    "en": "For shared dishes in the middle."
+   },
+   "audio": "audio/s4-w-small-plate.mp3",
+   "verify": true,
+   "verifyNote": "Aussprache prüfen: ap-ttschòp-ssi (gespanntes ㅈ und ㅅ)"
+  },
+  {
+   "id": "s4-w-takeout",
+   "hangul": "포장",
+   "type": "word",
+   "topic": "restaurant",
+   "sound": {
+    "de": "pojang",
+    "en": "pojang"
+   },
+   "meaning": {
+    "de": "zum Mitnehmen; Verpackung",
+    "en": "takeout; wrapping"
+   },
+   "mnemonic": {
+    "de": "Alles wird eingepackt: 포장.",
+    "en": "Everything gets packed up: 포장."
+   },
+   "note": {
+    "de": "포장해 주세요 = bitte zum Mitnehmen.",
+    "en": "포장해 주세요 = to go, please."
+   },
+   "audio": "audio/s4-w-takeout.mp3"
+  },
+  {
+   "id": "s4-w-recommend",
+   "hangul": "추천해요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "chucheonhaeyo",
+    "en": "chucheonhaeyo"
+   },
+   "meaning": {
+    "de": "empfehlen",
+    "en": "to recommend"
+   },
+   "mnemonic": {
+    "de": "„Chucheon“: Der Kellner tippt auf das beste Gericht.",
+    "en": "\"Chucheon\": the waiter taps the best dish."
+   },
+   "note": {
+    "de": "Grundform 추천하다.",
+    "en": "Dictionary form 추천하다."
+   },
+   "audio": "audio/s4-w-recommend.mp3"
+  },
+  {
+   "id": "s4-w-side-dishes",
+   "hangul": "반찬",
+   "type": "word",
+   "topic": "restaurant",
+   "sound": {
+    "de": "banchan",
+    "en": "banchan"
+   },
+   "meaning": {
+    "de": "Beilagen",
+    "en": "side dishes"
+   },
+   "mnemonic": {
+    "de": "Die vielen kleinen Schälchen neben dem Reis.",
+    "en": "All the little bowls next to your rice."
+   },
+   "note": {
+    "de": "Meist kostenlos, Nachschlag auch.",
+    "en": "Usually free, refills too."
+   },
+   "audio": "audio/s4-w-side-dishes.mp3"
+  },
+  {
+   "id": "s4-w-more",
+   "hangul": "더",
+   "type": "word",
+   "topic": "restaurant",
+   "sound": {
+    "de": "deo",
+    "en": "deo"
+   },
+   "meaning": {
+    "de": "mehr, noch",
+    "en": "more"
+   },
+   "mnemonic": {
+    "de": "„Deo, bitte!“ – noch mehr davon.",
+    "en": "\"Duh, more!\" – of course I want more."
+   },
+   "note": {
+    "de": "Vor Verb: 더 주세요 = bitte mehr.",
+    "en": "Before a verb: 더 주세요 = more, please."
+   },
+   "audio": "audio/s4-w-more.mp3"
+  },
+  {
+   "id": "s4-w-portion",
+   "hangul": "인분",
+   "type": "word",
+   "topic": "restaurant",
+   "sound": {
+    "de": "inbun",
+    "en": "inbun"
+   },
+   "meaning": {
+    "de": "Portion (pro Person)",
+    "en": "portion (per person)"
+   },
+   "mnemonic": {
+    "de": "Beim Grillen: 2인분 = für zwei Personen.",
+    "en": "At Korean BBQ: 2인분 = for two people."
+   },
+   "audio": "audio/s4-w-portion.mp3"
+  },
+  {
+   "id": "s4-s-menu-please",
+   "hangul": "메뉴 주세요",
+   "type": "sentence",
+   "topic": "restaurant",
+   "sound": {
+    "de": "menyu juseyo",
+    "en": "menyu juseyo"
+   },
+   "meaning": {
+    "de": "Die Speisekarte, bitte.",
+    "en": "The menu, please."
+   },
+   "parts": [
+    "메뉴",
+    "주세요"
+   ],
+   "extraParts": [
+    "메뉴가"
+   ],
+   "audio": "audio/s4-s-menu-please.mp3"
+  },
+  {
+   "id": "s4-s-more-side-dishes",
+   "hangul": "반찬 더 주세요",
+   "type": "sentence",
+   "topic": "restaurant",
+   "sound": {
+    "de": "banchan deo juseyo",
+    "en": "banchan deo juseyo"
+   },
+   "meaning": {
+    "de": "Bitte noch Beilagen.",
+    "en": "More side dishes, please."
+   },
+   "parts": [
+    "반찬",
+    "더",
+    "주세요"
+   ],
+   "extraParts": [
+    "반찬이"
+   ],
+   "audio": "audio/s4-s-more-side-dishes.mp3"
+  },
+  {
+   "id": "s4-s-bulgogi-two",
+   "hangul": "불고기 2인분 주세요",
+   "type": "sentence",
+   "topic": "restaurant",
+   "sound": {
+    "de": "bulgogi iinbun juseyo",
+    "en": "bulgogi iinbun juseyo"
+   },
+   "meaning": {
+    "de": "Bulgogi für zwei Personen, bitte.",
+    "en": "Bulgogi for two, please."
+   },
+   "parts": [
+    "불고기",
+    "2인분",
+    "주세요"
+   ],
+   "extraParts": [
+    "불고기가"
+   ],
+   "audio": "audio/s4-s-bulgogi-two.mp3"
+  },
+  {
+   "id": "s4-s-pay-here",
+   "hangul": "여기서 계산해요?",
+   "type": "sentence",
+   "topic": "restaurant",
+   "sound": {
+    "de": "yeogiseo gyesanhaeyo?",
+    "en": "yeogiseo gyesanhaeyo?"
+   },
+   "meaning": {
+    "de": "Bezahlt man hier?",
+    "en": "Do I pay here?"
+   },
+   "parts": [
+    "여기서",
+    "계산해요?"
+   ],
+   "extraParts": [
+    "여기를"
+   ],
+   "audio": "audio/s4-s-pay-here.mp3"
+  },
+  {
+   "id": "s4-s-receipt-please",
+   "hangul": "영수증 주세요",
+   "type": "sentence",
+   "topic": "restaurant",
+   "sound": {
+    "de": "yeongsujeung juseyo",
+    "en": "yeongsujeung juseyo"
+   },
+   "meaning": {
+    "de": "Die Quittung, bitte.",
+    "en": "The receipt, please."
+   },
+   "parts": [
+    "영수증",
+    "주세요"
+   ],
+   "extraParts": [
+    "영수증이"
+   ],
+   "audio": "audio/s4-s-receipt-please.mp3"
+  }
+ ]
+}

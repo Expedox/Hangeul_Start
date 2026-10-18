@@ -1,0 +1,245 @@
+{
+ "id": "s3-l12",
+ "stage": 3,
+ "lesson": 12,
+ "title": {
+  "de": "Farben",
+  "en": "Colours"
+ },
+ "intro": {
+  "de": "Viele Farbwörter enden auf 색 (Farbe). Nach ㄱ oder ㄹ wird das ㅅ oft gespannt: 초록색 [초록쌕].",
+  "en": "Many colour words end in 색 (colour). After ㄱ or ㄹ the ㅅ often becomes tense: 초록색 [초록쌕]."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "see-sound"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s3-w-saek",
+   "hangul": "색",
+   "type": "word",
+   "topic": "colors",
+   "sound": {
+    "de": "saek",
+    "en": "saek"
+   },
+   "meaning": {
+    "de": "Farbe",
+    "en": "colour"
+   },
+   "mnemonic": {
+    "de": "Ein Sack voller Farben.",
+    "en": "A sack full of colours."
+   },
+   "note": {
+    "de": "Auch 색깔.",
+    "en": "Also 색깔."
+   },
+   "audio": "audio/s3-w-saek.mp3"
+  },
+  {
+   "id": "s3-w-ppalgansaek",
+   "hangul": "빨간색",
+   "type": "word",
+   "topic": "colors",
+   "sound": {
+    "de": "ppalgansaek",
+    "en": "ppalgansaek"
+   },
+   "meaning": {
+    "de": "Rot",
+    "en": "red"
+   },
+   "mnemonic": {
+    "de": "Kräftiges „pp“ für eine kräftige Farbe.",
+    "en": "A strong \"pp\" for a strong colour."
+   },
+   "audio": "audio/s3-w-ppalgansaek.mp3"
+  },
+  {
+   "id": "s3-w-paransaek",
+   "hangul": "파란색",
+   "type": "word",
+   "topic": "colors",
+   "sound": {
+    "de": "paransaek",
+    "en": "paransaek"
+   },
+   "meaning": {
+    "de": "Blau",
+    "en": "blue"
+   },
+   "mnemonic": {
+    "de": "Ein Paravent in Himmelblau.",
+    "en": "A blue parasol: \"paran\"."
+   },
+   "audio": "audio/s3-w-paransaek.mp3"
+  },
+  {
+   "id": "s3-w-noransaek",
+   "hangul": "노란색",
+   "type": "word",
+   "topic": "colors",
+   "sound": {
+    "de": "noransaek",
+    "en": "noransaek"
+   },
+   "meaning": {
+    "de": "Gelb",
+    "en": "yellow"
+   },
+   "mnemonic": {
+    "de": "Gelbe Noten auf dem Rand.",
+    "en": "A yellow note: \"noran\"."
+   },
+   "audio": "audio/s3-w-noransaek.mp3"
+  },
+  {
+   "id": "s3-w-choroksaek",
+   "hangul": "초록색",
+   "type": "word",
+   "topic": "colors",
+   "sound": {
+    "de": "choroksaek",
+    "en": "choroksaek"
+   },
+   "meaning": {
+    "de": "Grün",
+    "en": "green"
+   },
+   "note": {
+    "de": "Gesprochen [초록쌕].",
+    "en": "Pronounced [초록쌕]."
+   },
+   "audio": "audio/s3-w-choroksaek.mp3"
+  },
+  {
+   "id": "s3-w-geomeunsaek",
+   "hangul": "검은색",
+   "type": "word",
+   "topic": "colors",
+   "sound": {
+    "de": "geomeunsaek",
+    "en": "geomeunsaek"
+   },
+   "meaning": {
+    "de": "Schwarz",
+    "en": "black"
+   },
+   "mnemonic": {
+    "de": "Auch 검정색.",
+    "en": "Also 검정색."
+   },
+   "note": {
+    "de": "Gesprochen [거믄색].",
+    "en": "Pronounced [거믄색]."
+   },
+   "audio": "audio/s3-w-geomeunsaek.mp3"
+  },
+  {
+   "id": "s3-w-huinsaek",
+   "hangul": "흰색",
+   "type": "word",
+   "topic": "colors",
+   "sound": {
+    "de": "huinsaek",
+    "en": "huinsaek"
+   },
+   "meaning": {
+    "de": "Weiß",
+    "en": "white"
+   },
+   "mnemonic": {
+    "de": "Auch 하얀색.",
+    "en": "Also 하얀색."
+   },
+   "note": {
+    "de": "ㅢ nach Konsonant klingt wie ㅣ: [힌색].",
+    "en": "ㅢ after a consonant sounds like ㅣ: [힌색]."
+   },
+   "audio": "audio/s3-w-huinsaek.mp3"
+  },
+  {
+   "id": "s3-w-hoesaek",
+   "hangul": "회색",
+   "type": "word",
+   "topic": "colors",
+   "sound": {
+    "de": "hoesaek",
+    "en": "hoesaek"
+   },
+   "meaning": {
+    "de": "Grau",
+    "en": "grey"
+   },
+   "mnemonic": {
+    "de": "Grauer Himmel: „hwe“, wie ein Seufzer.",
+    "en": "A grey sky makes you go \"hweh\"."
+   },
+   "audio": "audio/s3-w-hoesaek.mp3"
+  },
+  {
+   "id": "s3-w-bunhongsaek",
+   "hangul": "분홍색",
+   "type": "word",
+   "topic": "colors",
+   "sound": {
+    "de": "bunhongsaek",
+    "en": "bunhongsaek"
+   },
+   "meaning": {
+    "de": "Rosa",
+    "en": "pink"
+   },
+   "note": {
+    "de": "Auch 핑크색 (aus dem Englischen).",
+    "en": "Also 핑크색 (from English)."
+   },
+   "audio": "audio/s3-w-bunhongsaek.mp3"
+  },
+  {
+   "id": "s3-w-borasaek",
+   "hangul": "보라색",
+   "type": "word",
+   "topic": "colors",
+   "sound": {
+    "de": "borasaek",
+    "en": "borasaek"
+   },
+   "meaning": {
+    "de": "Lila",
+    "en": "purple"
+   },
+   "mnemonic": {
+    "de": "Bora-Bora im lila Sonnenuntergang.",
+    "en": "A purple Bora Bora sunset."
+   },
+   "audio": "audio/s3-w-borasaek.mp3"
+  },
+  {
+   "id": "s3-w-galsaek",
+   "hangul": "갈색",
+   "type": "word",
+   "topic": "colors",
+   "sound": {
+    "de": "galsaek",
+    "en": "galsaek"
+   },
+   "meaning": {
+    "de": "Braun",
+    "en": "brown"
+   },
+   "note": {
+    "de": "Gesprochen [갈쌕].",
+    "en": "Pronounced [갈쌕]."
+   },
+   "audio": "audio/s3-w-galsaek.mp3"
+  }
+ ]
+}

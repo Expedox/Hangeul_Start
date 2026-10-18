@@ -1,0 +1,384 @@
+{
+ "id": "s4-l11",
+ "stage": 4,
+ "lesson": 11,
+ "title": {
+  "de": "Hotel",
+  "en": "Hotel"
+ },
+ "intro": {
+  "de": "Im Hotel brauchst du nur wenige Wörter: Reservierung, Zimmer, Schlüssel, Frühstück.\nDas Personal spricht sehr höflich, oft mit -세요. Du antwortest einfach mit -요.",
+  "en": "At a hotel you only need a few words: reservation, room, key, breakfast.\nStaff speak very politely, often with -세요. You can simply answer with -요."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "build-sentence"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-w-room",
+   "hangul": "방",
+   "type": "word",
+   "topic": "hotel",
+   "sound": {
+    "de": "bang",
+    "en": "bang"
+   },
+   "meaning": {
+    "de": "Zimmer",
+    "en": "room"
+   },
+   "mnemonic": {
+    "de": "„Bang!“ – die Zimmertür fällt zu.",
+    "en": "\"Bang!\" – the room door shuts."
+   },
+   "audio": "audio/s4-w-room.mp3"
+  },
+  {
+   "id": "s4-w-reservation",
+   "hangul": "예약",
+   "type": "word",
+   "topic": "hotel",
+   "sound": {
+    "de": "yeyak",
+    "en": "yeyak"
+   },
+   "meaning": {
+    "de": "Reservierung, Buchung",
+    "en": "reservation"
+   },
+   "mnemonic": {
+    "de": "„Je, ja!“ – Ja, ich habe gebucht.",
+    "en": "\"Yeh, yak\" – yes, I booked."
+   },
+   "note": {
+    "de": "Mit 이/가: 예약이 있어요.",
+    "en": "With 이/가: 예약이 있어요."
+   },
+   "audio": "audio/s4-w-reservation.mp3"
+  },
+  {
+   "id": "s4-w-check-in",
+   "hangul": "체크인",
+   "type": "word",
+   "topic": "hotel",
+   "sound": {
+    "de": "chekeuin",
+    "en": "chekeuin"
+   },
+   "meaning": {
+    "de": "Check-in",
+    "en": "check-in"
+   },
+   "mnemonic": {
+    "de": "Englisch, aber jede Silbe einzeln: 체·크·인, chekeuin.",
+    "en": "English, but every syllable separate: 체·크·인, chekeuin."
+   },
+   "audio": "audio/s4-w-check-in.mp3"
+  },
+  {
+   "id": "s4-w-check-out",
+   "hangul": "체크아웃",
+   "type": "word",
+   "topic": "hotel",
+   "sound": {
+    "de": "chekeuaut",
+    "en": "chekeuaut"
+   },
+   "meaning": {
+    "de": "Check-out",
+    "en": "check-out"
+   },
+   "mnemonic": {
+    "de": "Wie Check-in, nur mit „aut“ am Ende.",
+    "en": "Like check-in, ending in \"aut\"."
+   },
+   "audio": "audio/s4-w-check-out.mp3"
+  },
+  {
+   "id": "s4-w-key",
+   "hangul": "열쇠",
+   "type": "word",
+   "topic": "hotel",
+   "sound": {
+    "de": "yeolsoe",
+    "en": "yeolsoe"
+   },
+   "meaning": {
+    "de": "Schlüssel",
+    "en": "key"
+   },
+   "mnemonic": {
+    "de": "열 heißt öffnen: der Öffner.",
+    "en": "열 means open: the opener."
+   },
+   "note": {
+    "de": "Gesprochen mit gespanntem ss: [열쐬].",
+    "en": "Said with a tense ss: [열쐬]."
+   },
+   "audio": "audio/s4-w-key.mp3"
+  },
+  {
+   "id": "s4-w-towel",
+   "hangul": "수건",
+   "type": "word",
+   "topic": "hotel",
+   "sound": {
+    "de": "sugeon",
+    "en": "sugeon"
+   },
+   "meaning": {
+    "de": "Handtuch",
+    "en": "towel"
+   },
+   "mnemonic": {
+    "de": "수 ist Wasser: ein Tuch fürs Wasser.",
+    "en": "수 is water: a cloth for water."
+   },
+   "audio": "audio/s4-w-towel.mp3"
+  },
+  {
+   "id": "s4-w-bed",
+   "hangul": "침대",
+   "type": "word",
+   "topic": "hotel",
+   "sound": {
+    "de": "chimdae",
+    "en": "chimdae"
+   },
+   "meaning": {
+    "de": "Bett",
+    "en": "bed"
+   },
+   "mnemonic": {
+    "de": "„Tschim“ – man sinkt ins Bett.",
+    "en": "\"Cheem\" – sinking into bed."
+   },
+   "audio": "audio/s4-w-bed.mp3"
+  },
+  {
+   "id": "s4-w-breakfast",
+   "hangul": "조식",
+   "type": "word",
+   "topic": "hotel",
+   "sound": {
+    "de": "josik",
+    "en": "josik"
+   },
+   "meaning": {
+    "de": "Frühstück (im Hotel)",
+    "en": "breakfast (hotel)"
+   },
+   "mnemonic": {
+    "de": "Steht so auf Hotelschildern: 조식 = Frühstück.",
+    "en": "Hotel signs say 조식 = breakfast."
+   },
+   "note": {
+    "de": "Im Alltag sagt man eher 아침.",
+    "en": "In everyday talk people say 아침."
+   },
+   "audio": "audio/s4-w-breakfast.mp3"
+  },
+  {
+   "id": "s4-w-elevator",
+   "hangul": "엘리베이터",
+   "type": "word",
+   "topic": "hotel",
+   "sound": {
+    "de": "ellibeiteo",
+    "en": "ellibeiteo"
+   },
+   "meaning": {
+    "de": "Aufzug",
+    "en": "elevator"
+   },
+   "mnemonic": {
+    "de": "Das englische „elevator“, in fünf Silben.",
+    "en": "English \"elevator\", in five syllables."
+   },
+   "audio": "audio/s4-w-elevator.mp3"
+  },
+  {
+   "id": "s4-w-floor",
+   "hangul": "층",
+   "type": "word",
+   "topic": "hotel",
+   "sound": {
+    "de": "cheung",
+    "en": "cheung"
+   },
+   "meaning": {
+    "de": "Stockwerk, Etage",
+    "en": "floor (level)"
+   },
+   "mnemonic": {
+    "de": "Nach der Zahl: 3층 = 3. Stock.",
+    "en": "After a number: 3층 = 3rd floor."
+   },
+   "note": {
+    "de": "1층 ist das Erdgeschoss.",
+    "en": "1층 is the ground floor."
+   },
+   "audio": "audio/s4-w-floor.mp3"
+  },
+  {
+   "id": "s4-w-luggage",
+   "hangul": "짐",
+   "type": "word",
+   "topic": "hotel",
+   "sound": {
+    "de": "jim",
+    "en": "jim"
+   },
+   "meaning": {
+    "de": "Gepäck",
+    "en": "luggage"
+   },
+   "mnemonic": {
+    "de": "Ein schwerer Koffer: „jim!“",
+    "en": "A heavy suitcase: \"jim!\""
+   },
+   "audio": "audio/s4-w-luggage.mp3"
+  },
+  {
+   "id": "s4-w-leave-with",
+   "hangul": "맡겨요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "matgyeoyo",
+    "en": "matgyeoyo"
+   },
+   "meaning": {
+    "de": "abgeben, aufbewahren lassen",
+    "en": "to leave (in someone's care)"
+   },
+   "mnemonic": {
+    "de": "Du gibst das Gepäck ab und machst „mat“ – fertig.",
+    "en": "You hand over the bag and you're done: \"maht\"."
+   },
+   "note": {
+    "de": "Grundform 맡기다. ㄱ nach ㅌ wird gespannt.",
+    "en": "Dictionary form 맡기다. ㄱ after ㅌ becomes tense."
+   },
+   "audio": "audio/s4-w-leave-with.mp3"
+  },
+  {
+   "id": "s4-s-have-reservation",
+   "hangul": "예약이 있어요",
+   "type": "sentence",
+   "topic": "hotel",
+   "sound": {
+    "de": "yeyagi isseoyo",
+    "en": "yeyagi isseoyo"
+   },
+   "meaning": {
+    "de": "Ich habe eine Reservierung.",
+    "en": "I have a reservation."
+   },
+   "parts": [
+    "예약이",
+    "있어요"
+   ],
+   "extraParts": [
+    "예약을"
+   ],
+   "audio": "audio/s4-s-have-reservation.mp3"
+  },
+  {
+   "id": "s4-s-checkin-what-time",
+   "hangul": "체크인은 몇 시예요?",
+   "type": "sentence",
+   "topic": "hotel",
+   "sound": {
+    "de": "chekeuineun myeot siyeyo?",
+    "en": "chekeuineun myeot siyeyo?"
+   },
+   "meaning": {
+    "de": "Um wie viel Uhr ist der Check-in?",
+    "en": "What time is check-in?"
+   },
+   "parts": [
+    "체크인은",
+    "몇",
+    "시예요?"
+   ],
+   "extraParts": [
+    "체크인는"
+   ],
+   "audio": "audio/s4-s-checkin-what-time.mp3"
+  },
+  {
+   "id": "s4-s-no-towel",
+   "hangul": "수건이 없어요",
+   "type": "sentence",
+   "topic": "hotel",
+   "sound": {
+    "de": "sugeoni eopseoyo",
+    "en": "sugeoni eopseoyo"
+   },
+   "meaning": {
+    "de": "Es gibt kein Handtuch.",
+    "en": "There's no towel."
+   },
+   "parts": [
+    "수건이",
+    "없어요"
+   ],
+   "extraParts": [
+    "수건을"
+   ],
+   "audio": "audio/s4-s-no-towel.mp3"
+  },
+  {
+   "id": "s4-s-leave-luggage",
+   "hangul": "짐을 맡겨요",
+   "type": "sentence",
+   "topic": "hotel",
+   "sound": {
+    "de": "jimeul matgyeoyo",
+    "en": "jimeul matgyeoyo"
+   },
+   "meaning": {
+    "de": "Ich gebe mein Gepäck ab.",
+    "en": "I'll leave my luggage."
+   },
+   "parts": [
+    "짐을",
+    "맡겨요"
+   ],
+   "extraParts": [
+    "짐이"
+   ],
+   "audio": "audio/s4-s-leave-luggage.mp3"
+  },
+  {
+   "id": "s4-s-room-which-floor",
+   "hangul": "방이 몇 층이에요?",
+   "type": "sentence",
+   "topic": "hotel",
+   "sound": {
+    "de": "bangi myeot cheungieyo?",
+    "en": "bangi myeot cheungieyo?"
+   },
+   "meaning": {
+    "de": "In welchem Stock ist das Zimmer?",
+    "en": "Which floor is the room on?"
+   },
+   "parts": [
+    "방이",
+    "몇",
+    "층이에요?"
+   ],
+   "extraParts": [
+    "층예요?"
+   ],
+   "audio": "audio/s4-s-room-which-floor.mp3"
+  }
+ ]
+}

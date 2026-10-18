@@ -1,0 +1,317 @@
+{
+ "id": "s4-l19",
+ "stage": 4,
+ "lesson": 19,
+ "title": {
+  "de": "Gespräch: Notfall",
+  "en": "Conversation: emergency"
+ },
+ "intro": {
+  "de": "Im Notfall fragen Helfer kurz nach. Antworte einfach und klar.\n괜찮아요? heißt „Alles in Ordnung?“. Wenn nicht: 아니요, 도와주세요!",
+  "en": "In an emergency, helpers ask short questions. Answer simply and clearly.\n괜찮아요? means \"Are you okay?\". If not: 아니요, 도와주세요!"
+ },
+ "exercises": [
+  "dialog-reply"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-d-emer-where-hurt",
+   "hangul": "어디가 아파요?",
+   "type": "dialog",
+   "topic": "emergency",
+   "sound": {
+    "de": "eodiga apayo?",
+    "en": "eodiga apayo?"
+   },
+   "meaning": {
+    "de": "Wo tut es weh?",
+    "en": "Where does it hurt?"
+   },
+   "reply": {
+    "hangul": "배가 아파요",
+    "sound": {
+     "de": "baega apayo",
+     "en": "baega apayo"
+    },
+    "meaning": {
+     "de": "Ich habe Bauchschmerzen.",
+     "en": "My stomach hurts."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "호텔에서 쉬어요",
+     "meaning": {
+      "de": "Ich ruhe mich im Hotel aus.",
+      "en": "I'm resting at the hotel."
+     }
+    },
+    {
+     "hangul": "카드 돼요?",
+     "meaning": {
+      "de": "Geht Karte?",
+      "en": "Do you take cards?"
+     }
+    },
+    {
+     "hangul": "저는 영화를 좋아해요",
+     "meaning": {
+      "de": "Ich mag Filme.",
+      "en": "I like movies."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-emer-where-hurt.mp3"
+  },
+  {
+   "id": "s4-d-emer-are-you-ok",
+   "hangul": "괜찮아요?",
+   "type": "dialog",
+   "topic": "emergency",
+   "sound": {
+    "de": "gwaenchanayo?",
+    "en": "gwaenchanayo?"
+   },
+   "meaning": {
+    "de": "Alles in Ordnung?",
+    "en": "Are you okay?"
+   },
+   "reply": {
+    "hangul": "아니요, 도와주세요",
+    "sound": {
+     "de": "aniyo, dowajuseyo",
+     "en": "aniyo, dowajuseyo"
+    },
+    "meaning": {
+     "de": "Nein, bitte helfen Sie mir!",
+     "en": "No, please help me!"
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "네, 메뉴 주세요",
+     "meaning": {
+      "de": "Ja, die Speisekarte, bitte.",
+      "en": "Yes, the menu, please."
+     }
+    },
+    {
+     "hangul": "저는 한국어를 배워요",
+     "meaning": {
+      "de": "Ich lerne Koreanisch.",
+      "en": "I'm learning Korean."
+     }
+    },
+    {
+     "hangul": "네, 백화점에서 쇼핑해요",
+     "meaning": {
+      "de": "Ja, ich shoppe im Kaufhaus.",
+      "en": "Yes, I'm shopping at the department store."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-emer-are-you-ok.mp3"
+  },
+  {
+   "id": "s4-d-emer-what-happened",
+   "hangul": "무슨 일이에요?",
+   "type": "dialog",
+   "topic": "emergency",
+   "sound": {
+    "de": "museun irieyo?",
+    "en": "museun irieyo?"
+   },
+   "meaning": {
+    "de": "Was ist passiert?",
+    "en": "What happened?"
+   },
+   "reply": {
+    "hangul": "지갑을 잃어버렸어요",
+    "sound": {
+     "de": "jigabeul ireobeoryeosseoyo",
+     "en": "jigabeul ireobeoryeosseoyo"
+    },
+    "meaning": {
+     "de": "Ich habe meine Geldbörse verloren.",
+     "en": "I lost my wallet."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "저는 지금 가요",
+     "meaning": {
+      "de": "Ich gehe jetzt.",
+      "en": "I'm going now."
+     }
+    },
+    {
+     "hangul": "시장에 사람이 많아요",
+     "meaning": {
+      "de": "Auf dem Markt sind viele Leute.",
+      "en": "There are lots of people at the market."
+     }
+    },
+    {
+     "hangul": "반찬 더 주세요",
+     "meaning": {
+      "de": "Bitte noch Beilagen.",
+      "en": "More side dishes, please."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-emer-what-happened.mp3",
+   "verify": true,
+   "verifyNote": "ㄴ-Einschub bei 무슨 일 (mu-sŭn ni-ri-e-jo) prüfen"
+  },
+  {
+   "id": "s4-d-emer-call-police",
+   "hangul": "경찰을 불러 드릴까요?",
+   "type": "dialog",
+   "topic": "emergency",
+   "sound": {
+    "de": "gyeongchareul bulleo deurilkkayo?",
+    "en": "gyeongchareul bulleo deurilkkayo?"
+   },
+   "meaning": {
+    "de": "Soll ich die Polizei rufen?",
+    "en": "Shall I call the police?"
+   },
+   "reply": {
+    "hangul": "네, 불러 주세요",
+    "sound": {
+     "de": "ne, bulleo juseyo",
+     "en": "ne, bulleo juseyo"
+    },
+    "meaning": {
+     "de": "Ja, bitte rufen Sie sie.",
+     "en": "Yes, please call them."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "네, 짐을 맡겨요",
+     "meaning": {
+      "de": "Ja, ich gebe mein Gepäck ab.",
+      "en": "Yes, I'll leave my luggage."
+     }
+    },
+    {
+     "hangul": "아니요, 안 비싸요",
+     "meaning": {
+      "de": "Nein, es ist nicht teuer.",
+      "en": "No, it's not expensive."
+     }
+    },
+    {
+     "hangul": "네, 사진을 찍어요",
+     "meaning": {
+      "de": "Ja, ich mache ein Foto.",
+      "en": "Yes, I'm taking a photo."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-emer-call-police.mp3"
+  },
+  {
+   "id": "s4-d-emer-passport",
+   "hangul": "여권이 있어요?",
+   "type": "dialog",
+   "topic": "emergency",
+   "sound": {
+    "de": "yeogwoni isseoyo?",
+    "en": "yeogwoni isseoyo?"
+   },
+   "meaning": {
+    "de": "Haben Sie Ihren Pass?",
+    "en": "Do you have your passport?"
+   },
+   "reply": {
+    "hangul": "아니요, 없어요",
+    "sound": {
+     "de": "aniyo, eopseoyo",
+     "en": "aniyo, eopseoyo"
+    },
+    "meaning": {
+     "de": "Nein, habe ich nicht.",
+     "en": "No, I don't."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "네, 날씨가 좋아요",
+     "meaning": {
+      "de": "Ja, das Wetter ist schön.",
+      "en": "Yes, the weather is nice."
+     }
+    },
+    {
+     "hangul": "아니요, 바다에서 수영해요",
+     "meaning": {
+      "de": "Nein, ich schwimme im Meer.",
+      "en": "No, I swim in the sea."
+     }
+    },
+    {
+     "hangul": "네, 불고기가 맛있어요",
+     "meaning": {
+      "de": "Ja, das Bulgogi ist lecker.",
+      "en": "Yes, the bulgogi is tasty."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-emer-passport.mp3"
+  },
+  {
+   "id": "s4-d-emer-hospital",
+   "hangul": "병원에 가요?",
+   "type": "dialog",
+   "topic": "emergency",
+   "sound": {
+    "de": "byeongwone gayo?",
+    "en": "byeongwone gayo?"
+   },
+   "meaning": {
+    "de": "Gehen Sie ins Krankenhaus?",
+    "en": "Are you going to the hospital?"
+   },
+   "reply": {
+    "hangul": "네, 구급차를 불러 주세요",
+    "sound": {
+     "de": "ne, gugeupchareul bulleo juseyo",
+     "en": "ne, gugeupchareul bulleo juseyo"
+    },
+    "meaning": {
+     "de": "Ja, bitte rufen Sie einen Krankenwagen.",
+     "en": "Yes, please call an ambulance."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "네, 쇼핑해요",
+     "meaning": {
+      "de": "Ja, ich gehe shoppen.",
+      "en": "Yes, I'm going shopping."
+     }
+    },
+    {
+     "hangul": "아니요, 영수증 주세요",
+     "meaning": {
+      "de": "Nein, die Quittung, bitte.",
+      "en": "No, the receipt, please."
+     }
+    },
+    {
+     "hangul": "네, 영화를 봐요",
+     "meaning": {
+      "de": "Ja, ich sehe einen Film.",
+      "en": "Yes, I'm watching a movie."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-emer-hospital.mp3"
+  }
+ ]
+}

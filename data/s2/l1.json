@@ -1,0 +1,96 @@
+{
+ "id": "s2-l1",
+ "stage": 2,
+ "lesson": 1,
+ "title": {
+  "de": "Behauchte Konsonanten",
+  "en": "Aspirated consonants"
+ },
+ "intro": {
+  "de": "Diese fünf Konsonanten werden behaucht: Beim Sprechen kommt ein deutlicher Luftstoß aus dem Mund. Halte die Hand vor den Mund und sag „Tee“. Den Hauch spürst du.\nMehrere sehen aus wie ein Grundkonsonant mit Extra-Strich: ㄱ → ㅋ, ㄷ → ㅌ, ㅈ → ㅊ. Extra-Strich bedeutet extra Luft.",
+  "en": "These five consonants are aspirated: a clear puff of air comes out when you say them. Hold your hand in front of your mouth and say \"top\". You'll feel it.\nSeveral look like a basic consonant with one extra stroke: ㄱ → ㅋ, ㄷ → ㅌ, ㅈ → ㅊ. Extra stroke, extra air."
+ },
+ "exercises": [
+  "see-sound",
+  "hear-char"
+ ],
+ "check": {
+  "questions": 6
+ },
+ "items": [
+  {
+   "id": "s2-c-k",
+   "hangul": "ㅋ",
+   "type": "consonant",
+   "sound": {
+    "de": "k",
+    "en": "k"
+   },
+   "mnemonic": {
+    "de": "ㄱ mit einem Extra-Strich. Der Strich ist der Luftstoß: ein k mit Hauch.",
+    "en": "ㄱ plus one extra stroke. That stroke is the puff of air: a breathy k."
+   },
+   "audio": "audio/s2-c-k.mp3"
+  },
+  {
+   "id": "s2-c-t",
+   "hangul": "ㅌ",
+   "type": "consonant",
+   "sound": {
+    "de": "t",
+    "en": "t"
+   },
+   "mnemonic": {
+    "de": "ㄷ bekommt einen Strich in der Mitte dazu, und schon kommt mehr Luft: ein t mit Hauch.",
+    "en": "ㄷ gets an extra line in the middle, and more air comes out: a breathy t."
+   },
+   "audio": "audio/s2-c-t.mp3"
+  },
+  {
+   "id": "s2-c-p",
+   "hangul": "ㅍ",
+   "type": "consonant",
+   "sound": {
+    "de": "p",
+    "en": "p"
+   },
+   "mnemonic": {
+    "de": "Erinnert an das Pi-Zeichen π. Ein p, bei dem man richtig pustet.",
+    "en": "Reminds you of the pi sign π. A p you really blow out."
+   },
+   "audio": "audio/s2-c-p.mp3"
+  },
+  {
+   "id": "s2-c-ch",
+   "hangul": "ㅊ",
+   "type": "consonant",
+   "sound": {
+    "de": "ch",
+    "en": "ch"
+   },
+   "mnemonic": {
+    "de": "ㅈ mit einem Hütchen obendrauf. Das Hütchen ist der Hauch: tsch.",
+    "en": "ㅈ wearing a little hat. The hat is the extra breath: ch."
+   },
+   "audio": "audio/s2-c-ch.mp3"
+  },
+  {
+   "id": "s2-c-h",
+   "hangul": "ㅎ",
+   "type": "consonant",
+   "sound": {
+    "de": "h",
+    "en": "h"
+   },
+   "mnemonic": {
+    "de": "Ein Männchen mit Hut, das tief ausatmet: h.",
+    "en": "A little figure with a hat, breathing out: h."
+   },
+   "note": {
+    "de": "Zwischen Vokalen und nach ㄴ, ㅁ, ㄹ, ㅇ wird ㅎ oft ganz leise oder verschwindet.",
+    "en": "Between vowels and after ㄴ, ㅁ, ㄹ, ㅇ, ㅎ often gets very soft or disappears."
+   },
+   "audio": "audio/s2-c-h.mp3"
+  }
+ ]
+}

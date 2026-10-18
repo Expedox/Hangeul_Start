@@ -1,0 +1,327 @@
+{
+ "id": "s4-l18",
+ "stage": 4,
+ "lesson": 18,
+ "title": {
+  "de": "Gespräch: Einkaufen",
+  "en": "Conversation: shopping"
+ },
+ "intro": {
+  "de": "Verkäufer fragen oft, was du suchst, und nennen den Preis. Mit 너무 비싸요 und 깎아 주세요 kannst du auf dem Markt handeln.\nGeld zählt man mit 원: 만 원 = 10.000 Won.",
+  "en": "Shop staff often ask what you're looking for and tell you the price. With 너무 비싸요 and 깎아 주세요 you can haggle at the market.\nMoney is counted in 원: 만 원 = 10,000 won."
+ },
+ "exercises": [
+  "dialog-reply"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-d-shop-looking-for",
+   "hangul": "뭐 찾으세요?",
+   "type": "dialog",
+   "topic": "shopping",
+   "sound": {
+    "de": "mwo chajeuseyo?",
+    "en": "mwo chajeuseyo?"
+   },
+   "meaning": {
+    "de": "Suchen Sie etwas Bestimmtes?",
+    "en": "Are you looking for something?"
+   },
+   "reply": {
+    "hangul": "기념품을 찾아요",
+    "sound": {
+     "de": "ginyeompumeul chajayo",
+     "en": "ginyeompumeul chajayo"
+    },
+    "meaning": {
+     "de": "Ich suche Souvenirs.",
+     "en": "I'm looking for souvenirs."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "저는 피곤해요",
+     "meaning": {
+      "de": "Ich bin müde.",
+      "en": "I'm tired."
+     }
+    },
+    {
+     "hangul": "역이 멀어요",
+     "meaning": {
+      "de": "Der Bahnhof ist weit.",
+      "en": "The station is far."
+     }
+    },
+    {
+     "hangul": "우리는 내일 만나요",
+     "meaning": {
+      "de": "Wir treffen uns morgen.",
+      "en": "We're meeting tomorrow."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-shop-looking-for.mp3"
+  },
+  {
+   "id": "s4-d-shop-price",
+   "hangul": "이 가방은 오만 원이에요",
+   "type": "dialog",
+   "topic": "shopping",
+   "sound": {
+    "de": "i gabangeun oman wonieyo",
+    "en": "i gabangeun oman wonieyo"
+   },
+   "meaning": {
+    "de": "Diese Tasche kostet 50.000 Won.",
+    "en": "This bag is 50,000 won."
+   },
+   "reply": {
+    "hangul": "너무 비싸요. 깎아 주세요",
+    "sound": {
+     "de": "neomu bissayo. kkakka juseyo",
+     "en": "neomu bissayo. kkakka juseyo"
+    },
+    "meaning": {
+     "de": "Zu teuer. Bitte etwas billiger.",
+     "en": "Too expensive. Can you go lower?"
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "네, 날씨가 좋아요",
+     "meaning": {
+      "de": "Ja, das Wetter ist schön.",
+      "en": "Yes, the weather is nice."
+     }
+    },
+    {
+     "hangul": "도서관에서 공부해요",
+     "meaning": {
+      "de": "Ich lerne in der Bibliothek.",
+      "en": "I study at the library."
+     }
+    },
+    {
+     "hangul": "아이가 자요",
+     "meaning": {
+      "de": "Das Kind schläft.",
+      "en": "The child is sleeping."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-shop-price.mp3"
+  },
+  {
+   "id": "s4-d-shop-how-is-it",
+   "hangul": "어때요?",
+   "type": "dialog",
+   "topic": "shopping",
+   "sound": {
+    "de": "eottaeyo?",
+    "en": "eottaeyo?"
+   },
+   "meaning": {
+    "de": "Wie ist es? (beim Anprobieren)",
+    "en": "How is it? (trying on)"
+   },
+   "reply": {
+    "hangul": "좀 작아요. 다른 사이즈 있어요?",
+    "sound": {
+     "de": "jom jagayo. dareun saijeu isseoyo?",
+     "en": "jom jagayo. dareun saijeu isseoyo?"
+    },
+    "meaning": {
+     "de": "Etwas klein. Haben Sie eine andere Größe?",
+     "en": "A bit small. Do you have another size?"
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "네, 지하철을 타요",
+     "meaning": {
+      "de": "Ja, ich fahre U-Bahn.",
+      "en": "Yes, I take the subway."
+     }
+    },
+    {
+     "hangul": "저는 독일 사람이에요",
+     "meaning": {
+      "de": "Ich bin Deutsche(r).",
+      "en": "I'm German."
+     }
+    },
+    {
+     "hangul": "수건이 없어요",
+     "meaning": {
+      "de": "Es gibt kein Handtuch.",
+      "en": "There's no towel."
+     }
+    }
+   ],
+   "note": {
+    "de": "좀 heißt „ein bisschen“.",
+    "en": "좀 means \"a bit\"."
+   },
+   "audio": "audio/s4-d-shop-how-is-it.mp3"
+  },
+  {
+   "id": "s4-d-shop-cash-or-card",
+   "hangul": "현금이세요, 카드세요?",
+   "type": "dialog",
+   "topic": "shopping",
+   "sound": {
+    "de": "hyeongeumiseyo, kadeuseyo?",
+    "en": "hyeongeumiseyo, kadeuseyo?"
+   },
+   "meaning": {
+    "de": "Bar oder mit Karte?",
+    "en": "Cash or card?"
+   },
+   "reply": {
+    "hangul": "카드예요",
+    "sound": {
+     "de": "kadeuyeyo",
+     "en": "kadeuyeyo"
+    },
+    "meaning": {
+     "de": "Mit Karte.",
+     "en": "Card."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "네, 수건이 있어요",
+     "meaning": {
+      "de": "Ja, es gibt Handtücher.",
+      "en": "Yes, there are towels."
+     }
+    },
+    {
+     "hangul": "아니요, 안 가요",
+     "meaning": {
+      "de": "Nein, ich gehe nicht.",
+      "en": "No, I'm not going."
+     }
+    },
+    {
+     "hangul": "저는 남자예요",
+     "meaning": {
+      "de": "Ich bin ein Mann.",
+      "en": "I'm a man."
+     }
+    }
+   ],
+   "note": {
+    "de": "이세요/세요 ist die ehrende Form von 이에요/예요.",
+    "en": "이세요/세요 is the honorific form of 이에요/예요."
+   },
+   "audio": "audio/s4-d-shop-cash-or-card.mp3"
+  },
+  {
+   "id": "s4-d-shop-bag",
+   "hangul": "봉투 필요하세요?",
+   "type": "dialog",
+   "topic": "shopping",
+   "sound": {
+    "de": "bongtu piryohaseyo?",
+    "en": "bongtu piryohaseyo?"
+   },
+   "meaning": {
+    "de": "Brauchen Sie eine Tüte?",
+    "en": "Do you need a bag?"
+   },
+   "reply": {
+    "hangul": "네, 봉투 주세요",
+    "sound": {
+     "de": "ne, bongtu juseyo",
+     "en": "ne, bongtu juseyo"
+    },
+    "meaning": {
+     "de": "Ja, eine Tüte, bitte.",
+     "en": "Yes, a bag, please."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "네, 영화를 봐요",
+     "meaning": {
+      "de": "Ja, ich sehe einen Film.",
+      "en": "Yes, I'm watching a movie."
+     }
+    },
+    {
+     "hangul": "아니요, 안 매워요",
+     "meaning": {
+      "de": "Nein, es ist nicht scharf.",
+      "en": "No, it's not spicy."
+     }
+    },
+    {
+     "hangul": "네, 친구가 기다려요",
+     "meaning": {
+      "de": "Ja, mein Freund wartet.",
+      "en": "Yes, my friend is waiting."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-shop-bag.mp3"
+  },
+  {
+   "id": "s4-d-shop-friend-price",
+   "hangul": "그 가방 얼마예요?",
+   "type": "dialog",
+   "topic": "shopping",
+   "sound": {
+    "de": "geu gabang eolmayeyo?",
+    "en": "geu gabang eolmayeyo?"
+   },
+   "meaning": {
+    "de": "Was hat die Tasche gekostet?",
+    "en": "How much was that bag?"
+   },
+   "reply": {
+    "hangul": "삼만 원이에요. 정말 싸요",
+    "sound": {
+     "de": "samman wonieyo. jeongmal ssayo",
+     "en": "samman wonieyo. jeongmal ssayo"
+    },
+    "meaning": {
+     "de": "30.000 Won. Echt billig.",
+     "en": "30,000 won. Really cheap."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "공항에 가요",
+     "meaning": {
+      "de": "Ich fahre zum Flughafen.",
+      "en": "I'm going to the airport."
+     }
+    },
+    {
+     "hangul": "저는 커피를 마셔요",
+     "meaning": {
+      "de": "Ich trinke Kaffee.",
+      "en": "I'm drinking coffee."
+     }
+    },
+    {
+     "hangul": "휴대폰이 없어요",
+     "meaning": {
+      "de": "Ich habe kein Handy.",
+      "en": "I don't have a phone."
+     }
+    }
+   ],
+   "note": {
+    "de": "Ein Freund fragt dich nach dem Preis.",
+    "en": "A friend asks you about the price."
+   },
+   "audio": "audio/s4-d-shop-friend-price.mp3"
+  }
+ ]
+}

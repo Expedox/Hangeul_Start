@@ -1,0 +1,282 @@
+{
+ "id": "s3-l16",
+ "stage": 3,
+ "lesson": 16,
+ "title": {
+  "de": "Wochentage und Monate",
+  "en": "Days and months"
+ },
+ "intro": {
+  "de": "Alle Wochentage enden auf 요일. Die Monate sind einfach: sino-koreanische Zahl + 월. Nur zwei weichen ab: 유월 (Juni) und 시월 (Oktober).",
+  "en": "All weekdays end in 요일. Months are easy: Sino-Korean number + 월. Only two are irregular: 유월 (June) and 시월 (October)."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "see-sound"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s3-w-woryoil",
+   "hangul": "월요일",
+   "type": "word",
+   "topic": "days",
+   "sound": {
+    "de": "woryoil",
+    "en": "woryoil"
+   },
+   "meaning": {
+    "de": "Montag",
+    "en": "Monday"
+   },
+   "mnemonic": {
+    "de": "월 = Mond. Montag ist der Mondtag.",
+    "en": "월 = moon: Monday is moon day."
+   },
+   "note": {
+    "de": "Gesprochen [워료일].",
+    "en": "Pronounced [워료일]."
+   },
+   "audio": "audio/s3-w-woryoil.mp3"
+  },
+  {
+   "id": "s3-w-hwayoil",
+   "hangul": "화요일",
+   "type": "word",
+   "topic": "days",
+   "sound": {
+    "de": "hwayoil",
+    "en": "hwayoil"
+   },
+   "meaning": {
+    "de": "Dienstag",
+    "en": "Tuesday"
+   },
+   "mnemonic": {
+    "de": "화 = Feuer: Dienstag ist der Feuertag.",
+    "en": "화 = fire: Tuesday is fire day."
+   },
+   "audio": "audio/s3-w-hwayoil.mp3"
+  },
+  {
+   "id": "s3-w-suyoil",
+   "hangul": "수요일",
+   "type": "word",
+   "topic": "days",
+   "sound": {
+    "de": "suyoil",
+    "en": "suyoil"
+   },
+   "meaning": {
+    "de": "Mittwoch",
+    "en": "Wednesday"
+   },
+   "mnemonic": {
+    "de": "수 = Wasser: Mittwoch ist der Wassertag.",
+    "en": "수 = water: Wednesday is water day."
+   },
+   "audio": "audio/s3-w-suyoil.mp3"
+  },
+  {
+   "id": "s3-w-mogyoil",
+   "hangul": "목요일",
+   "type": "word",
+   "topic": "days",
+   "sound": {
+    "de": "mogyoil",
+    "en": "mogyoil"
+   },
+   "meaning": {
+    "de": "Donnerstag",
+    "en": "Thursday"
+   },
+   "mnemonic": {
+    "de": "목 = Holz/Baum: Donnerstag ist der Baumtag.",
+    "en": "목 = wood: Thursday is wood day."
+   },
+   "note": {
+    "de": "Gesprochen [모교일].",
+    "en": "Pronounced [모교일]."
+   },
+   "audio": "audio/s3-w-mogyoil.mp3"
+  },
+  {
+   "id": "s3-w-geumyoil",
+   "hangul": "금요일",
+   "type": "word",
+   "topic": "days",
+   "sound": {
+    "de": "geumyoil",
+    "en": "geumyoil"
+   },
+   "meaning": {
+    "de": "Freitag",
+    "en": "Friday"
+   },
+   "mnemonic": {
+    "de": "금 = Gold: Freitag ist golden, das Wochenende naht.",
+    "en": "금 = gold: Friday is golden."
+   },
+   "note": {
+    "de": "Gesprochen [그묘일].",
+    "en": "Pronounced [그묘일]."
+   },
+   "audio": "audio/s3-w-geumyoil.mp3"
+  },
+  {
+   "id": "s3-w-toyoil",
+   "hangul": "토요일",
+   "type": "word",
+   "topic": "days",
+   "sound": {
+    "de": "toyoil",
+    "en": "toyoil"
+   },
+   "meaning": {
+    "de": "Samstag",
+    "en": "Saturday"
+   },
+   "mnemonic": {
+    "de": "토 = Erde: Samstag ist der Erdtag.",
+    "en": "토 = earth: Saturday is earth day."
+   },
+   "audio": "audio/s3-w-toyoil.mp3"
+  },
+  {
+   "id": "s3-w-iryoil",
+   "hangul": "일요일",
+   "type": "word",
+   "topic": "days",
+   "sound": {
+    "de": "iryoil",
+    "en": "iryoil"
+   },
+   "meaning": {
+    "de": "Sonntag",
+    "en": "Sunday"
+   },
+   "mnemonic": {
+    "de": "일 = Sonne: Sonntag ist der Sonnentag.",
+    "en": "일 = sun: Sunday is sun day."
+   },
+   "note": {
+    "de": "Gesprochen [이료일].",
+    "en": "Pronounced [이료일]."
+   },
+   "audio": "audio/s3-w-iryoil.mp3"
+  },
+  {
+   "id": "s3-p-museun-yoil",
+   "hangul": "무슨 요일이에요?",
+   "type": "phrase",
+   "topic": "days",
+   "sound": {
+    "de": "museun yoirieyo?",
+    "en": "museun yoirieyo?"
+   },
+   "meaning": {
+    "de": "Welcher Wochentag ist (heute)?",
+    "en": "what day is it?"
+   },
+   "mnemonic": {
+    "de": "무슨 = welcher, 요일 = Wochentag.",
+    "en": "무슨 = which, 요일 = day of the week."
+   },
+   "note": {
+    "de": "Zwischen 무슨 und 요일 schiebt sich oft ein n ein: [무슨뇨일].",
+    "en": "An extra n often slips in: [무슨뇨일]."
+   },
+   "audio": "audio/s3-p-museun-yoil.mp3",
+   "verify": true,
+   "verifyNote": "Aussprache prüfen: n-Einschub [무슨뇨이리에요] üblich?"
+  },
+  {
+   "id": "s3-w-irwol",
+   "hangul": "일월",
+   "type": "word",
+   "topic": "days",
+   "sound": {
+    "de": "irwol",
+    "en": "irwol"
+   },
+   "meaning": {
+    "de": "Januar",
+    "en": "January"
+   },
+   "mnemonic": {
+    "de": "Monat eins.",
+    "en": "Month one."
+   },
+   "note": {
+    "de": "Gesprochen [이뤌].",
+    "en": "Pronounced [이뤌]."
+   },
+   "audio": "audio/s3-w-irwol.mp3"
+  },
+  {
+   "id": "s3-w-yuwol",
+   "hangul": "유월",
+   "type": "word",
+   "topic": "days",
+   "sound": {
+    "de": "yuwol",
+    "en": "yuwol"
+   },
+   "meaning": {
+    "de": "Juni",
+    "en": "June"
+   },
+   "note": {
+    "de": "Ausnahme: nicht 육월, sondern 유월.",
+    "en": "Exception: not 육월 but 유월."
+   },
+   "audio": "audio/s3-w-yuwol.mp3"
+  },
+  {
+   "id": "s3-w-siwol",
+   "hangul": "시월",
+   "type": "word",
+   "topic": "days",
+   "sound": {
+    "de": "siwol",
+    "en": "siwol"
+   },
+   "meaning": {
+    "de": "Oktober",
+    "en": "October"
+   },
+   "note": {
+    "de": "Ausnahme: nicht 십월, sondern 시월.",
+    "en": "Exception: not 십월 but 시월."
+   },
+   "audio": "audio/s3-w-siwol.mp3"
+  },
+  {
+   "id": "s3-p-myeot-wol",
+   "hangul": "몇 월이에요?",
+   "type": "phrase",
+   "topic": "days",
+   "sound": {
+    "de": "myeot worieyo?",
+    "en": "myeot worieyo?"
+   },
+   "meaning": {
+    "de": "Welcher Monat ist es?",
+    "en": "what month is it?"
+   },
+   "mnemonic": {
+    "de": "몇 + 월: „der wievielte Monat?“",
+    "en": "몇 + 월: \"which number month?\""
+   },
+   "note": {
+    "de": "Gesprochen [며둬리에요].",
+    "en": "Pronounced [며둬리에요]."
+   },
+   "audio": "audio/s3-p-myeot-wol.mp3"
+  }
+ ]
+}

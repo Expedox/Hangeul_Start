@@ -1,0 +1,78 @@
+{
+ "id": "s1-l2",
+ "stage": 1,
+ "lesson": 2,
+ "title": {
+  "de": "Vokale mit j",
+  "en": "Vowels with y"
+ },
+ "intro": {
+  "de": "Ein zweiter Ast macht aus dem Vokal einen j-Laut: aus ㅏ „a“ wird ㅑ „ja“.",
+  "en": "A second branch adds a \"y\" sound: ㅏ \"ah\" becomes ㅑ \"yah\"."
+ },
+ "exercises": [
+  "see-sound",
+  "hear-char"
+ ],
+ "check": {
+  "questions": 6
+ },
+ "items": [
+  {
+   "id": "s1-v-ya",
+   "hangul": "ㅑ",
+   "type": "vowel",
+   "sound": {
+    "de": "ya",
+    "en": "ya"
+   },
+   "mnemonic": {
+    "de": "Zwei Äste nach rechts: das „a“ bekommt ein „j“ davor, „ja“.",
+    "en": "Two branches to the right: \"ah\" gets a \"y\" in front, \"yah\"."
+   },
+   "audio": "audio/s1-v-ya.mp3"
+  },
+  {
+   "id": "s1-v-yeo",
+   "hangul": "ㅕ",
+   "type": "vowel",
+   "sound": {
+    "de": "yeo",
+    "en": "yeo"
+   },
+   "mnemonic": {
+    "de": "Zwei Äste nach links: ㅓ mit „y“ davor, also „yeo“.",
+    "en": "Two branches to the left: ㅓ with a \"y\" in front, \"yeo\"."
+   },
+   "audio": "audio/s1-v-yeo.mp3"
+  },
+  {
+   "id": "s1-v-yo",
+   "hangul": "ㅛ",
+   "type": "vowel",
+   "sound": {
+    "de": "yo",
+    "en": "yo"
+   },
+   "mnemonic": {
+    "de": "Zwei Äste nach oben: „jo“ wie in „Joghurt“.",
+    "en": "Two branches up: \"yoh\" as in \"yoke\"."
+   },
+   "audio": "audio/s1-v-yo.mp3"
+  },
+  {
+   "id": "s1-v-yu",
+   "hangul": "ㅠ",
+   "type": "vowel",
+   "sound": {
+    "de": "yu",
+    "en": "yu"
+   },
+   "mnemonic": {
+    "de": "Zwei Äste nach unten: „ju“ wie in „Jubel“.",
+    "en": "Two branches down: \"yoo\" as in \"you\"."
+   },
+   "audio": "audio/s1-v-yu.mp3"
+  }
+ ]
+}

@@ -1,0 +1,180 @@
+{
+ "id": "s3-l6",
+ "stage": 3,
+ "lesson": 6,
+ "title": {
+  "de": "Begrüßen und Verabschieden",
+  "en": "Hello and goodbye"
+ },
+ "intro": {
+  "de": "Für den Anfang reicht die freundlich-höfliche Form auf -요. Sie passt fast überall.\nDie Form auf -ㅂ니다 ist förmlicher (Ansagen, Arbeit, erste Treffen).\nBeim Abschied zählt, wer geht: Wer bleibt, sagt zum Gehenden 안녕히 가세요. Wer geht, sagt zum Bleibenden 안녕히 계세요.",
+  "en": "To start, the friendly polite form ending in -요 is all you need. It fits almost everywhere.\nThe -ㅂ니다 form is more formal (announcements, work, first meetings).\nWhen saying goodbye, it matters who leaves: the one staying says 안녕히 가세요, the one leaving says 안녕히 계세요."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "see-sound"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s3-p-annyeonghaseyo",
+   "hangul": "안녕하세요",
+   "type": "phrase",
+   "topic": "greetings",
+   "sound": {
+    "de": "annyeonghaseyo",
+    "en": "annyeonghaseyo"
+   },
+   "meaning": {
+    "de": "Hallo / Guten Tag",
+    "en": "hello"
+   },
+   "note": {
+    "de": "Wörtlich: „Geht es Ihnen gut?“ – passt zu jeder Tageszeit.",
+    "en": "Literally \"Are you well?\" – works at any time of day."
+   },
+   "audio": "audio/s3-p-annyeonghaseyo.mp3"
+  },
+  {
+   "id": "s3-p-annyeonghi-gaseyo",
+   "hangul": "안녕히 가세요",
+   "type": "phrase",
+   "topic": "greetings",
+   "sound": {
+    "de": "annyeonghi gaseyo",
+    "en": "annyeonghi gaseyo"
+   },
+   "meaning": {
+    "de": "Auf Wiedersehen (zu jemandem, der geht)",
+    "en": "goodbye (to someone leaving)"
+   },
+   "note": {
+    "de": "가 = gehen: „Gehen Sie gut.“",
+    "en": "가 = go: \"Go well.\""
+   },
+   "audio": "audio/s3-p-annyeonghi-gaseyo.mp3"
+  },
+  {
+   "id": "s3-p-annyeonghi-gyeseyo",
+   "hangul": "안녕히 계세요",
+   "type": "phrase",
+   "topic": "greetings",
+   "sound": {
+    "de": "annyeonghi gyeseyo",
+    "en": "annyeonghi gyeseyo"
+   },
+   "meaning": {
+    "de": "Auf Wiedersehen (zu jemandem, der bleibt)",
+    "en": "goodbye (to someone staying)"
+   },
+   "mnemonic": {
+    "de": "계세요 = bleiben Sie: „Bleiben Sie gut.“",
+    "en": "계세요 = stay: \"Stay well.\""
+   },
+   "note": {
+    "de": "ㅖ klingt nach ㄱ meist wie ㅔ.",
+    "en": "After ㄱ, ㅖ usually sounds like ㅔ."
+   },
+   "audio": "audio/s3-p-annyeonghi-gyeseyo.mp3"
+  },
+  {
+   "id": "s3-p-annyeong",
+   "hangul": "안녕",
+   "type": "phrase",
+   "topic": "greetings",
+   "sound": {
+    "de": "annyeong",
+    "en": "annyeong"
+   },
+   "meaning": {
+    "de": "Hallo / Tschüss (unter Freunden)",
+    "en": "hi / bye (casual)"
+   },
+   "note": {
+    "de": "Nur bei Freunden, Kindern und Gleichaltrigen.",
+    "en": "Only with friends, children and people your age."
+   },
+   "audio": "audio/s3-p-annyeong.mp3"
+  },
+  {
+   "id": "s3-p-tto-mannayo",
+   "hangul": "또 만나요",
+   "type": "phrase",
+   "topic": "greetings",
+   "sound": {
+    "de": "tto mannayo",
+    "en": "tto mannayo"
+   },
+   "meaning": {
+    "de": "Bis bald / Wir sehen uns",
+    "en": "see you again"
+   },
+   "note": {
+    "de": "또 = wieder, 만나요 = treffen.",
+    "en": "또 = again, 만나요 = meet."
+   },
+   "audio": "audio/s3-p-tto-mannayo.mp3"
+  },
+  {
+   "id": "s3-p-jal-gayo",
+   "hangul": "잘 가요",
+   "type": "phrase",
+   "topic": "greetings",
+   "sound": {
+    "de": "jal gayo",
+    "en": "jal gayo"
+   },
+   "meaning": {
+    "de": "Mach's gut (zu jemandem, der geht)",
+    "en": "bye, take care (to someone leaving)"
+   },
+   "note": {
+    "de": "Lockerer als 안녕히 가세요.",
+    "en": "More relaxed than 안녕히 가세요."
+   },
+   "audio": "audio/s3-p-jal-gayo.mp3"
+  },
+  {
+   "id": "s3-p-annyeonghi-jumuseyo",
+   "hangul": "안녕히 주무세요",
+   "type": "phrase",
+   "topic": "greetings",
+   "sound": {
+    "de": "annyeonghi jumuseyo",
+    "en": "annyeonghi jumuseyo"
+   },
+   "meaning": {
+    "de": "Gute Nacht (höflich)",
+    "en": "good night (polite)"
+   },
+   "note": {
+    "de": "주무세요 ist das respektvolle Wort für „schlafen“.",
+    "en": "주무세요 is the respectful word for \"sleep\"."
+   },
+   "audio": "audio/s3-p-annyeonghi-jumuseyo.mp3"
+  },
+  {
+   "id": "s3-p-jal-jayo",
+   "hangul": "잘 자요",
+   "type": "phrase",
+   "topic": "greetings",
+   "sound": {
+    "de": "jal jayo",
+    "en": "jal jayo"
+   },
+   "meaning": {
+    "de": "Schlaf gut",
+    "en": "sleep well"
+   },
+   "note": {
+    "de": "Für Freunde und Familie.",
+    "en": "For friends and family."
+   },
+   "audio": "audio/s3-p-jal-jayo.mp3"
+  }
+ ]
+}

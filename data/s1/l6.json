@@ -1,0 +1,149 @@
+{
+ "id": "s1-l6",
+ "stage": 1,
+ "lesson": 6,
+ "title": {
+  "de": "Vokale unter dem Konsonanten",
+  "en": "Vowels below"
+ },
+ "intro": {
+  "de": "Flache Vokale wie ㅗ, ㅜ und ㅡ stehen unter dem Konsonanten: ㄱ + ㅗ = 고.",
+  "en": "Flat vowels like ㅗ, ㅜ and ㅡ go underneath the consonant: ㄱ + ㅗ = 고."
+ },
+ "exercises": [
+  "see-sound",
+  "build-syllable",
+  "hear-char"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s1-y-go",
+   "hangul": "고",
+   "type": "syllable",
+   "sound": {
+    "de": "go",
+    "en": "go"
+   },
+   "parts": [
+    "ㄱ",
+    "ㅗ"
+   ],
+   "audio": "audio/s1-y-go.mp3"
+  },
+  {
+   "id": "s1-y-no",
+   "hangul": "노",
+   "type": "syllable",
+   "sound": {
+    "de": "no",
+    "en": "no"
+   },
+   "parts": [
+    "ㄴ",
+    "ㅗ"
+   ],
+   "audio": "audio/s1-y-no.mp3"
+  },
+  {
+   "id": "s1-y-do",
+   "hangul": "도",
+   "type": "syllable",
+   "sound": {
+    "de": "do",
+    "en": "do"
+   },
+   "parts": [
+    "ㄷ",
+    "ㅗ"
+   ],
+   "audio": "audio/s1-y-do.mp3"
+  },
+  {
+   "id": "s1-y-mu",
+   "hangul": "무",
+   "type": "syllable",
+   "sound": {
+    "de": "mu",
+    "en": "mu"
+   },
+   "parts": [
+    "ㅁ",
+    "ㅜ"
+   ],
+   "audio": "audio/s1-y-mu.mp3"
+  },
+  {
+   "id": "s1-y-bu",
+   "hangul": "부",
+   "type": "syllable",
+   "sound": {
+    "de": "bu",
+    "en": "bu"
+   },
+   "parts": [
+    "ㅂ",
+    "ㅜ"
+   ],
+   "audio": "audio/s1-y-bu.mp3"
+  },
+  {
+   "id": "s1-y-su",
+   "hangul": "수",
+   "type": "syllable",
+   "sound": {
+    "de": "su",
+    "en": "su"
+   },
+   "parts": [
+    "ㅅ",
+    "ㅜ"
+   ],
+   "audio": "audio/s1-y-su.mp3"
+  },
+  {
+   "id": "s1-y-u",
+   "hangul": "우",
+   "type": "syllable",
+   "sound": {
+    "de": "u",
+    "en": "u"
+   },
+   "parts": [
+    "ㅇ",
+    "ㅜ"
+   ],
+   "audio": "audio/s1-y-u.mp3"
+  },
+  {
+   "id": "s1-y-ju",
+   "hangul": "주",
+   "type": "syllable",
+   "sound": {
+    "de": "ju",
+    "en": "ju"
+   },
+   "parts": [
+    "ㅈ",
+    "ㅜ"
+   ],
+   "audio": "audio/s1-y-ju.mp3"
+  },
+  {
+   "id": "s1-y-geu",
+   "hangul": "그",
+   "type": "syllable",
+   "sound": {
+    "de": "geu",
+    "en": "geu"
+   },
+   "parts": [
+    "ㄱ",
+    "ㅡ"
+   ],
+   "audio": "audio/s1-y-geu.mp3"
+  }
+ ]
+}

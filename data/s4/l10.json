@@ -1,0 +1,420 @@
+{
+ "id": "s4-l10",
+ "stage": 4,
+ "lesson": 10,
+ "title": {
+  "de": "U-Bahn",
+  "en": "Subway"
+ },
+ "intro": {
+  "de": "In Seoul kommst du mit der U-Bahn fast überall hin. Die Linien haben Nummern und Farben: 2호선 ist Linie 2.\nMit einer aufladbaren 교통카드 fährst du U-Bahn und Bus und steigst günstig um.",
+  "en": "In Seoul the subway takes you almost everywhere. Lines have numbers and colors: 2호선 is Line 2.\nWith a rechargeable 교통카드 you ride subway and bus and transfer cheaply."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "build-sentence"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-w-ticket",
+   "hangul": "표",
+   "type": "word",
+   "topic": "subway",
+   "sound": {
+    "de": "pyo",
+    "en": "pyo"
+   },
+   "meaning": {
+    "de": "Fahrkarte, Ticket",
+    "en": "ticket"
+   },
+   "mnemonic": {
+    "de": "Ein kleines Stück Papier: „pyo“, und schon bist du drin.",
+    "en": "A tiny slip of paper: \"pyo\", and you're in."
+   },
+   "audio": "audio/s4-w-ticket.mp3"
+  },
+  {
+   "id": "s4-w-transit-card",
+   "hangul": "교통카드",
+   "type": "word",
+   "topic": "subway",
+   "sound": {
+    "de": "gyotongkadeu",
+    "en": "gyotongkadeu"
+   },
+   "meaning": {
+    "de": "Verkehrskarte (aufladbar)",
+    "en": "transit card"
+   },
+   "mnemonic": {
+    "de": "교통 heißt Verkehr, 카드 ist die Karte.",
+    "en": "교통 means traffic/transport, 카드 is card."
+   },
+   "audio": "audio/s4-w-transit-card.mp3"
+  },
+  {
+   "id": "s4-w-route-map",
+   "hangul": "노선도",
+   "type": "word",
+   "topic": "subway",
+   "sound": {
+    "de": "noseondo",
+    "en": "noseondo"
+   },
+   "meaning": {
+    "de": "Linienplan, Netzplan",
+    "en": "route map"
+   },
+   "mnemonic": {
+    "de": "노선 ist die Linie, 도 die Zeichnung: Linienplan.",
+    "en": "노선 is the route, 도 the drawing: route map."
+   },
+   "audio": "audio/s4-w-route-map.mp3"
+  },
+  {
+   "id": "s4-w-line",
+   "hangul": "호선",
+   "type": "word",
+   "topic": "subway",
+   "sound": {
+    "de": "hoseon",
+    "en": "hoseon"
+   },
+   "meaning": {
+    "de": "Linie (U-Bahn)",
+    "en": "(subway) line"
+   },
+   "mnemonic": {
+    "de": "Steht immer hinter der Nummer: 1호선, 2호선 …",
+    "en": "Always follows the number: 1호선, 2호선 …"
+   },
+   "note": {
+    "de": "2호선 = ihoseon, Linie 2.",
+    "en": "2호선 = ihoseon, Line 2."
+   },
+   "audio": "audio/s4-w-line.mp3"
+  },
+  {
+   "id": "s4-w-ride",
+   "hangul": "타요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "tayo",
+    "en": "tayo"
+   },
+   "meaning": {
+    "de": "fahren mit, einsteigen",
+    "en": "to ride, to get on"
+   },
+   "mnemonic": {
+    "de": "„Tha!“ – und rein in den Zug.",
+    "en": "\"Tah!\" – and you're on the train."
+   },
+   "note": {
+    "de": "Grundform 타다. Mit 을/를: 지하철을 타요.",
+    "en": "Dictionary form 타다. With 을/를: 지하철을 타요."
+   },
+   "audio": "audio/s4-w-ride.mp3"
+  },
+  {
+   "id": "s4-w-get-off",
+   "hangul": "내려요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "naeryeoyo",
+    "en": "naeryeoyo"
+   },
+   "meaning": {
+    "de": "aussteigen",
+    "en": "to get off"
+   },
+   "mnemonic": {
+    "de": "Beim Aussteigen geht es nach unten: „naeryeo“.",
+    "en": "Getting off means stepping down: \"naeryeo\"."
+   },
+   "note": {
+    "de": "Grundform 내리다. 리 + 어 → 려.",
+    "en": "Dictionary form 내리다. 리 + 어 → 려."
+   },
+   "audio": "audio/s4-w-get-off.mp3"
+  },
+  {
+   "id": "s4-w-transfer",
+   "hangul": "갈아타요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "garatayo",
+    "en": "garatayo"
+   },
+   "meaning": {
+    "de": "umsteigen",
+    "en": "to transfer"
+   },
+   "mnemonic": {
+    "de": "갈아 (wechseln) + 타요 (fahren): wechseln und weiterfahren.",
+    "en": "갈아 (switch) + 타요 (ride): switch and ride on."
+   },
+   "note": {
+    "de": "Grundform 갈아타다.",
+    "en": "Dictionary form 갈아타다."
+   },
+   "audio": "audio/s4-w-transfer.mp3"
+  },
+  {
+   "id": "s4-w-next",
+   "hangul": "다음",
+   "type": "word",
+   "topic": "subway",
+   "sound": {
+    "de": "daeum",
+    "en": "daeum"
+   },
+   "meaning": {
+    "de": "nächste(r), nächstes",
+    "en": "next"
+   },
+   "mnemonic": {
+    "de": "„Da um die Ecke“ ist die nächste Station.",
+    "en": "\"Dah, um…\" – the next one is coming up."
+   },
+   "note": {
+    "de": "다음 역 = nächste Station.",
+    "en": "다음 역 = next station."
+   },
+   "audio": "audio/s4-w-next.mp3"
+  },
+  {
+   "id": "s4-w-this-time",
+   "hangul": "이번",
+   "type": "word",
+   "topic": "subway",
+   "sound": {
+    "de": "ibeon",
+    "en": "ibeon"
+   },
+   "meaning": {
+    "de": "diese(r) (jetzt), diesmal",
+    "en": "this (one), this time"
+   },
+   "mnemonic": {
+    "de": "Durchsage: 이번 역 = diese Station, jetzt.",
+    "en": "Announcement: 이번 역 = this station, now."
+   },
+   "audio": "audio/s4-w-this-time.mp3"
+  },
+  {
+   "id": "s4-w-top-up",
+   "hangul": "충전해요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "chungjeonhaeyo",
+    "en": "chungjeonhaeyo"
+   },
+   "meaning": {
+    "de": "aufladen",
+    "en": "to top up, to charge"
+   },
+   "mnemonic": {
+    "de": "Wie beim Handy: Die Karte bekommt neue Energie.",
+    "en": "Like your phone: the card gets refilled."
+   },
+   "note": {
+    "de": "Grundform 충전하다. Auch fürs Handy-Laden.",
+    "en": "Dictionary form 충전하다. Also for charging a phone."
+   },
+   "audio": "audio/s4-w-top-up.mp3"
+  },
+  {
+   "id": "s4-w-direction",
+   "hangul": "방향",
+   "type": "word",
+   "topic": "subway",
+   "sound": {
+    "de": "banghyang",
+    "en": "banghyang"
+   },
+   "meaning": {
+    "de": "Richtung",
+    "en": "direction"
+   },
+   "mnemonic": {
+    "de": "Auf den Schildern steht: 시청 방향 = Richtung Rathaus.",
+    "en": "Signs say 시청 방향 = toward City Hall."
+   },
+   "audio": "audio/s4-w-direction.mp3"
+  },
+  {
+   "id": "s4-w-bus-stop",
+   "hangul": "정류장",
+   "type": "word",
+   "topic": "subway",
+   "sound": {
+    "de": "jeongnyujang",
+    "en": "jeongnyujang"
+   },
+   "meaning": {
+    "de": "Haltestelle",
+    "en": "(bus) stop"
+   },
+   "mnemonic": {
+    "de": "Nach ㅇ wird ㄹ zu n: jeongnyujang.",
+    "en": "After ㅇ, ㄹ turns into n: jeongnyujang."
+   },
+   "note": {
+    "de": "Meist für Bus: 버스 정류장.",
+    "en": "Mostly for buses: 버스 정류장."
+   },
+   "audio": "audio/s4-w-bus-stop.mp3"
+  },
+  {
+   "id": "s4-w-train",
+   "hangul": "기차",
+   "type": "word",
+   "topic": "subway",
+   "sound": {
+    "de": "gicha",
+    "en": "gicha"
+   },
+   "meaning": {
+    "de": "Zug (Fernzug)",
+    "en": "train"
+   },
+   "mnemonic": {
+    "de": "Der Zug macht „tschu-tschu“: gicha.",
+    "en": "The train goes \"choo-choo\": gicha."
+   },
+   "note": {
+    "de": "Für Fernzüge. Die U-Bahn heißt 지하철.",
+    "en": "For long-distance trains. The subway is 지하철."
+   },
+   "audio": "audio/s4-w-train.mp3"
+  },
+  {
+   "id": "s4-s-ride-subway",
+   "hangul": "지하철을 타요",
+   "type": "sentence",
+   "topic": "subway",
+   "sound": {
+    "de": "jihacheoreul tayo",
+    "en": "jihacheoreul tayo"
+   },
+   "meaning": {
+    "de": "Ich fahre mit der U-Bahn.",
+    "en": "I take the subway."
+   },
+   "parts": [
+    "지하철을",
+    "타요"
+   ],
+   "extraParts": [
+    "지하철이"
+   ],
+   "audio": "audio/s4-s-ride-subway.mp3"
+  },
+  {
+   "id": "s4-s-buy-ticket",
+   "hangul": "표를 사요",
+   "type": "sentence",
+   "topic": "subway",
+   "sound": {
+    "de": "pyoreul sayo",
+    "en": "pyoreul sayo"
+   },
+   "meaning": {
+    "de": "Ich kaufe eine Fahrkarte.",
+    "en": "I buy a ticket."
+   },
+   "parts": [
+    "표를",
+    "사요"
+   ],
+   "extraParts": [
+    "표을"
+   ],
+   "audio": "audio/s4-s-buy-ticket.mp3"
+  },
+  {
+   "id": "s4-s-top-up-card",
+   "hangul": "교통카드를 충전해요",
+   "type": "sentence",
+   "topic": "subway",
+   "sound": {
+    "de": "gyotongkadeureul chungjeonhaeyo",
+    "en": "gyotongkadeureul chungjeonhaeyo"
+   },
+   "meaning": {
+    "de": "Ich lade die Verkehrskarte auf.",
+    "en": "I top up my transit card."
+   },
+   "parts": [
+    "교통카드를",
+    "충전해요"
+   ],
+   "extraParts": [
+    "교통카드가"
+   ],
+   "audio": "audio/s4-s-top-up-card.mp3"
+  },
+  {
+   "id": "s4-s-get-off-next",
+   "hangul": "다음 역에서 내려요",
+   "type": "sentence",
+   "topic": "subway",
+   "sound": {
+    "de": "daeum yeogeseo naeryeoyo",
+    "en": "daeum yeogeseo naeryeoyo"
+   },
+   "meaning": {
+    "de": "Ich steige an der nächsten Station aus.",
+    "en": "I get off at the next station."
+   },
+   "note": {
+    "de": "Bei 다음 역 schiebt sich ein n ein: [다음녁].",
+    "en": "In 다음 역 an extra n slips in: [다음녁]."
+   },
+   "parts": [
+    "다음",
+    "역에서",
+    "내려요"
+   ],
+   "extraParts": [
+    "역에"
+   ],
+   "audio": "audio/s4-s-get-off-next.mp3",
+   "verify": true,
+   "verifyNote": "ㄴ-Einschub bei 다음 역 (da-ŭm njò-ge-sò) prüfen"
+  },
+  {
+   "id": "s4-s-transfer-here",
+   "hangul": "여기서 갈아타요",
+   "type": "sentence",
+   "topic": "subway",
+   "sound": {
+    "de": "yeogiseo garatayo",
+    "en": "yeogiseo garatayo"
+   },
+   "meaning": {
+    "de": "Hier steige ich um.",
+    "en": "I transfer here."
+   },
+   "parts": [
+    "여기서",
+    "갈아타요"
+   ],
+   "extraParts": [
+    "여기를"
+   ],
+   "audio": "audio/s4-s-transfer-here.mp3"
+  }
+ ]
+}

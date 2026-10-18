@@ -1,0 +1,260 @@
+{
+ "id": "s3-l15",
+ "stage": 3,
+ "lesson": 15,
+ "title": {
+  "de": "Zeit",
+  "en": "Time words"
+ },
+ "intro": {
+  "de": "Wörter für Tageszeiten und Tage. 아침, 점심 und 저녁 bedeuten zugleich Frühstück, Mittagessen und Abendessen.",
+  "en": "Words for times of day and days. 아침, 점심 and 저녁 also mean breakfast, lunch and dinner."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "see-sound"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s3-w-jigeum",
+   "hangul": "지금",
+   "type": "word",
+   "topic": "time",
+   "sound": {
+    "de": "jigeum",
+    "en": "jigeum"
+   },
+   "meaning": {
+    "de": "jetzt",
+    "en": "now"
+   },
+   "mnemonic": {
+    "de": "Jetzt sofort: „jigeum“!",
+    "en": "Right now: \"jigeum\"!"
+   },
+   "audio": "audio/s3-w-jigeum.mp3"
+  },
+  {
+   "id": "s3-w-oneul",
+   "hangul": "오늘",
+   "type": "word",
+   "topic": "time",
+   "sound": {
+    "de": "oneul",
+    "en": "oneul"
+   },
+   "meaning": {
+    "de": "heute",
+    "en": "today"
+   },
+   "mnemonic": {
+    "de": "„Oh, null“ Termine heute.",
+    "en": "\"Oh, no\" – it's today!"
+   },
+   "audio": "audio/s3-w-oneul.mp3"
+  },
+  {
+   "id": "s3-w-naeil",
+   "hangul": "내일",
+   "type": "word",
+   "topic": "time",
+   "sound": {
+    "de": "naeil",
+    "en": "naeil"
+   },
+   "meaning": {
+    "de": "morgen",
+    "en": "tomorrow"
+   },
+   "mnemonic": {
+    "de": "Morgen rückt näher: „naeil“.",
+    "en": "Tomorrow comes \"naeil\" – nearly."
+   },
+   "audio": "audio/s3-w-naeil.mp3"
+  },
+  {
+   "id": "s3-w-eoje",
+   "hangul": "어제",
+   "type": "word",
+   "topic": "time",
+   "sound": {
+    "de": "eoje",
+    "en": "eoje"
+   },
+   "meaning": {
+    "de": "gestern",
+    "en": "yesterday"
+   },
+   "mnemonic": {
+    "de": "„Ò, je“ – das war gestern.",
+    "en": "\"Uh, jeez\" – that was yesterday."
+   },
+   "audio": "audio/s3-w-eoje.mp3"
+  },
+  {
+   "id": "s3-w-achim",
+   "hangul": "아침",
+   "type": "word",
+   "topic": "time",
+   "sound": {
+    "de": "achim",
+    "en": "achim"
+   },
+   "meaning": {
+    "de": "Morgen (Tageszeit); Frühstück",
+    "en": "morning; breakfast"
+   },
+   "mnemonic": {
+    "de": "„Hatschi!“ – morgens niest man.",
+    "en": "\"Ah-choo!\" – a morning sneeze."
+   },
+   "audio": "audio/s3-w-achim.mp3"
+  },
+  {
+   "id": "s3-w-jeomsim",
+   "hangul": "점심",
+   "type": "word",
+   "topic": "time",
+   "sound": {
+    "de": "jeomsim",
+    "en": "jeomsim"
+   },
+   "meaning": {
+    "de": "Mittag; Mittagessen",
+    "en": "lunchtime; lunch"
+   },
+   "mnemonic": {
+    "de": "Zur Mittagszeit wird gegessen.",
+    "en": "Lunch at midday."
+   },
+   "audio": "audio/s3-w-jeomsim.mp3"
+  },
+  {
+   "id": "s3-w-jeonyeok",
+   "hangul": "저녁",
+   "type": "word",
+   "topic": "time",
+   "sound": {
+    "de": "jeonyeok",
+    "en": "jeonyeok"
+   },
+   "meaning": {
+    "de": "Abend; Abendessen",
+    "en": "evening; dinner"
+   },
+   "mnemonic": {
+    "de": "Am Abend gibt es Abendessen.",
+    "en": "Dinner in the evening."
+   },
+   "audio": "audio/s3-w-jeonyeok.mp3"
+  },
+  {
+   "id": "s3-w-bam",
+   "hangul": "밤",
+   "type": "word",
+   "topic": "time",
+   "sound": {
+    "de": "bam",
+    "en": "bam"
+   },
+   "meaning": {
+    "de": "Nacht",
+    "en": "night"
+   },
+   "mnemonic": {
+    "de": "„Bam!“ – das Licht geht aus, es ist Nacht.",
+    "en": "\"Bam!\" – lights out, it's night."
+   },
+   "note": {
+    "de": "Bedeutet auch „Kastanie“.",
+    "en": "Also means \"chestnut\"."
+   },
+   "audio": "audio/s3-w-bam.mp3"
+  },
+  {
+   "id": "s3-w-ju",
+   "hangul": "주",
+   "type": "word",
+   "topic": "time",
+   "sound": {
+    "de": "ju",
+    "en": "ju"
+   },
+   "meaning": {
+    "de": "Woche",
+    "en": "week"
+   },
+   "note": {
+    "de": "이번 주 = diese Woche, 다음 주 = nächste Woche.",
+    "en": "이번 주 = this week, 다음 주 = next week."
+   },
+   "audio": "audio/s3-w-ju.mp3"
+  },
+  {
+   "id": "s3-w-jumal",
+   "hangul": "주말",
+   "type": "word",
+   "topic": "time",
+   "sound": {
+    "de": "jumal",
+    "en": "jumal"
+   },
+   "meaning": {
+    "de": "Wochenende",
+    "en": "weekend"
+   },
+   "note": {
+    "de": "주 = Woche, 말 = Ende.",
+    "en": "주 = week, 말 = end."
+   },
+   "audio": "audio/s3-w-jumal.mp3"
+  },
+  {
+   "id": "s3-w-dal",
+   "hangul": "달",
+   "type": "word",
+   "topic": "time",
+   "sound": {
+    "de": "dal",
+    "en": "dal"
+   },
+   "meaning": {
+    "de": "Monat",
+    "en": "month"
+   },
+   "mnemonic": {
+    "de": "Bedeutet auch „Mond“ – ein Mondumlauf ist etwa ein Monat.",
+    "en": "Also means \"moon\" – one moon cycle is about a month."
+   },
+   "note": {
+    "de": "Mit rein koreanischen Zahlen: 한 달 = ein Monat.",
+    "en": "With native numbers: 한 달 = one month."
+   },
+   "audio": "audio/s3-w-dal.mp3"
+  },
+  {
+   "id": "s3-w-olhae",
+   "hangul": "올해",
+   "type": "word",
+   "topic": "time",
+   "sound": {
+    "de": "olhae",
+    "en": "olhae"
+   },
+   "meaning": {
+    "de": "dieses Jahr",
+    "en": "this year"
+   },
+   "note": {
+    "de": "Gesprochen [오래].",
+    "en": "Pronounced [오래]."
+   },
+   "audio": "audio/s3-w-olhae.mp3"
+  }
+ ]
+}

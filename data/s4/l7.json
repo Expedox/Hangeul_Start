@@ -1,0 +1,244 @@
+{
+ "id": "s4-l7",
+ "stage": 4,
+ "lesson": 7,
+ "title": {
+  "de": "Wohin und wo: 에",
+  "en": "Where to and where: 에"
+ },
+ "intro": {
+  "de": "에 zeigt das Ziel (wohin?) oder den Ort, an dem etwas ist (wo?). Es bleibt immer gleich, egal ob Vokal oder Konsonant: 공항에 가요, 호텔에 있어요.\nMit 가요, 와요, 있어요 und 없어요 brauchst du fast immer 에.\nDas Fragewort ist 어디 (wo, wohin): 어디에 가요? = Wohin gehst du?",
+  "en": "에 marks a destination (where to?) or the place where something is (where?). It never changes, vowel or consonant: 공항에 가요, 호텔에 있어요.\nWith 가요, 와요, 있어요 and 없어요 you almost always need 에.\nThe question word is 어디 (where): 어디에 가요? = Where are you going?"
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "build-sentence"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-w-where",
+   "hangul": "어디",
+   "type": "word",
+   "topic": "questions",
+   "sound": {
+    "de": "eodi",
+    "en": "eodi"
+   },
+   "meaning": {
+    "de": "wo, wohin",
+    "en": "where"
+   },
+   "mnemonic": {
+    "de": "„O, die?“ – Wo ist die denn?",
+    "en": "\"Uh, dee…?\" – where did it go?"
+   },
+   "note": {
+    "de": "Mit 에: 어디에. Im Gespräch oft nur 어디.",
+    "en": "With 에: 어디에. In speech often just 어디."
+   },
+   "audio": "audio/s4-w-where.mp3"
+  },
+  {
+   "id": "s4-w-museum",
+   "hangul": "박물관",
+   "type": "word",
+   "topic": "places",
+   "sound": {
+    "de": "bangmulgwan",
+    "en": "bangmulgwan"
+   },
+   "meaning": {
+    "de": "Museum",
+    "en": "museum"
+   },
+   "mnemonic": {
+    "de": "Ein Haus (관) voller Dinge (물): Museum.",
+    "en": "A hall (관) full of things (물): museum."
+   },
+   "note": {
+    "de": "ㄱ vor ㅁ wird zu ng: bangmulgwan.",
+    "en": "ㄱ before ㅁ becomes ng: bangmulgwan."
+   },
+   "audio": "audio/s4-w-museum.mp3"
+  },
+  {
+   "id": "s4-s-go-to-airport",
+   "hangul": "저는 공항에 가요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeoneun gonghange gayo",
+    "en": "jeoneun gonghange gayo"
+   },
+   "meaning": {
+    "de": "Ich fahre zum Flughafen.",
+    "en": "I'm going to the airport."
+   },
+   "parts": [
+    "저는",
+    "공항에",
+    "가요"
+   ],
+   "extraParts": [
+    "공항에서"
+   ],
+   "audio": "audio/s4-s-go-to-airport.mp3"
+  },
+  {
+   "id": "s4-s-where-toilet",
+   "hangul": "화장실이 어디에 있어요?",
+   "type": "sentence",
+   "sound": {
+    "de": "hwajangsiri eodie isseoyo?",
+    "en": "hwajangsiri eodie isseoyo?"
+   },
+   "meaning": {
+    "de": "Wo ist die Toilette?",
+    "en": "Where is the toilet?"
+   },
+   "parts": [
+    "화장실이",
+    "어디에",
+    "있어요?"
+   ],
+   "extraParts": [
+    "어디에서"
+   ],
+   "audio": "audio/s4-s-where-toilet.mp3"
+  },
+  {
+   "id": "s4-s-friend-at-hotel",
+   "hangul": "친구가 호텔에 있어요",
+   "type": "sentence",
+   "sound": {
+    "de": "chinguga hotere isseoyo",
+    "en": "chinguga hotere isseoyo"
+   },
+   "meaning": {
+    "de": "Mein Freund / meine Freundin ist im Hotel.",
+    "en": "My friend is at the hotel."
+   },
+   "parts": [
+    "친구가",
+    "호텔에",
+    "있어요"
+   ],
+   "extraParts": [
+    "호텔을"
+   ],
+   "audio": "audio/s4-s-friend-at-hotel.mp3"
+  },
+  {
+   "id": "s4-s-museum-tomorrow",
+   "hangul": "내일 박물관에 가요",
+   "type": "sentence",
+   "sound": {
+    "de": "naeil bangmulgwane gayo",
+    "en": "naeil bangmulgwane gayo"
+   },
+   "meaning": {
+    "de": "Morgen gehe ich ins Museum.",
+    "en": "Tomorrow I'm going to the museum."
+   },
+   "parts": [
+    "내일",
+    "박물관에",
+    "가요"
+   ],
+   "extraParts": [
+    "박물관을"
+   ],
+   "audio": "audio/s4-s-museum-tomorrow.mp3"
+  },
+  {
+   "id": "s4-s-where-going",
+   "hangul": "어디에 가요?",
+   "type": "sentence",
+   "sound": {
+    "de": "eodie gayo?",
+    "en": "eodie gayo?"
+   },
+   "meaning": {
+    "de": "Wohin gehst du? / Wohin gehen Sie?",
+    "en": "Where are you going?"
+   },
+   "parts": [
+    "어디에",
+    "가요?"
+   ],
+   "extraParts": [
+    "어디가"
+   ],
+   "audio": "audio/s4-s-where-going.mp3"
+  },
+  {
+   "id": "s4-s-father-to-company",
+   "hangul": "아버지는 회사에 가요",
+   "type": "sentence",
+   "sound": {
+    "de": "abeojineun hoesae gayo",
+    "en": "abeojineun hoesae gayo"
+   },
+   "meaning": {
+    "de": "Mein Vater geht zur Arbeit.",
+    "en": "My father goes to work."
+   },
+   "parts": [
+    "아버지는",
+    "회사에",
+    "가요"
+   ],
+   "extraParts": [
+    "회사가"
+   ],
+   "audio": "audio/s4-s-father-to-company.mp3"
+  },
+  {
+   "id": "s4-s-we-go-to-sea",
+   "hangul": "우리는 바다에 가요",
+   "type": "sentence",
+   "sound": {
+    "de": "urineun badae gayo",
+    "en": "urineun badae gayo"
+   },
+   "meaning": {
+    "de": "Wir fahren ans Meer.",
+    "en": "We are going to the sea."
+   },
+   "parts": [
+    "우리는",
+    "바다에",
+    "가요"
+   ],
+   "extraParts": [
+    "바다에서"
+   ],
+   "audio": "audio/s4-s-we-go-to-sea.mp3"
+  },
+  {
+   "id": "s4-s-market-many-people",
+   "hangul": "시장에 사람이 많아요",
+   "type": "sentence",
+   "sound": {
+    "de": "sijange sarami manayo",
+    "en": "sijange sarami manayo"
+   },
+   "meaning": {
+    "de": "Auf dem Markt sind viele Leute.",
+    "en": "There are lots of people at the market."
+   },
+   "parts": [
+    "시장에",
+    "사람이",
+    "많아요"
+   ],
+   "extraParts": [
+    "사람을"
+   ],
+   "audio": "audio/s4-s-market-many-people.mp3"
+  }
+ ]
+}

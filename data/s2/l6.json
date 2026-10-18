@@ -1,0 +1,185 @@
+{
+ "id": "s2-l6",
+ "stage": 2,
+ "lesson": 6,
+ "title": {
+  "de": "Batchim: der Endkonsonant",
+  "en": "Batchim: the final consonant"
+ },
+ "intro": {
+  "de": "Ein Konsonant unten in der Silbe heißt Batchim (받침, „Stütze“). Er wird am Ende der Silbe gesprochen: 바 + ㅂ = 밥.\nAm Silbenende gibt es nur sieben Laute: k (ㄱ), n (ㄴ), t (ㄷ), l (ㄹ), m (ㅁ), p (ㅂ), ng (ㅇ).\nAndere Konsonanten werden einem dieser Laute zugeordnet: ㅋ ㄲ → k, ㅅ ㅆ ㅈ ㅊ ㅌ ㅎ → t, ㅍ → p.\nk, t und p am Ende werden nicht „losgelassen“: Der Mund schließt sich, aber es kommt keine Luft hinterher.",
+  "en": "A consonant at the bottom of a syllable is called batchim (받침, \"support\"). It is said at the end of the syllable: 바 + ㅂ = 밥.\nOnly seven sounds can end a syllable: k (ㄱ), n (ㄴ), t (ㄷ), l (ㄹ), m (ㅁ), p (ㅂ), ng (ㅇ).\nOther consonants fall into one of these: ㅋ ㄲ → k, ㅅ ㅆ ㅈ ㅊ ㅌ ㅎ → t, ㅍ → p.\nFinal k, t and p are not released: your mouth closes, but no air follows."
+ },
+ "exercises": [
+  "see-sound",
+  "hear-char",
+  "build-syllable"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s2-y-guk",
+   "hangul": "국",
+   "type": "syllable",
+   "sound": {
+    "de": "guk",
+    "en": "guk"
+   },
+   "parts": [
+    "ㄱ",
+    "ㅜ",
+    "ㄱ"
+   ],
+   "audio": "audio/s2-y-guk.mp3"
+  },
+  {
+   "id": "s2-y-san",
+   "hangul": "산",
+   "type": "syllable",
+   "sound": {
+    "de": "san",
+    "en": "san"
+   },
+   "parts": [
+    "ㅅ",
+    "ㅏ",
+    "ㄴ"
+   ],
+   "audio": "audio/s2-y-san.mp3"
+  },
+  {
+   "id": "s2-y-got",
+   "hangul": "곧",
+   "type": "syllable",
+   "sound": {
+    "de": "got",
+    "en": "got"
+   },
+   "parts": [
+    "ㄱ",
+    "ㅗ",
+    "ㄷ"
+   ],
+   "audio": "audio/s2-y-got.mp3"
+  },
+  {
+   "id": "s2-y-mul",
+   "hangul": "물",
+   "type": "syllable",
+   "sound": {
+    "de": "mul",
+    "en": "mul"
+   },
+   "parts": [
+    "ㅁ",
+    "ㅜ",
+    "ㄹ"
+   ],
+   "audio": "audio/s2-y-mul.mp3"
+  },
+  {
+   "id": "s2-y-bam",
+   "hangul": "밤",
+   "type": "syllable",
+   "sound": {
+    "de": "bam",
+    "en": "bam"
+   },
+   "parts": [
+    "ㅂ",
+    "ㅏ",
+    "ㅁ"
+   ],
+   "audio": "audio/s2-y-bam.mp3"
+  },
+  {
+   "id": "s2-y-bap",
+   "hangul": "밥",
+   "type": "syllable",
+   "sound": {
+    "de": "bap",
+    "en": "bap"
+   },
+   "parts": [
+    "ㅂ",
+    "ㅏ",
+    "ㅂ"
+   ],
+   "audio": "audio/s2-y-bap.mp3"
+  },
+  {
+   "id": "s2-y-gang",
+   "hangul": "강",
+   "type": "syllable",
+   "sound": {
+    "de": "gang",
+    "en": "gang"
+   },
+   "parts": [
+    "ㄱ",
+    "ㅏ",
+    "ㅇ"
+   ],
+   "audio": "audio/s2-y-gang.mp3"
+  },
+  {
+   "id": "s2-y-ot",
+   "hangul": "옷",
+   "type": "syllable",
+   "sound": {
+    "de": "ot",
+    "en": "ot"
+   },
+   "parts": [
+    "ㅇ",
+    "ㅗ",
+    "ㅅ"
+   ],
+   "note": {
+    "de": "ㅅ am Ende klingt wie t.",
+    "en": "ㅅ at the end sounds like t."
+   },
+   "audio": "audio/s2-y-ot.mp3"
+  },
+  {
+   "id": "s2-y-ap",
+   "hangul": "앞",
+   "type": "syllable",
+   "sound": {
+    "de": "ap",
+    "en": "ap"
+   },
+   "parts": [
+    "ㅇ",
+    "ㅏ",
+    "ㅍ"
+   ],
+   "note": {
+    "de": "ㅍ am Ende klingt wie p.",
+    "en": "ㅍ at the end sounds like p."
+   },
+   "audio": "audio/s2-y-ap.mp3"
+  },
+  {
+   "id": "s2-y-bak",
+   "hangul": "밖",
+   "type": "syllable",
+   "sound": {
+    "de": "bak",
+    "en": "bak"
+   },
+   "parts": [
+    "ㅂ",
+    "ㅏ",
+    "ㄲ"
+   ],
+   "note": {
+    "de": "ㄲ am Ende klingt wie k.",
+    "en": "ㄲ at the end sounds like k."
+   },
+   "audio": "audio/s2-y-bak.mp3"
+  }
+ ]
+}

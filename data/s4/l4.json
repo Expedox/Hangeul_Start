@@ -1,0 +1,407 @@
+{
+ "id": "s4-l4",
+ "stage": 4,
+ "lesson": 4,
+ "title": {
+  "de": "Verben: -아요/-어요",
+  "en": "Verbs: -아요/-어요"
+ },
+ "intro": {
+  "de": "Das Verb steht im Koreanischen immer am Ende. Im Wörterbuch endet es auf -다: 가다 = gehen.\nFür die höfliche Gegenwart streichst du -다 und hängst -아요 oder -어요 an. Ist der letzte Vokal ㅏ oder ㅗ, nimm -아요 (보다 → 봐요). Sonst -어요 (먹다 → 먹어요).\nGleiche Vokale verschmelzen: 가 + 아요 = 가요, 마시 + 어요 = 마셔요.\nDie Form passt für ich, du, er, sie, wir. Wer gemeint ist, sagt der Zusammenhang.",
+  "en": "In Korean the verb always comes last. In the dictionary it ends in -다: 가다 = to go.\nFor the polite present, drop -다 and add -아요 or -어요. If the last vowel is ㅏ or ㅗ, use -아요 (보다 → 봐요). Otherwise use -어요 (먹다 → 먹어요).\nVowels merge: 가 + 아요 = 가요, 마시 + 어요 = 마셔요.\nThe same form works for I, you, he, she, we. Context tells you who."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "build-sentence"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-w-go",
+   "hangul": "가요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "gayo",
+    "en": "gayo"
+   },
+   "meaning": {
+    "de": "gehen, fahren",
+    "en": "to go"
+   },
+   "mnemonic": {
+    "de": "„Ga!“ – und los geht's.",
+    "en": "\"Gah!\" – and off you go."
+   },
+   "note": {
+    "de": "Grundform 가다. 가 + 아요 → 가요.",
+    "en": "Dictionary form 가다. 가 + 아요 → 가요."
+   },
+   "audio": "audio/s4-w-go.mp3"
+  },
+  {
+   "id": "s4-w-come",
+   "hangul": "와요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "wayo",
+    "en": "wayo"
+   },
+   "meaning": {
+    "de": "kommen",
+    "en": "to come"
+   },
+   "mnemonic": {
+    "de": "„Wa, da kommt jemand!“",
+    "en": "\"Wah, here they come!\""
+   },
+   "note": {
+    "de": "Grundform 오다. 오 + 아요 → 와요.",
+    "en": "Dictionary form 오다. 오 + 아요 → 와요."
+   },
+   "audio": "audio/s4-w-come.mp3"
+  },
+  {
+   "id": "s4-w-see",
+   "hangul": "봐요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "bwayo",
+    "en": "bwayo"
+   },
+   "meaning": {
+    "de": "sehen, anschauen",
+    "en": "to see, to watch"
+   },
+   "mnemonic": {
+    "de": "„Bwa, schau mal!“",
+    "en": "\"Bwah, look at that!\""
+   },
+   "note": {
+    "de": "Grundform 보다. 보 + 아요 → 봐요.",
+    "en": "Dictionary form 보다. 보 + 아요 → 봐요."
+   },
+   "audio": "audio/s4-w-see.mp3"
+  },
+  {
+   "id": "s4-w-buy",
+   "hangul": "사요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "sayo",
+    "en": "sayo"
+   },
+   "meaning": {
+    "de": "kaufen",
+    "en": "to buy"
+   },
+   "mnemonic": {
+    "de": "Im Laden sagst du „sayo“ und das Ding gehört dir.",
+    "en": "Say \"sayo\" at the shop and it's yours."
+   },
+   "note": {
+    "de": "Grundform 사다.",
+    "en": "Dictionary form 사다."
+   },
+   "audio": "audio/s4-w-buy.mp3"
+  },
+  {
+   "id": "s4-w-sleep",
+   "hangul": "자요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "jayo",
+    "en": "jayo"
+   },
+   "meaning": {
+    "de": "schlafen",
+    "en": "to sleep"
+   },
+   "mnemonic": {
+    "de": "„Ja, jo, ich schlaf jetzt.“",
+    "en": "\"Yeah, yo, I'm going to sleep.\""
+   },
+   "note": {
+    "de": "Grundform 자다.",
+    "en": "Dictionary form 자다."
+   },
+   "audio": "audio/s4-w-sleep.mp3"
+  },
+  {
+   "id": "s4-w-meet",
+   "hangul": "만나요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "mannayo",
+    "en": "mannayo"
+   },
+   "meaning": {
+    "de": "treffen",
+    "en": "to meet"
+   },
+   "mnemonic": {
+    "de": "Man trifft sich: „manna“.",
+    "en": "\"Man, nice to meet you\": manna."
+   },
+   "note": {
+    "de": "Grundform 만나다.",
+    "en": "Dictionary form 만나다."
+   },
+   "audio": "audio/s4-w-meet.mp3"
+  },
+  {
+   "id": "s4-w-eat",
+   "hangul": "먹어요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "meogeoyo",
+    "en": "meogeoyo"
+   },
+   "meaning": {
+    "de": "essen",
+    "en": "to eat"
+   },
+   "mnemonic": {
+    "de": "„Mögen“ klingt fast wie meogeo: Ich mag essen.",
+    "en": "\"Munch\": meogeoyo."
+   },
+   "note": {
+    "de": "Grundform 먹다. ㅓ → -어요.",
+    "en": "Dictionary form 먹다. ㅓ → -어요."
+   },
+   "audio": "audio/s4-w-eat.mp3"
+  },
+  {
+   "id": "s4-w-drink",
+   "hangul": "마셔요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "masyeoyo",
+    "en": "masyeoyo"
+   },
+   "meaning": {
+    "de": "trinken",
+    "en": "to drink"
+   },
+   "mnemonic": {
+    "de": "„Mach schon!“ – austrinken.",
+    "en": "\"Ma, sure!\" – one more drink."
+   },
+   "note": {
+    "de": "Grundform 마시다. 시 + 어 → 셔.",
+    "en": "Dictionary form 마시다. 시 + 어 → 셔."
+   },
+   "audio": "audio/s4-w-drink.mp3"
+  },
+  {
+   "id": "s4-w-wait",
+   "hangul": "기다려요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "gidaryeoyo",
+    "en": "gidaryeoyo"
+   },
+   "meaning": {
+    "de": "warten",
+    "en": "to wait"
+   },
+   "mnemonic": {
+    "de": "Ein langes Wort für etwas, das lange dauert: warten.",
+    "en": "A long word for something that takes long: waiting."
+   },
+   "note": {
+    "de": "Grundform 기다리다. 리 + 어 → 려.",
+    "en": "Dictionary form 기다리다. 리 + 어 → 려."
+   },
+   "audio": "audio/s4-w-wait.mp3"
+  },
+  {
+   "id": "s4-w-sit",
+   "hangul": "앉아요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "anjayo",
+    "en": "anjayo"
+   },
+   "meaning": {
+    "de": "sich setzen, sitzen",
+    "en": "to sit (down)"
+   },
+   "mnemonic": {
+    "de": "„Anja“ setzt sich an den Tisch.",
+    "en": "\"Anja\" sits down on a chair."
+   },
+   "note": {
+    "de": "Grundform 앉다. Das ㅈ rückt nach: anjayo.",
+    "en": "Dictionary form 앉다. The ㅈ moves on: anjayo."
+   },
+   "audio": "audio/s4-w-sit.mp3"
+  },
+  {
+   "id": "s4-s-friend-comes",
+   "hangul": "친구가 와요",
+   "type": "sentence",
+   "sound": {
+    "de": "chinguga wayo",
+    "en": "chinguga wayo"
+   },
+   "meaning": {
+    "de": "Mein Freund / meine Freundin kommt.",
+    "en": "My friend is coming."
+   },
+   "parts": [
+    "친구가",
+    "와요"
+   ],
+   "extraParts": [
+    "오아요"
+   ],
+   "audio": "audio/s4-s-friend-comes.mp3"
+  },
+  {
+   "id": "s4-s-i-sit-here",
+   "hangul": "저는 여기 앉아요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeoneun yeogi anjayo",
+    "en": "jeoneun yeogi anjayo"
+   },
+   "meaning": {
+    "de": "Ich setze mich hierhin.",
+    "en": "I'll sit here."
+   },
+   "parts": [
+    "저는",
+    "여기",
+    "앉아요"
+   ],
+   "extraParts": [
+    "앉어요"
+   ],
+   "audio": "audio/s4-s-i-sit-here.mp3"
+  },
+  {
+   "id": "s4-s-child-sleeps",
+   "hangul": "아이가 자요",
+   "type": "sentence",
+   "sound": {
+    "de": "aiga jayo",
+    "en": "aiga jayo"
+   },
+   "meaning": {
+    "de": "Das Kind schläft.",
+    "en": "The child is sleeping."
+   },
+   "parts": [
+    "아이가",
+    "자요"
+   ],
+   "extraParts": [
+    "자어요"
+   ],
+   "audio": "audio/s4-s-child-sleeps.mp3"
+  },
+  {
+   "id": "s4-s-friend-waits",
+   "hangul": "친구가 기다려요",
+   "type": "sentence",
+   "sound": {
+    "de": "chinguga gidaryeoyo",
+    "en": "chinguga gidaryeoyo"
+   },
+   "meaning": {
+    "de": "Mein Freund / meine Freundin wartet.",
+    "en": "My friend is waiting."
+   },
+   "parts": [
+    "친구가",
+    "기다려요"
+   ],
+   "extraParts": [
+    "기다리요"
+   ],
+   "audio": "audio/s4-s-friend-waits.mp3"
+  },
+  {
+   "id": "s4-s-bus-comes",
+   "hangul": "버스가 와요",
+   "type": "sentence",
+   "sound": {
+    "de": "beoseuga wayo",
+    "en": "beoseuga wayo"
+   },
+   "meaning": {
+    "de": "Der Bus kommt.",
+    "en": "The bus is coming."
+   },
+   "parts": [
+    "버스가",
+    "와요"
+   ],
+   "extraParts": [
+    "오요"
+   ],
+   "audio": "audio/s4-s-bus-comes.mp3"
+  },
+  {
+   "id": "s4-s-we-meet-tomorrow",
+   "hangul": "우리는 내일 만나요",
+   "type": "sentence",
+   "sound": {
+    "de": "urineun naeil mannayo",
+    "en": "urineun naeil mannayo"
+   },
+   "meaning": {
+    "de": "Wir treffen uns morgen.",
+    "en": "We are meeting tomorrow."
+   },
+   "note": {
+    "de": "Die Gegenwart steht oft auch für die nahe Zukunft.",
+    "en": "The present often covers the near future too."
+   },
+   "parts": [
+    "우리는",
+    "내일",
+    "만나요"
+   ],
+   "extraParts": [
+    "만나아요"
+   ],
+   "audio": "audio/s4-s-we-meet-tomorrow.mp3"
+  },
+  {
+   "id": "s4-s-i-go-now",
+   "hangul": "저는 지금 가요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeoneun jigeum gayo",
+    "en": "jeoneun jigeum gayo"
+   },
+   "meaning": {
+    "de": "Ich gehe jetzt.",
+    "en": "I'm going now."
+   },
+   "parts": [
+    "저는",
+    "지금",
+    "가요"
+   ],
+   "extraParts": [
+    "가아요"
+   ],
+   "audio": "audio/s4-s-i-go-now.mp3"
+  }
+ ]
+}

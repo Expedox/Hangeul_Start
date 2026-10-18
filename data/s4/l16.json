@@ -1,0 +1,331 @@
+{
+ "id": "s4-l16",
+ "stage": 4,
+ "lesson": 16,
+ "title": {
+  "de": "Gespräch: im Hotel",
+  "en": "Conversation: at the hotel"
+ },
+ "intro": {
+  "de": "An der Rezeption spricht man dich sehr höflich an, oft mit -세요 oder -으세요.\n성함 ist das höfliche Wort für „Name“. Du antwortest normal mit -요.",
+  "en": "At reception, staff address you very politely, often with -세요 or -으세요.\n성함 is the honorific word for \"name\". You simply answer with -요."
+ },
+ "exercises": [
+  "dialog-reply"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-d-hotel-reservation",
+   "hangul": "어서 오세요. 예약 있으세요?",
+   "type": "dialog",
+   "topic": "hotel",
+   "sound": {
+    "de": "eoseo oseyo. yeyak isseuseyo?",
+    "en": "eoseo oseyo. yeyak isseuseyo?"
+   },
+   "meaning": {
+    "de": "Willkommen. Haben Sie reserviert?",
+    "en": "Welcome. Do you have a reservation?"
+   },
+   "reply": {
+    "hangul": "네, 예약이 있어요",
+    "sound": {
+     "de": "ne, yeyagi isseoyo",
+     "en": "ne, yeyagi isseoyo"
+    },
+    "meaning": {
+     "de": "Ja, ich habe eine Reservierung.",
+     "en": "Yes, I have a reservation."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "네, 날씨가 좋아요",
+     "meaning": {
+      "de": "Ja, das Wetter ist schön.",
+      "en": "Yes, the weather is nice."
+     }
+    },
+    {
+     "hangul": "아니요, 안 매워요",
+     "meaning": {
+      "de": "Nein, es ist nicht scharf.",
+      "en": "No, it's not spicy."
+     }
+    },
+    {
+     "hangul": "저는 영화를 봐요",
+     "meaning": {
+      "de": "Ich sehe einen Film.",
+      "en": "I'm watching a movie."
+     }
+    }
+   ],
+   "note": {
+    "de": "있으세요 ist die ehrende Form von 있어요.",
+    "en": "있으세요 is the honorific form of 있어요."
+   },
+   "audio": "audio/s4-d-hotel-reservation.mp3"
+  },
+  {
+   "id": "s4-d-hotel-name",
+   "hangul": "성함이 어떻게 되세요?",
+   "type": "dialog",
+   "topic": "hotel",
+   "sound": {
+    "de": "seonghami eotteoke doeseyo?",
+    "en": "seonghami eotteoke doeseyo?"
+   },
+   "meaning": {
+    "de": "Wie ist Ihr Name, bitte?",
+    "en": "May I have your name?"
+   },
+   "reply": {
+    "hangul": "제 이름은 안나 슈미트예요",
+    "sound": {
+     "de": "je ireumeun anna syumiteuyeyo",
+     "en": "je ireumeun anna syumiteuyeyo"
+    },
+    "meaning": {
+     "de": "Mein Name ist Anna Schmidt.",
+     "en": "My name is Anna Schmidt."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "방이 커요",
+     "meaning": {
+      "de": "Das Zimmer ist groß.",
+      "en": "The room is big."
+     }
+    },
+    {
+     "hangul": "호텔에 가요",
+     "meaning": {
+      "de": "Ich gehe zum Hotel.",
+      "en": "I'm going to the hotel."
+     }
+    },
+    {
+     "hangul": "저는 피곤해요",
+     "meaning": {
+      "de": "Ich bin müde.",
+      "en": "I'm tired."
+     }
+    }
+   ],
+   "note": {
+    "de": "Höfliche Frage nach dem Namen. Wörtlich: „Wie wird Ihr Name?“",
+    "en": "A polite way to ask for a name. Literally: \"How does your name become?\""
+   },
+   "audio": "audio/s4-d-hotel-name.mp3"
+  },
+  {
+   "id": "s4-d-hotel-passport",
+   "hangul": "여권 주세요",
+   "type": "dialog",
+   "topic": "hotel",
+   "sound": {
+    "de": "yeogwon juseyo",
+    "en": "yeogwon juseyo"
+   },
+   "meaning": {
+    "de": "Ihren Pass, bitte.",
+    "en": "Your passport, please."
+   },
+   "reply": {
+    "hangul": "네, 여기 있어요",
+    "sound": {
+     "de": "ne, yeogi isseoyo",
+     "en": "ne, yeogi isseoyo"
+    },
+    "meaning": {
+     "de": "Ja, hier ist er.",
+     "en": "Sure, here it is."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "저는 수영해요",
+     "meaning": {
+      "de": "Ich schwimme.",
+      "en": "I swim."
+     }
+    },
+    {
+     "hangul": "네, 비싸요",
+     "meaning": {
+      "de": "Ja, es ist teuer.",
+      "en": "Yes, it's expensive."
+     }
+    },
+    {
+     "hangul": "공원에서 놀아요",
+     "meaning": {
+      "de": "Ich spiele im Park.",
+      "en": "I'm playing in the park."
+     }
+    }
+   ],
+   "note": {
+    "de": "여기 있어요 sagst du immer, wenn du etwas überreichst.",
+    "en": "Say 여기 있어요 whenever you hand something over."
+   },
+   "audio": "audio/s4-d-hotel-passport.mp3"
+  },
+  {
+   "id": "s4-d-hotel-floor",
+   "hangul": "방은 5층이에요",
+   "type": "dialog",
+   "topic": "hotel",
+   "sound": {
+    "de": "bangeun ocheungieyo",
+    "en": "bangeun ocheungieyo"
+   },
+   "meaning": {
+    "de": "Ihr Zimmer ist im 5. Stock.",
+    "en": "Your room is on the 5th floor."
+   },
+   "reply": {
+    "hangul": "엘리베이터가 어디에 있어요?",
+    "sound": {
+     "de": "ellibeiteoga eodie isseoyo?",
+     "en": "ellibeiteoga eodie isseoyo?"
+    },
+    "meaning": {
+     "de": "Wo ist der Aufzug?",
+     "en": "Where is the elevator?"
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "고기를 안 먹어요",
+     "meaning": {
+      "de": "Ich esse kein Fleisch.",
+      "en": "I don't eat meat."
+     }
+    },
+    {
+     "hangul": "책을 읽어요",
+     "meaning": {
+      "de": "Ich lese ein Buch.",
+      "en": "I'm reading a book."
+     }
+    },
+    {
+     "hangul": "김밥이 싸요",
+     "meaning": {
+      "de": "Kimbap ist billig.",
+      "en": "Kimbap is cheap."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-hotel-floor.mp3"
+  },
+  {
+   "id": "s4-d-hotel-breakfast",
+   "hangul": "조식은 1층 식당에서 먹어요",
+   "type": "dialog",
+   "topic": "hotel",
+   "sound": {
+    "de": "josigeun ilcheung sikdangeseo meogeoyo",
+    "en": "josigeun ilcheung sikdangeseo meogeoyo"
+   },
+   "meaning": {
+    "de": "Das Frühstück gibt es im Restaurant im Erdgeschoss.",
+    "en": "Breakfast is served in the restaurant on the ground floor."
+   },
+   "reply": {
+    "hangul": "몇 시예요?",
+    "sound": {
+     "de": "myeot siyeyo?",
+     "en": "myeot siyeyo?"
+    },
+    "meaning": {
+     "de": "Um wie viel Uhr?",
+     "en": "What time?"
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "저는 학생이에요",
+     "meaning": {
+      "de": "Ich bin Student(in).",
+      "en": "I'm a student."
+     }
+    },
+    {
+     "hangul": "신발이 작아요",
+     "meaning": {
+      "de": "Die Schuhe sind klein.",
+      "en": "The shoes are small."
+     }
+    },
+    {
+     "hangul": "버스가 와요",
+     "meaning": {
+      "de": "Der Bus kommt.",
+      "en": "The bus is coming."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-hotel-breakfast.mp3"
+  },
+  {
+   "id": "s4-d-hotel-anything-else",
+   "hangul": "다른 거 필요하세요?",
+   "type": "dialog",
+   "topic": "hotel",
+   "sound": {
+    "de": "dareun geo piryohaseyo?",
+    "en": "dareun geo piryohaseyo?"
+   },
+   "meaning": {
+    "de": "Brauchen Sie noch etwas?",
+    "en": "Do you need anything else?"
+   },
+   "reply": {
+    "hangul": "수건이 더 있어요?",
+    "sound": {
+     "de": "sugeoni deo isseoyo?",
+     "en": "sugeoni deo isseoyo?"
+    },
+    "meaning": {
+     "de": "Gibt es noch mehr Handtücher?",
+     "en": "Are there more towels?"
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "저는 공원에서 놀아요",
+     "meaning": {
+      "de": "Ich spiele im Park.",
+      "en": "I'm playing in the park."
+     }
+    },
+    {
+     "hangul": "버스가 와요",
+     "meaning": {
+      "de": "Der Bus kommt.",
+      "en": "The bus is coming."
+     }
+    },
+    {
+     "hangul": "친구는 의사예요",
+     "meaning": {
+      "de": "Mein Freund ist Arzt.",
+      "en": "My friend is a doctor."
+     }
+    }
+   ],
+   "note": {
+    "de": "필요하다 heißt „brauchen, nötig sein“.",
+    "en": "필요하다 means \"to need, to be necessary\"."
+   },
+   "audio": "audio/s4-d-hotel-anything-else.mp3"
+  }
+ ]
+}

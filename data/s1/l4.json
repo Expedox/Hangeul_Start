@@ -1,0 +1,78 @@
+{
+ "id": "s1-l4",
+ "stage": 1,
+ "lesson": 4,
+ "title": {
+  "de": "Noch mehr Konsonanten",
+  "en": "More consonants"
+ },
+ "intro": {
+  "de": "ㅇ ist besonders: Am Anfang einer Silbe ist es stumm und hält nur den Platz frei. Am Ende klingt es wie „ng“ in „lang“.",
+  "en": "ㅇ is special: at the start of a syllable it is silent and just holds the spot. At the end it sounds like \"ng\" in \"sing\"."
+ },
+ "exercises": [
+  "see-sound",
+  "hear-char"
+ ],
+ "check": {
+  "questions": 6
+ },
+ "items": [
+  {
+   "id": "s1-c-b",
+   "hangul": "ㅂ",
+   "type": "consonant",
+   "sound": {
+    "de": "b / p",
+    "en": "b / p"
+   },
+   "mnemonic": {
+    "de": "Wie ein Becher mit zwei Henkeln: „b“ wie Becher.",
+    "en": "Looks like a bucket: \"b\" as in bucket."
+   },
+   "audio": "audio/s1-c-b.mp3"
+  },
+  {
+   "id": "s1-c-s",
+   "hangul": "ㅅ",
+   "type": "consonant",
+   "sound": {
+    "de": "s",
+    "en": "s"
+   },
+   "mnemonic": {
+    "de": "Ein spitzes Dach: „s“. Vor ㅣ klingt es wie „sch“.",
+    "en": "A pointed roof, like a sail: \"s\". Before ㅣ it sounds like \"sh\"."
+   },
+   "audio": "audio/s1-c-s.mp3"
+  },
+  {
+   "id": "s1-c-ng",
+   "hangul": "ㅇ",
+   "type": "consonant",
+   "sound": {
+    "de": "stumm / ng",
+    "en": "silent / ng"
+   },
+   "mnemonic": {
+    "de": "Ein Kreis wie eine Null: am Anfang null Laut, am Ende „ng“.",
+    "en": "A circle like a zero: zero sound at the start, \"ng\" at the end."
+   },
+   "audio": "audio/s1-c-ng.mp3"
+  },
+  {
+   "id": "s1-c-j",
+   "hangul": "ㅈ",
+   "type": "consonant",
+   "sound": {
+    "de": "j",
+    "en": "j"
+   },
+   "mnemonic": {
+    "de": "Ein Dach ㅅ mit Deckel oben drauf: „j“ wie am Anfang von „Dschungel“.",
+    "en": "The roof ㅅ with a lid on top: \"j\" as in jug."
+   },
+   "audio": "audio/s1-c-j.mp3"
+  }
+ ]
+}

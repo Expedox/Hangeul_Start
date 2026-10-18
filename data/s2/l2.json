@@ -1,0 +1,96 @@
+{
+ "id": "s2-l2",
+ "stage": 2,
+ "lesson": 2,
+ "title": {
+  "de": "Gespannte Konsonanten",
+  "en": "Tense consonants"
+ },
+ "intro": {
+  "de": "Gespannte Konsonanten werden mit festem Hals und ganz ohne Hauch gesprochen, kurz und hart. Man schreibt sie, indem man einen Grundkonsonanten verdoppelt: ㄱ → ㄲ, ㄷ → ㄸ, ㅂ → ㅃ, ㅅ → ㅆ, ㅈ → ㅉ.\nTipp: Die Hand vor dem Mund bleibt fast ruhig.",
+  "en": "Tense consonants are said with a tight throat and no puff of air at all, short and sharp. You write them by doubling a basic consonant: ㄱ → ㄲ, ㄷ → ㄸ, ㅂ → ㅃ, ㅅ → ㅆ, ㅈ → ㅉ.\nTip: think of the k in \"skin\" or the p in \"spy\". There is almost no air, and your hand stays still."
+ },
+ "exercises": [
+  "see-sound",
+  "hear-char"
+ ],
+ "check": {
+  "questions": 6
+ },
+ "items": [
+  {
+   "id": "s2-c-kk",
+   "hangul": "ㄲ",
+   "type": "consonant",
+   "sound": {
+    "de": "kk",
+    "en": "kk"
+   },
+   "mnemonic": {
+    "de": "Zwei ㄱ nebeneinander: doppelt so fest, aber ohne Luft.",
+    "en": "Two ㄱ side by side: twice as tight, with no air."
+   },
+   "audio": "audio/s2-c-kk.mp3"
+  },
+  {
+   "id": "s2-c-tt",
+   "hangul": "ㄸ",
+   "type": "consonant",
+   "sound": {
+    "de": "tt",
+    "en": "tt"
+   },
+   "mnemonic": {
+    "de": "Zwei ㄷ, eng aneinander gedrückt: ein hartes, kurzes t.",
+    "en": "Two ㄷ squeezed together: a short, hard t."
+   },
+   "audio": "audio/s2-c-tt.mp3"
+  },
+  {
+   "id": "s2-c-pp",
+   "hangul": "ㅃ",
+   "type": "consonant",
+   "sound": {
+    "de": "pp",
+    "en": "pp"
+   },
+   "mnemonic": {
+    "de": "Doppeltes ㅂ: Lippen fest zusammen, dann ein knappes p ohne Pusten.",
+    "en": "A double ㅂ: press your lips firmly, then a crisp p without blowing."
+   },
+   "audio": "audio/s2-c-pp.mp3"
+  },
+  {
+   "id": "s2-c-ss",
+   "hangul": "ㅆ",
+   "type": "consonant",
+   "sound": {
+    "de": "ss",
+    "en": "ss"
+   },
+   "mnemonic": {
+    "de": "Zwei ㅅ: ein scharfes, gezischtes s, schärfer als das normale ㅅ.",
+    "en": "Two ㅅ: a sharp, hissing s, crisper than plain ㅅ."
+   },
+   "note": {
+    "de": "Vor ㅣ klingt ㅆ wie ein scharfes sch, z. B. in 씨.",
+    "en": "Before ㅣ, ㅆ sounds like a sharp sh, as in 씨."
+   },
+   "audio": "audio/s2-c-ss.mp3"
+  },
+  {
+   "id": "s2-c-jj",
+   "hangul": "ㅉ",
+   "type": "consonant",
+   "sound": {
+    "de": "jj",
+    "en": "jj"
+   },
+   "mnemonic": {
+    "de": "Zwei ㅈ: ein gepresstes tsch ohne Hauch.",
+    "en": "Two ㅈ: a tight, pressed j with no breath."
+   },
+   "audio": "audio/s2-c-jj.mp3"
+  }
+ ]
+}

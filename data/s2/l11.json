@@ -1,0 +1,212 @@
+{
+ "id": "s2-l11",
+ "stage": 2,
+ "lesson": 11,
+ "title": {
+  "de": "Die Speisekarte",
+  "en": "The menu"
+ },
+ "intro": {
+  "de": "Zum Schluss der Stufe: eine koreanische Speisekarte. Viele Gerichte heißen auch bei uns so, wie man sie auf Koreanisch liest.\nAchte auf die Regel aus der letzten Lektion: Nach k, t, p wird der nächste Konsonant gespannt, z. B. 떡볶이 → 떡뽀끼. Auch in zusammengesetzten Wörtern wie 비빔밥 (gesprochen 비빔빱) wird oft gespannt.",
+  "en": "To finish this stage: a Korean menu. Many dishes keep their Korean names in English too.\nWatch for the rule from the last lesson: after k, t, p the next consonant becomes tense, as in 떡볶이 → 떡뽀끼. Compound words like 비빔밥 (said 비빔빱) often tense up too."
+ },
+ "exercises": [
+  "see-sound",
+  "see-meaning",
+  "hear-meaning",
+  "pick-hangul"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s2-w-menyu",
+   "hangul": "메뉴",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "menyu",
+    "en": "menyu"
+   },
+   "meaning": {
+    "de": "Speisekarte",
+    "en": "menu"
+   },
+   "audio": "audio/s2-w-menyu.mp3"
+  },
+  {
+   "id": "s2-w-gimchi",
+   "hangul": "김치",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "gimchi",
+    "en": "gimchi"
+   },
+   "meaning": {
+    "de": "Kimchi (scharf eingelegter Kohl)",
+    "en": "kimchi (spicy fermented cabbage)"
+   },
+   "audio": "audio/s2-w-gimchi.mp3"
+  },
+  {
+   "id": "s2-w-gimbap",
+   "hangul": "김밥",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "gimbap",
+    "en": "gimbap"
+   },
+   "meaning": {
+    "de": "Kimbap (Reisrolle mit Seetang)",
+    "en": "gimbap (seaweed rice roll)"
+   },
+   "mnemonic": {
+    "de": "김 ist Seetang, 밥 ist Reis: genau das steckt drin.",
+    "en": "김 is seaweed, 밥 is rice: exactly what's inside."
+   },
+   "note": {
+    "de": "Man hört auch 김빱.",
+    "en": "You'll also hear 김빱."
+   },
+   "audio": "audio/s2-w-gimbap.mp3",
+   "verify": true,
+   "verifyNote": "Aussprache: Standard [김밥], [김빱] ist ebenfalls zugelassen und sehr verbreitet. Welche Form für Lautschrift/Audio?"
+  },
+  {
+   "id": "s2-w-bibimbap",
+   "hangul": "비빔밥",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "bibimbap",
+    "en": "bibimbap"
+   },
+   "meaning": {
+    "de": "Bibimbap (Reis mit Gemüse, gemischt)",
+    "en": "bibimbap (mixed rice with vegetables)"
+   },
+   "mnemonic": {
+    "de": "비비다 heißt mischen: Vor dem Essen wird alles verrührt.",
+    "en": "비비다 means to mix: you stir it all together before eating."
+   },
+   "note": {
+    "de": "Gesprochen 비빔빱.",
+    "en": "Pronounced 비빔빱."
+   },
+   "audio": "audio/s2-w-bibimbap.mp3"
+  },
+  {
+   "id": "s2-w-bulgogi",
+   "hangul": "불고기",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "bulgogi",
+    "en": "bulgogi"
+   },
+   "meaning": {
+    "de": "Bulgogi (mariniertes, gebratenes Rindfleisch)",
+    "en": "bulgogi (marinated grilled beef)"
+   },
+   "mnemonic": {
+    "de": "불 ist Feuer, 고기 ist Fleisch: Fleisch vom Feuer.",
+    "en": "불 is fire, 고기 is meat: meat from the fire."
+   },
+   "audio": "audio/s2-w-bulgogi.mp3"
+  },
+  {
+   "id": "s2-w-ramyeon",
+   "hangul": "라면",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "ramyeon",
+    "en": "ramyeon"
+   },
+   "meaning": {
+    "de": "Instant-Nudelsuppe",
+    "en": "instant noodles (ramyeon)"
+   },
+   "audio": "audio/s2-w-ramyeon.mp3"
+  },
+  {
+   "id": "s2-w-naengmyeon",
+   "hangul": "냉면",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "naengmyeon",
+    "en": "naengmyeon"
+   },
+   "meaning": {
+    "de": "kalte Nudeln",
+    "en": "cold noodles"
+   },
+   "mnemonic": {
+    "de": "냉 wie kalt, 면 wie Nudeln, das 면 steckt auch in 라면.",
+    "en": "냉 means cold, 면 means noodles, the same 면 as in 라면."
+   },
+   "audio": "audio/s2-w-naengmyeon.mp3"
+  },
+  {
+   "id": "s2-w-gimchijjigae",
+   "hangul": "김치찌개",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "gimchijjigae",
+    "en": "gimchijjigae"
+   },
+   "meaning": {
+    "de": "Kimchi-Eintopf",
+    "en": "kimchi stew"
+   },
+   "audio": "audio/s2-w-gimchijjigae.mp3"
+  },
+  {
+   "id": "s2-w-tteokbokki",
+   "hangul": "떡볶이",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "tteokbokki",
+    "en": "tteokbokki"
+   },
+   "meaning": {
+    "de": "Tteokbokki (scharfe Reiskuchen)",
+    "en": "tteokbokki (spicy rice cakes)"
+   },
+   "note": {
+    "de": "Gesprochen 떡뽀끼: ㅂ wird nach ㄱ gespannt, und ㄲ rutscht in die nächste Silbe.",
+    "en": "Pronounced 떡뽀끼: ㅂ becomes tense after ㄱ, and ㄲ slides into the next syllable."
+   },
+   "audio": "audio/s2-w-tteokbokki.mp3"
+  },
+  {
+   "id": "s2-w-samgyeopsal",
+   "hangul": "삼겹살",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "samgyeopsal",
+    "en": "samgyeopsal"
+   },
+   "meaning": {
+    "de": "gegrillter Schweinebauch",
+    "en": "grilled pork belly"
+   },
+   "mnemonic": {
+    "de": "삼 heißt drei: drei Schichten Fleisch und Fett.",
+    "en": "삼 means three: three layers of meat and fat."
+   },
+   "note": {
+    "de": "Gesprochen 삼겹쌀.",
+    "en": "Pronounced 삼겹쌀."
+   },
+   "audio": "audio/s2-w-samgyeopsal.mp3"
+  }
+ ]
+}

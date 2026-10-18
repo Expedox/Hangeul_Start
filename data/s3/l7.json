@@ -1,0 +1,209 @@
+{
+ "id": "s3-l7",
+ "stage": 3,
+ "lesson": 7,
+ "title": {
+  "de": "Danken und Entschuldigen",
+  "en": "Thanks and apologies"
+ },
+ "intro": {
+  "de": "Für „danke“ und „Entschuldigung“ gibt es je zwei Wörter. 감사합니다 und 죄송합니다 sind etwas förmlicher als 고맙습니다 und 미안합니다.\nMit -요 am Ende (고마워요, 미안해요) klingt es freundlich und alltäglich.",
+  "en": "There are two words each for \"thank you\" and \"sorry\". 감사합니다 and 죄송합니다 are a bit more formal than 고맙습니다 and 미안합니다.\nWith -요 at the end (고마워요, 미안해요) they sound friendly and everyday."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "see-sound"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s3-p-gamsahamnida",
+   "hangul": "감사합니다",
+   "type": "phrase",
+   "topic": "politeness",
+   "sound": {
+    "de": "gamsahamnida",
+    "en": "gamsahamnida"
+   },
+   "meaning": {
+    "de": "Vielen Dank",
+    "en": "thank you"
+   },
+   "mnemonic": {
+    "de": "Das sicherste Danke, immer passend.",
+    "en": "The safest thank-you; always fine."
+   },
+   "note": {
+    "de": "ㅂ vor ㄴ klingt wie ㅁ: [감사함니다].",
+    "en": "ㅂ before ㄴ sounds like ㅁ: [감사함니다]."
+   },
+   "audio": "audio/s3-p-gamsahamnida.mp3"
+  },
+  {
+   "id": "s3-p-gomapseumnida",
+   "hangul": "고맙습니다",
+   "type": "phrase",
+   "topic": "politeness",
+   "sound": {
+    "de": "gomapseumnida",
+    "en": "gomapseumnida"
+   },
+   "meaning": {
+    "de": "Danke",
+    "en": "thank you"
+   },
+   "mnemonic": {
+    "de": "Etwas wärmer und persönlicher als 감사합니다.",
+    "en": "A little warmer and more personal than 감사합니다."
+   },
+   "note": {
+    "de": "Gesprochen [고맙씀니다].",
+    "en": "Pronounced [고맙씀니다]."
+   },
+   "audio": "audio/s3-p-gomapseumnida.mp3"
+  },
+  {
+   "id": "s3-p-gomawoyo",
+   "hangul": "고마워요",
+   "type": "phrase",
+   "topic": "politeness",
+   "sound": {
+    "de": "gomawoyo",
+    "en": "gomawoyo"
+   },
+   "meaning": {
+    "de": "Danke (freundlich)",
+    "en": "thanks (friendly)"
+   },
+   "note": {
+    "de": "Die lockere -요-Form, gut unter Bekannten.",
+    "en": "The relaxed -요 form, good with people you know."
+   },
+   "audio": "audio/s3-p-gomawoyo.mp3"
+  },
+  {
+   "id": "s3-p-joesonghamnida",
+   "hangul": "죄송합니다",
+   "type": "phrase",
+   "topic": "politeness",
+   "sound": {
+    "de": "joesonghamnida",
+    "en": "joesonghamnida"
+   },
+   "meaning": {
+    "de": "Entschuldigung (sehr höflich)",
+    "en": "I'm sorry (very polite)"
+   },
+   "note": {
+    "de": "Für Fremde, Ältere und im Laden.",
+    "en": "For strangers, older people and in shops."
+   },
+   "audio": "audio/s3-p-joesonghamnida.mp3"
+  },
+  {
+   "id": "s3-p-mianhamnida",
+   "hangul": "미안합니다",
+   "type": "phrase",
+   "topic": "politeness",
+   "sound": {
+    "de": "mianhamnida",
+    "en": "mianhamnida"
+   },
+   "meaning": {
+    "de": "Entschuldigung",
+    "en": "I'm sorry"
+   },
+   "note": {
+    "de": "Etwas weniger förmlich als 죄송합니다.",
+    "en": "A bit less formal than 죄송합니다."
+   },
+   "audio": "audio/s3-p-mianhamnida.mp3"
+  },
+  {
+   "id": "s3-p-mianhaeyo",
+   "hangul": "미안해요",
+   "type": "phrase",
+   "topic": "politeness",
+   "sound": {
+    "de": "mianhaeyo",
+    "en": "mianhaeyo"
+   },
+   "meaning": {
+    "de": "Tut mir leid",
+    "en": "sorry"
+   },
+   "note": {
+    "de": "Freundliche Alltagsform.",
+    "en": "Friendly everyday form."
+   },
+   "audio": "audio/s3-p-mianhaeyo.mp3"
+  },
+  {
+   "id": "s3-p-gwaenchanayo",
+   "hangul": "괜찮아요",
+   "type": "phrase",
+   "topic": "politeness",
+   "sound": {
+    "de": "gwaenchanayo",
+    "en": "gwaenchanayo"
+   },
+   "meaning": {
+    "de": "Kein Problem / Schon gut",
+    "en": "it's okay / no problem"
+   },
+   "mnemonic": {
+    "de": "Passt als Antwort auf eine Entschuldigung, aber auch als „Mir geht's gut“ oder „Nein danke“.",
+    "en": "Answers an apology, but can also mean \"I'm fine\" or \"no thanks\"."
+   },
+   "note": {
+    "de": "Das ㅎ ist stumm: [괜차나요].",
+    "en": "The ㅎ is silent: [괜차나요]."
+   },
+   "audio": "audio/s3-p-gwaenchanayo.mp3"
+  },
+  {
+   "id": "s3-p-cheonmaneyo",
+   "hangul": "천만에요",
+   "type": "phrase",
+   "topic": "politeness",
+   "sound": {
+    "de": "cheonmaneyo",
+    "en": "cheonmaneyo"
+   },
+   "meaning": {
+    "de": "Gern geschehen",
+    "en": "you're welcome"
+   },
+   "note": {
+    "de": "Im Alltag hört man oft eher 아니에요.",
+    "en": "In daily life 아니에요 is heard more often."
+   },
+   "audio": "audio/s3-p-cheonmaneyo.mp3",
+   "verify": true,
+   "verifyNote": "Gebrauch prüfen: wirkt im Alltag etwas förmlich/lehrbuchhaft"
+  },
+  {
+   "id": "s3-p-anieyo",
+   "hangul": "아니에요",
+   "type": "phrase",
+   "topic": "politeness",
+   "sound": {
+    "de": "anieyo",
+    "en": "anieyo"
+   },
+   "meaning": {
+    "de": "Keine Ursache / Nicht doch",
+    "en": "not at all / you're welcome"
+   },
+   "note": {
+    "de": "Wörtlich „Das ist es nicht“ – bescheidene Antwort auf ein Danke.",
+    "en": "Literally \"it's not (so)\" – a modest reply to thanks."
+   },
+   "audio": "audio/s3-p-anieyo.mp3"
+  }
+ ]
+}

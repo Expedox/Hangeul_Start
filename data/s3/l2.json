@@ -1,0 +1,223 @@
+{
+ "id": "s3-l2",
+ "stage": 3,
+ "lesson": 2,
+ "title": {
+  "de": "Größere Zahlen",
+  "en": "Bigger numbers"
+ },
+ "intro": {
+  "de": "Größere Zahlen setzt du wie Bausteine zusammen: Zehner zuerst, dann die Einer.\n십일 = 10 + 1 = 11, 이십 = 2 × 10 = 20, 이십삼 = 23.\nBei 100, 1000 und 10.000 sagt man kein 일 davor: 백, 천, 만. Wichtig: Koreanisch zählt in Zehntausendern (만), nicht in Tausendern.",
+  "en": "You build bigger numbers like blocks: tens first, then ones.\n십일 = 10 + 1 = 11, 이십 = 2 × 10 = 20, 이십삼 = 23.\nFor 100, 1,000 and 10,000 you drop the 일: just 백, 천, 만. Note that Korean groups large numbers by ten thousands (만), not thousands."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "see-sound"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s3-w-sibil",
+   "hangul": "십일",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "sibil",
+    "en": "sibil"
+   },
+   "meaning": {
+    "de": "elf",
+    "en": "eleven"
+   },
+   "mnemonic": {
+    "de": "Zehn plus eins, einfach hintereinander gesagt.",
+    "en": "Just say ten, then one."
+   },
+   "note": {
+    "de": "Das ㅂ rutscht zur nächsten Silbe: [시빌].",
+    "en": "The ㅂ moves to the next syllable: [시빌]."
+   },
+   "audio": "audio/s3-w-sibil.mp3"
+  },
+  {
+   "id": "s3-w-sibi",
+   "hangul": "십이",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "sibi",
+    "en": "sibi"
+   },
+   "meaning": {
+    "de": "zwölf",
+    "en": "twelve"
+   },
+   "mnemonic": {
+    "de": "Zehn und zwei: 십 + 이.",
+    "en": "Ten and two: 십 + 이."
+   },
+   "note": {
+    "de": "Gesprochen [시비].",
+    "en": "Pronounced [시비]."
+   },
+   "audio": "audio/s3-w-sibi.mp3"
+  },
+  {
+   "id": "s3-w-isip",
+   "hangul": "이십",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "isip",
+    "en": "isip"
+   },
+   "meaning": {
+    "de": "zwanzig",
+    "en": "twenty"
+   },
+   "mnemonic": {
+    "de": "Zwei mal zehn: Die kleine Zahl steht vorn.",
+    "en": "Two tens: the small number goes first."
+   },
+   "note": {
+    "de": "Genauso: 삼십 = 30, 사십 = 40, 구십 = 90.",
+    "en": "Same pattern: 삼십 = 30, 사십 = 40, 구십 = 90."
+   },
+   "audio": "audio/s3-w-isip.mp3"
+  },
+  {
+   "id": "s3-w-samsip",
+   "hangul": "삼십",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "samsip",
+    "en": "samsip"
+   },
+   "meaning": {
+    "de": "dreißig",
+    "en": "thirty"
+   },
+   "mnemonic": {
+    "de": "Drei Zehner: 삼 + 십.",
+    "en": "Three tens: 삼 + 십."
+   },
+   "audio": "audio/s3-w-samsip.mp3"
+  },
+  {
+   "id": "s3-w-baek",
+   "hangul": "백",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "baek",
+    "en": "baek"
+   },
+   "meaning": {
+    "de": "hundert",
+    "en": "hundred"
+   },
+   "mnemonic": {
+    "de": "Ein Bäcker backt hundert Brötchen.",
+    "en": "A hundred bags on your back: \"baek\"."
+   },
+   "note": {
+    "de": "이백 = 200, 오백 = 500.",
+    "en": "이백 = 200, 오백 = 500."
+   },
+   "audio": "audio/s3-w-baek.mp3"
+  },
+  {
+   "id": "s3-w-cheon",
+   "hangul": "천",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "cheon",
+    "en": "cheon"
+   },
+   "meaning": {
+    "de": "tausend",
+    "en": "thousand"
+   },
+   "mnemonic": {
+    "de": "Tausend Chancen: „cheon“.",
+    "en": "A thousand chances: \"cheon\"."
+   },
+   "note": {
+    "de": "삼천 = 3000.",
+    "en": "삼천 = 3,000."
+   },
+   "audio": "audio/s3-w-cheon.mp3"
+  },
+  {
+   "id": "s3-w-man",
+   "hangul": "만",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "man",
+    "en": "man"
+   },
+   "meaning": {
+    "de": "zehntausend",
+    "en": "ten thousand"
+   },
+   "mnemonic": {
+    "de": "Ein Mann mit zehntausend Ideen.",
+    "en": "A man with ten thousand ideas."
+   },
+   "note": {
+    "de": "100.000 ist 십만 (zehn Zehntausender).",
+    "en": "100,000 is 십만 (ten ten-thousands)."
+   },
+   "audio": "audio/s3-w-man.mp3"
+  },
+  {
+   "id": "s3-w-yeong",
+   "hangul": "영",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "yeong",
+    "en": "yeong"
+   },
+   "meaning": {
+    "de": "null",
+    "en": "zero"
+   },
+   "mnemonic": {
+    "de": "Ein runder Kreis wie das ㅇ: null.",
+    "en": "A round circle, like the ㅇ itself: zero."
+   },
+   "audio": "audio/s3-w-yeong.mp3"
+  },
+  {
+   "id": "s3-w-gong",
+   "hangul": "공",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "gong",
+    "en": "gong"
+   },
+   "meaning": {
+    "de": "null (bei Nummern)",
+    "en": "zero (in numbers)"
+   },
+   "mnemonic": {
+    "de": "Ein Gong ist rund wie eine Null.",
+    "en": "A gong is round like a zero."
+   },
+   "note": {
+    "de": "공 sagt man bei Telefon- und Zimmernummern, 영 eher in Mathe und beim Wetter.",
+    "en": "Use 공 for phone and room numbers; 영 more in maths and temperatures."
+   },
+   "audio": "audio/s3-w-gong.mp3"
+  }
+ ]
+}

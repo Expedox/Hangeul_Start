@@ -1,0 +1,325 @@
+{
+ "id": "s4-l15",
+ "stage": 4,
+ "lesson": 15,
+ "title": {
+  "de": "Gespräch: U-Bahn und Weg",
+  "en": "Conversation: subway and directions"
+ },
+ "intro": {
+  "de": "Jemand spricht dich an. Wähle die Antwort, die passt.\nAchte auf das Fragewort: 어디 = wo/wohin, 몇 = wie viel/welche Nummer.",
+  "en": "Someone talks to you. Pick the reply that fits.\nWatch the question word: 어디 = where, 몇 = how many/which number."
+ },
+ "exercises": [
+  "dialog-reply"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-d-sub-where-going",
+   "hangul": "어디에 가요?",
+   "type": "dialog",
+   "topic": "subway",
+   "sound": {
+    "de": "eodie gayo?",
+    "en": "eodie gayo?"
+   },
+   "meaning": {
+    "de": "Wohin fahren Sie?",
+    "en": "Where are you going?"
+   },
+   "reply": {
+    "hangul": "명동에 가요",
+    "sound": {
+     "de": "myeongdonge gayo",
+     "en": "myeongdonge gayo"
+    },
+    "meaning": {
+     "de": "Ich fahre nach Myeongdong.",
+     "en": "I'm going to Myeongdong."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "커피를 마셔요",
+     "meaning": {
+      "de": "Ich trinke Kaffee.",
+      "en": "I'm drinking coffee."
+     }
+    },
+    {
+     "hangul": "저는 학생이에요",
+     "meaning": {
+      "de": "Ich bin Student(in).",
+      "en": "I'm a student."
+     }
+    },
+    {
+     "hangul": "네, 맛있어요",
+     "meaning": {
+      "de": "Ja, es ist lecker.",
+      "en": "Yes, it's tasty."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-sub-where-going.mp3"
+  },
+  {
+   "id": "s4-d-sub-which-line",
+   "hangul": "몇 호선을 타요?",
+   "type": "dialog",
+   "topic": "subway",
+   "sound": {
+    "de": "myeot hoseoneul tayo?",
+    "en": "myeot hoseoneul tayo?"
+   },
+   "meaning": {
+    "de": "Welche Linie nehmen Sie?",
+    "en": "Which line are you taking?"
+   },
+   "reply": {
+    "hangul": "2호선을 타요",
+    "sound": {
+     "de": "ihoseoneul tayo",
+     "en": "ihoseoneul tayo"
+    },
+    "meaning": {
+     "de": "Ich nehme die Linie 2.",
+     "en": "I'm taking Line 2."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "표가 비싸요",
+     "meaning": {
+      "de": "Die Fahrkarte ist teuer.",
+      "en": "The ticket is expensive."
+     }
+    },
+    {
+     "hangul": "저는 독일 사람이에요",
+     "meaning": {
+      "de": "Ich bin Deutsche(r).",
+      "en": "I'm German."
+     }
+    },
+    {
+     "hangul": "호텔에 있어요",
+     "meaning": {
+      "de": "Ich bin im Hotel.",
+      "en": "I'm at the hotel."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-sub-which-line.mp3"
+  },
+  {
+   "id": "s4-d-sub-transfer",
+   "hangul": "교대역에서 갈아타세요",
+   "type": "dialog",
+   "topic": "subway",
+   "sound": {
+    "de": "gyodaeyeogeseo garataseyo",
+    "en": "gyodaeyeogeseo garataseyo"
+   },
+   "meaning": {
+    "de": "Steigen Sie an der Station Gyodae um.",
+    "en": "Change trains at Gyodae Station."
+   },
+   "reply": {
+    "hangul": "네, 감사합니다",
+    "sound": {
+     "de": "ne, gamsahamnida",
+     "en": "ne, gamsahamnida"
+    },
+    "meaning": {
+     "de": "Okay, vielen Dank.",
+     "en": "Okay, thank you."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "저는 고기를 안 먹어요",
+     "meaning": {
+      "de": "Ich esse kein Fleisch.",
+      "en": "I don't eat meat."
+     }
+    },
+    {
+     "hangul": "날씨가 좋아요",
+     "meaning": {
+      "de": "Das Wetter ist schön.",
+      "en": "The weather is nice."
+     }
+    },
+    {
+     "hangul": "이거는 제 가방이에요",
+     "meaning": {
+      "de": "Das ist meine Tasche.",
+      "en": "This is my bag."
+     }
+    }
+   ],
+   "note": {
+    "de": "-세요 ist eine höfliche Aufforderung: „Bitte tun Sie …“.",
+    "en": "-세요 is a polite request: \"please do …\"."
+   },
+   "audio": "audio/s4-d-sub-transfer.mp3"
+  },
+  {
+   "id": "s4-d-sub-where-off",
+   "hangul": "어디에서 내려요?",
+   "type": "dialog",
+   "topic": "subway",
+   "sound": {
+    "de": "eodieseo naeryeoyo?",
+    "en": "eodieseo naeryeoyo?"
+   },
+   "meaning": {
+    "de": "Wo steigen Sie aus?",
+    "en": "Where do you get off?"
+   },
+   "reply": {
+    "hangul": "다음 역에서 내려요",
+    "sound": {
+     "de": "daeum yeogeseo naeryeoyo",
+     "en": "daeum yeogeseo naeryeoyo"
+    },
+    "meaning": {
+     "de": "An der nächsten Station.",
+     "en": "At the next station."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "표를 사요",
+     "meaning": {
+      "de": "Ich kaufe eine Fahrkarte.",
+      "en": "I'm buying a ticket."
+     }
+    },
+    {
+     "hangul": "저는 지하철을 좋아해요",
+     "meaning": {
+      "de": "Ich mag die U-Bahn.",
+      "en": "I like the subway."
+     }
+    },
+    {
+     "hangul": "친구가 기다려요",
+     "meaning": {
+      "de": "Mein Freund wartet.",
+      "en": "My friend is waiting."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-sub-where-off.mp3",
+   "verify": true,
+   "verifyNote": "ㄴ-Einschub bei 다음 역 (da-ŭm njò-ge-sò) prüfen"
+  },
+  {
+   "id": "s4-d-sub-is-it-far",
+   "hangul": "명동까지 멀어요?",
+   "type": "dialog",
+   "topic": "subway",
+   "sound": {
+    "de": "myeongdongkkaji meoreoyo?",
+    "en": "myeongdongkkaji meoreoyo?"
+   },
+   "meaning": {
+    "de": "Ist es weit bis Myeongdong?",
+    "en": "Is it far to Myeongdong?"
+   },
+   "reply": {
+    "hangul": "아니요, 안 멀어요",
+    "sound": {
+     "de": "aniyo, an meoreoyo",
+     "en": "aniyo, an meoreoyo"
+    },
+    "meaning": {
+     "de": "Nein, es ist nicht weit.",
+     "en": "No, it's not far."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "네, 맛있어요",
+     "meaning": {
+      "de": "Ja, es ist lecker.",
+      "en": "Yes, it's tasty."
+     }
+    },
+    {
+     "hangul": "아니요, 학생이 아니에요",
+     "meaning": {
+      "de": "Nein, ich bin kein Student.",
+      "en": "No, I'm not a student."
+     }
+    },
+    {
+     "hangul": "네, 사진을 찍어요",
+     "meaning": {
+      "de": "Ja, ich mache ein Foto.",
+      "en": "Yes, I'm taking a photo."
+     }
+    }
+   ],
+   "note": {
+    "de": "까지 heißt „bis“.",
+    "en": "까지 means \"up to, until\"."
+   },
+   "audio": "audio/s4-d-sub-is-it-far.mp3"
+  },
+  {
+   "id": "s4-d-sub-have-card",
+   "hangul": "교통카드 있어요?",
+   "type": "dialog",
+   "topic": "subway",
+   "sound": {
+    "de": "gyotongkadeu isseoyo?",
+    "en": "gyotongkadeu isseoyo?"
+   },
+   "meaning": {
+    "de": "Haben Sie eine Verkehrskarte?",
+    "en": "Do you have a transit card?"
+   },
+   "reply": {
+    "hangul": "아니요, 없어요",
+    "sound": {
+     "de": "aniyo, eopseoyo",
+     "en": "aniyo, eopseoyo"
+    },
+    "meaning": {
+     "de": "Nein, habe ich nicht.",
+     "en": "No, I don't."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "네, 커피를 마셔요",
+     "meaning": {
+      "de": "Ja, ich trinke Kaffee.",
+      "en": "Yes, I'm drinking coffee."
+     }
+    },
+    {
+     "hangul": "도서관에서 공부해요",
+     "meaning": {
+      "de": "Ich lerne in der Bibliothek.",
+      "en": "I study at the library."
+     }
+    },
+    {
+     "hangul": "아니요, 안 매워요",
+     "meaning": {
+      "de": "Nein, es ist nicht scharf.",
+      "en": "No, it's not spicy."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-sub-have-card.mp3"
+  }
+ ]
+}

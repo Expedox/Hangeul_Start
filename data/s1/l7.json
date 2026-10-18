@@ -1,0 +1,177 @@
+{
+ "id": "s1-l7",
+ "stage": 1,
+ "lesson": 7,
+ "title": {
+  "de": "Silben gemischt",
+  "en": "Mixed syllables"
+ },
+ "intro": {
+  "de": "Jetzt alles gemischt. Achtung: ㅅ vor ㅣ klingt wie „sch“, also 시 = „schi“.",
+  "en": "Now everything mixed. Watch out: ㅅ before ㅣ sounds like \"sh\", so 시 = \"shee\"."
+ },
+ "exercises": [
+  "see-sound",
+  "build-syllable",
+  "hear-char"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s1-y-gi",
+   "hangul": "기",
+   "type": "syllable",
+   "sound": {
+    "de": "gi",
+    "en": "gi"
+   },
+   "parts": [
+    "ㄱ",
+    "ㅣ"
+   ],
+   "audio": "audio/s1-y-gi.mp3"
+  },
+  {
+   "id": "s1-y-ni",
+   "hangul": "니",
+   "type": "syllable",
+   "sound": {
+    "de": "ni",
+    "en": "ni"
+   },
+   "parts": [
+    "ㄴ",
+    "ㅣ"
+   ],
+   "audio": "audio/s1-y-ni.mp3"
+  },
+  {
+   "id": "s1-y-ri",
+   "hangul": "리",
+   "type": "syllable",
+   "sound": {
+    "de": "ri",
+    "en": "ri"
+   },
+   "parts": [
+    "ㄹ",
+    "ㅣ"
+   ],
+   "audio": "audio/s1-y-ri.mp3"
+  },
+  {
+   "id": "s1-y-mi",
+   "hangul": "미",
+   "type": "syllable",
+   "sound": {
+    "de": "mi",
+    "en": "mi"
+   },
+   "parts": [
+    "ㅁ",
+    "ㅣ"
+   ],
+   "audio": "audio/s1-y-mi.mp3"
+  },
+  {
+   "id": "s1-y-si",
+   "hangul": "시",
+   "type": "syllable",
+   "sound": {
+    "de": "si",
+    "en": "si"
+   },
+   "parts": [
+    "ㅅ",
+    "ㅣ"
+   ],
+   "audio": "audio/s1-y-si.mp3"
+  },
+  {
+   "id": "s1-y-ji",
+   "hangul": "지",
+   "type": "syllable",
+   "sound": {
+    "de": "ji",
+    "en": "ji"
+   },
+   "parts": [
+    "ㅈ",
+    "ㅣ"
+   ],
+   "audio": "audio/s1-y-ji.mp3"
+  },
+  {
+   "id": "s1-y-geo",
+   "hangul": "거",
+   "type": "syllable",
+   "sound": {
+    "de": "geo",
+    "en": "geo"
+   },
+   "parts": [
+    "ㄱ",
+    "ㅓ"
+   ],
+   "audio": "audio/s1-y-geo.mp3"
+  },
+  {
+   "id": "s1-y-meo",
+   "hangul": "머",
+   "type": "syllable",
+   "sound": {
+    "de": "meo",
+    "en": "meo"
+   },
+   "parts": [
+    "ㅁ",
+    "ㅓ"
+   ],
+   "audio": "audio/s1-y-meo.mp3"
+  },
+  {
+   "id": "s1-y-seo",
+   "hangul": "서",
+   "type": "syllable",
+   "sound": {
+    "de": "seo",
+    "en": "seo"
+   },
+   "parts": [
+    "ㅅ",
+    "ㅓ"
+   ],
+   "audio": "audio/s1-y-seo.mp3"
+  },
+  {
+   "id": "s1-y-yo",
+   "hangul": "요",
+   "type": "syllable",
+   "sound": {
+    "de": "yo",
+    "en": "yo"
+   },
+   "parts": [
+    "ㅇ",
+    "ㅛ"
+   ],
+   "audio": "audio/s1-y-yo.mp3"
+  },
+  {
+   "id": "s1-y-yu",
+   "hangul": "유",
+   "type": "syllable",
+   "sound": {
+    "de": "yu",
+    "en": "yu"
+   },
+   "parts": [
+    "ㅇ",
+    "ㅠ"
+   ],
+   "audio": "audio/s1-y-yu.mp3"
+  }
+ ]
+}

@@ -1,0 +1,359 @@
+{
+ "id": "s4-l3",
+ "stage": 4,
+ "lesson": 3,
+ "title": {
+  "de": "Das Subjekt: 이/가",
+  "en": "The subject: 이/가"
+ },
+ "intro": {
+  "de": "이/가 markiert das Subjekt: wer oder was etwas ist oder tut. Nach Konsonant steht 이, nach Vokal 가: 우산이, 자리가.\nBesonders oft steht es mit 있어요 (es gibt, ich habe) und 없어요 (es gibt nicht, ich habe nicht): 표가 있어요?\nMerke für den Anfang: Vorstellen und Vergleichen mit 은/는, neue Information und 있어요/없어요 mit 이/가.",
+  "en": "이/가 marks the subject: who or what is or does something. Use 이 after a consonant and 가 after a vowel: 우산이, 자리가.\nYou'll see it a lot with 있어요 (there is, I have) and 없어요 (there isn't, I don't have): 표가 있어요?\nRule of thumb for now: introductions and contrast with 은/는, new information and 있어요/없어요 with 이/가."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "build-sentence"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-w-there-is",
+   "hangul": "있어요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "isseoyo",
+    "en": "isseoyo"
+   },
+   "meaning": {
+    "de": "es gibt; haben; da sein",
+    "en": "there is; to have; to be (somewhere)"
+   },
+   "mnemonic": {
+    "de": "Die zwei ㅆ sind wie zwei Hände, die etwas festhalten: haben.",
+    "en": "The double ㅆ is like two hands holding something: to have."
+   },
+   "note": {
+    "de": "Grundform 있다.",
+    "en": "Dictionary form 있다."
+   },
+   "audio": "audio/s4-w-there-is.mp3"
+  },
+  {
+   "id": "s4-w-there-is-not",
+   "hangul": "없어요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "eopseoyo",
+    "en": "eopseoyo"
+   },
+   "meaning": {
+    "de": "es gibt nicht; nicht haben",
+    "en": "there isn't; not to have"
+   },
+   "mnemonic": {
+    "de": "„Ups, so“: Ups, nichts mehr da.",
+    "en": "\"Oops, so…\": oops, there's none left."
+   },
+   "note": {
+    "de": "Grundform 없다. Gesprochen [업써요].",
+    "en": "Dictionary form 없다. Said [업써요]."
+   },
+   "audio": "audio/s4-w-there-is-not.mp3"
+  },
+  {
+   "id": "s4-w-umbrella",
+   "hangul": "우산",
+   "type": "word",
+   "topic": "things",
+   "sound": {
+    "de": "usan",
+    "en": "usan"
+   },
+   "meaning": {
+    "de": "Regenschirm",
+    "en": "umbrella"
+   },
+   "mnemonic": {
+    "de": "„Uh, Sahne-Regen!“ – schnell den Schirm auf.",
+    "en": "\"Oo, sun\" – an umbrella works for both."
+   },
+   "audio": "audio/s4-w-umbrella.mp3"
+  },
+  {
+   "id": "s4-w-seat",
+   "hangul": "자리",
+   "type": "word",
+   "topic": "things",
+   "sound": {
+    "de": "jari",
+    "en": "jari"
+   },
+   "meaning": {
+    "de": "Platz, Sitzplatz",
+    "en": "seat, spot"
+   },
+   "mnemonic": {
+    "de": "Dscha-ri: „Ja, richtig, hier ist mein Platz.“",
+    "en": "Jah-ree: \"Yeah, right here is my seat.\""
+   },
+   "audio": "audio/s4-w-seat.mp3"
+  },
+  {
+   "id": "s4-w-problem",
+   "hangul": "문제",
+   "type": "word",
+   "topic": "things",
+   "sound": {
+    "de": "munje",
+    "en": "munje"
+   },
+   "meaning": {
+    "de": "Problem; Aufgabe",
+    "en": "problem; question (in a test)"
+   },
+   "mnemonic": {
+    "de": "Ein Problem, das einem den Mund (mun) verzieht.",
+    "en": "A problem that makes you moan: \"moon\"."
+   },
+   "note": {
+    "de": "문제가 없어요 = kein Problem.",
+    "en": "문제가 없어요 = no problem."
+   },
+   "audio": "audio/s4-w-problem.mp3"
+  },
+  {
+   "id": "s4-w-wifi",
+   "hangul": "와이파이",
+   "type": "word",
+   "topic": "travel",
+   "sound": {
+    "de": "waipai",
+    "en": "waipai"
+   },
+   "meaning": {
+    "de": "WLAN",
+    "en": "Wi-Fi"
+   },
+   "mnemonic": {
+    "de": "Klingt fast wie das englische Wort, nur in vier Silben.",
+    "en": "Almost the English word, just in four syllables."
+   },
+   "audio": "audio/s4-w-wifi.mp3"
+  },
+  {
+   "id": "s4-w-weather",
+   "hangul": "날씨",
+   "type": "word",
+   "topic": "nature",
+   "sound": {
+    "de": "nalssi",
+    "en": "nalssi"
+   },
+   "meaning": {
+    "de": "Wetter",
+    "en": "weather"
+   },
+   "mnemonic": {
+    "de": "Nal-ssi: Nass oder sonnig? Das ist die Wetterfrage.",
+    "en": "Nahl-ssee: will you get soaked or see sun? That's the weather."
+   },
+   "audio": "audio/s4-w-weather.mp3"
+  },
+  {
+   "id": "s4-w-many",
+   "hangul": "많아요",
+   "type": "word",
+   "topic": "adjectives",
+   "sound": {
+    "de": "manayo",
+    "en": "manayo"
+   },
+   "meaning": {
+    "de": "viel sein, viele sein",
+    "en": "to be many, a lot"
+   },
+   "mnemonic": {
+    "de": "Ma-na: „Mann, so viele!“",
+    "en": "Mah-nah: \"Man, that's a lot!\""
+   },
+   "note": {
+    "de": "Grundform 많다. Das ㅎ ist stumm.",
+    "en": "Dictionary form 많다. The ㅎ is silent."
+   },
+   "audio": "audio/s4-w-many.mp3"
+  },
+  {
+   "id": "s4-s-have-umbrella",
+   "hangul": "우산이 있어요",
+   "type": "sentence",
+   "sound": {
+    "de": "usani isseoyo",
+    "en": "usani isseoyo"
+   },
+   "meaning": {
+    "de": "Ich habe einen Regenschirm.",
+    "en": "I have an umbrella."
+   },
+   "parts": [
+    "우산이",
+    "있어요"
+   ],
+   "extraParts": [
+    "우산가"
+   ],
+   "audio": "audio/s4-s-have-umbrella.mp3"
+  },
+  {
+   "id": "s4-s-no-seat",
+   "hangul": "자리가 없어요",
+   "type": "sentence",
+   "sound": {
+    "de": "jariga eopseoyo",
+    "en": "jariga eopseoyo"
+   },
+   "meaning": {
+    "de": "Es gibt keinen Platz.",
+    "en": "There are no seats."
+   },
+   "parts": [
+    "자리가",
+    "없어요"
+   ],
+   "extraParts": [
+    "자리이"
+   ],
+   "audio": "audio/s4-s-no-seat.mp3"
+  },
+  {
+   "id": "s4-s-is-there-wifi",
+   "hangul": "와이파이가 있어요?",
+   "type": "sentence",
+   "sound": {
+    "de": "waipaiga isseoyo?",
+    "en": "waipaiga isseoyo?"
+   },
+   "meaning": {
+    "de": "Gibt es WLAN?",
+    "en": "Is there Wi-Fi?"
+   },
+   "parts": [
+    "와이파이가",
+    "있어요?"
+   ],
+   "extraParts": [
+    "와이파이이"
+   ],
+   "audio": "audio/s4-s-is-there-wifi.mp3"
+  },
+  {
+   "id": "s4-s-no-problem",
+   "hangul": "문제가 없어요",
+   "type": "sentence",
+   "sound": {
+    "de": "munjega eopseoyo",
+    "en": "munjega eopseoyo"
+   },
+   "meaning": {
+    "de": "Kein Problem.",
+    "en": "No problem."
+   },
+   "parts": [
+    "문제가",
+    "없어요"
+   ],
+   "extraParts": [
+    "문제이"
+   ],
+   "audio": "audio/s4-s-no-problem.mp3"
+  },
+  {
+   "id": "s4-s-weather-good",
+   "hangul": "날씨가 좋아요",
+   "type": "sentence",
+   "sound": {
+    "de": "nalssiga joayo",
+    "en": "nalssiga joayo"
+   },
+   "meaning": {
+    "de": "Das Wetter ist schön.",
+    "en": "The weather is nice."
+   },
+   "parts": [
+    "날씨가",
+    "좋아요"
+   ],
+   "extraParts": [
+    "날씨이"
+   ],
+   "audio": "audio/s4-s-weather-good.mp3"
+  },
+  {
+   "id": "s4-s-many-people",
+   "hangul": "사람이 많아요",
+   "type": "sentence",
+   "sound": {
+    "de": "sarami manayo",
+    "en": "sarami manayo"
+   },
+   "meaning": {
+    "de": "Es sind viele Leute da.",
+    "en": "There are a lot of people."
+   },
+   "parts": [
+    "사람이",
+    "많아요"
+   ],
+   "extraParts": [
+    "사람가"
+   ],
+   "audio": "audio/s4-s-many-people.mp3"
+  },
+  {
+   "id": "s4-s-is-there-toilet",
+   "hangul": "화장실이 있어요?",
+   "type": "sentence",
+   "sound": {
+    "de": "hwajangsiri isseoyo?",
+    "en": "hwajangsiri isseoyo?"
+   },
+   "meaning": {
+    "de": "Gibt es eine Toilette?",
+    "en": "Is there a toilet?"
+   },
+   "parts": [
+    "화장실이",
+    "있어요?"
+   ],
+   "extraParts": [
+    "화장실가"
+   ],
+   "audio": "audio/s4-s-is-there-toilet.mp3"
+  },
+  {
+   "id": "s4-s-no-money",
+   "hangul": "돈이 없어요",
+   "type": "sentence",
+   "sound": {
+    "de": "doni eopseoyo",
+    "en": "doni eopseoyo"
+   },
+   "meaning": {
+    "de": "Ich habe kein Geld.",
+    "en": "I have no money."
+   },
+   "parts": [
+    "돈이",
+    "없어요"
+   ],
+   "extraParts": [
+    "돈가"
+   ],
+   "audio": "audio/s4-s-no-money.mp3"
+  }
+ ]
+}

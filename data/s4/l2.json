@@ -1,0 +1,407 @@
+{
+ "id": "s4-l2",
+ "stage": 4,
+ "lesson": 2,
+ "title": {
+  "de": "Das Thema: 은/는",
+  "en": "The topic: 은/는"
+ },
+ "intro": {
+  "de": "은/는 zeigt das Thema des Satzes, etwa „was … angeht“. Nach Konsonant steht 은, nach Vokal 는: 이름은, 저는.\nDu brauchst es, wenn du dich vorstellst oder zwei Dinge vergleichst: 저는 학생이에요. 친구는 의사예요.\nBesitz geht ganz einfach: 제 = mein (höflich), 제 이름 = mein Name.",
+  "en": "은/는 marks the topic of the sentence, roughly \"as for …\". Use 은 after a consonant and 는 after a vowel: 이름은, 저는.\nYou use it to introduce yourself or to contrast two things: 저는 학생이에요. 친구는 의사예요.\nPossession is simple: 제 = my (polite), 제 이름 = my name."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "build-sentence"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-w-i",
+   "hangul": "저",
+   "type": "word",
+   "topic": "people",
+   "sound": {
+    "de": "jeo",
+    "en": "jeo"
+   },
+   "meaning": {
+    "de": "ich (höflich)",
+    "en": "I (polite)"
+   },
+   "mnemonic": {
+    "de": "Mit „jeo“ machst du dich ein bisschen kleiner, das ist höflich.",
+    "en": "With 저 you make yourself a little smaller, which is polite."
+   },
+   "note": {
+    "de": "Höfliche Form von „ich“. Mit Thema: 저는.",
+    "en": "Polite form of \"I\". As topic: 저는."
+   },
+   "audio": "audio/s4-w-i.mp3"
+  },
+  {
+   "id": "s4-w-my",
+   "hangul": "제",
+   "type": "word",
+   "topic": "people",
+   "sound": {
+    "de": "je",
+    "en": "je"
+   },
+   "meaning": {
+    "de": "mein, meine (höflich)",
+    "en": "my (polite)"
+   },
+   "mnemonic": {
+    "de": "저 + ein kleiner Strich = 제: ich → mein.",
+    "en": "저 plus one small stroke gives 제: I → my."
+   },
+   "note": {
+    "de": "Steht direkt vor dem Nomen: 제 가방.",
+    "en": "Goes right before the noun: 제 가방."
+   },
+   "audio": "audio/s4-w-my.mp3"
+  },
+  {
+   "id": "s4-w-we",
+   "hangul": "우리",
+   "type": "word",
+   "topic": "people",
+   "sound": {
+    "de": "uri",
+    "en": "uri"
+   },
+   "meaning": {
+    "de": "wir, unser",
+    "en": "we, our"
+   },
+   "mnemonic": {
+    "de": "U-ri: „Uns, richtig!“",
+    "en": "Oo-ree: \"Ours, really!\""
+   },
+   "note": {
+    "de": "Koreaner sagen oft 우리 statt „mein“: 우리 집 = unser/mein Zuhause.",
+    "en": "Koreans often say 우리 instead of \"my\": 우리 집 = our/my home."
+   },
+   "audio": "audio/s4-w-we.mp3"
+  },
+  {
+   "id": "s4-w-this-thing",
+   "hangul": "이거",
+   "type": "word",
+   "topic": "pointing",
+   "sound": {
+    "de": "igeo",
+    "en": "igeo"
+   },
+   "meaning": {
+    "de": "das hier",
+    "en": "this (thing)"
+   },
+   "mnemonic": {
+    "de": "이 = dies hier, nah bei mir.",
+    "en": "이 = this, close to me."
+   },
+   "note": {
+    "de": "Gesprochene Form von 이것.",
+    "en": "Spoken form of 이것."
+   },
+   "audio": "audio/s4-w-this-thing.mp3"
+  },
+  {
+   "id": "s4-w-that-thing",
+   "hangul": "그거",
+   "type": "word",
+   "topic": "pointing",
+   "sound": {
+    "de": "geugeo",
+    "en": "geugeo"
+   },
+   "meaning": {
+    "de": "das da (bei dir)",
+    "en": "that (near you)"
+   },
+   "mnemonic": {
+    "de": "그 = bei dir, dem Gegenüber.",
+    "en": "그 = near you, the listener."
+   },
+   "note": {
+    "de": "Gesprochene Form von 그것.",
+    "en": "Spoken form of 그것."
+   },
+   "audio": "audio/s4-w-that-thing.mp3"
+  },
+  {
+   "id": "s4-w-that-over-there",
+   "hangul": "저거",
+   "type": "word",
+   "topic": "pointing",
+   "sound": {
+    "de": "jeogeo",
+    "en": "jeogeo"
+   },
+   "meaning": {
+    "de": "das dort (weit weg)",
+    "en": "that (over there)"
+   },
+   "mnemonic": {
+    "de": "저 = dort drüben, weit weg von uns beiden.",
+    "en": "저 = over there, far from both of us."
+   },
+   "note": {
+    "de": "Gleich geschrieben wie 저 (ich), aber hier „dort“.",
+    "en": "Same letter as 저 (I), but here it means \"over there\"."
+   },
+   "audio": "audio/s4-w-that-over-there.mp3"
+  },
+  {
+   "id": "s4-w-man",
+   "hangul": "남자",
+   "type": "word",
+   "topic": "people",
+   "sound": {
+    "de": "namja",
+    "en": "namja"
+   },
+   "meaning": {
+    "de": "Mann, männlich",
+    "en": "man, male"
+   },
+   "mnemonic": {
+    "de": "남자: Auf Toilettenschildern steht er oft neben 여자.",
+    "en": "남자 is on toilet signs, next to 여자."
+   },
+   "audio": "audio/s4-w-man.mp3"
+  },
+  {
+   "id": "s4-w-woman",
+   "hangul": "여자",
+   "type": "word",
+   "topic": "people",
+   "sound": {
+    "de": "yeoja",
+    "en": "yeoja"
+   },
+   "meaning": {
+    "de": "Frau, weiblich",
+    "en": "woman, female"
+   },
+   "mnemonic": {
+    "de": "여자 und 남자 enden beide auf 자 (Person).",
+    "en": "여자 and 남자 both end in 자 (person)."
+   },
+   "audio": "audio/s4-w-woman.mp3"
+  },
+  {
+   "id": "s4-w-who",
+   "hangul": "누구",
+   "type": "word",
+   "topic": "questions",
+   "sound": {
+    "de": "nugu",
+    "en": "nugu"
+   },
+   "meaning": {
+    "de": "wer",
+    "en": "who"
+   },
+   "mnemonic": {
+    "de": "„Nu, guck!“ – wer ist das denn?",
+    "en": "\"Noo-goo?\" – who's that?"
+   },
+   "note": {
+    "de": "Mit „ist“: 누구예요? = Wer ist das?",
+    "en": "With \"is\": 누구예요? = Who is it?"
+   },
+   "audio": "audio/s4-w-who.mp3"
+  },
+  {
+   "id": "s4-s-i-am-man",
+   "hangul": "저는 남자예요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeoneun namjayeyo",
+    "en": "jeoneun namjayeyo"
+   },
+   "meaning": {
+    "de": "Ich bin ein Mann.",
+    "en": "I am a man."
+   },
+   "note": {
+    "de": "저 endet auf Vokal, also 는.",
+    "en": "저 ends in a vowel, so 는."
+   },
+   "parts": [
+    "저는",
+    "남자예요"
+   ],
+   "extraParts": [
+    "저은"
+   ],
+   "audio": "audio/s4-s-i-am-man.mp3"
+  },
+  {
+   "id": "s4-s-my-name-is-anna",
+   "hangul": "제 이름은 안나예요",
+   "type": "sentence",
+   "sound": {
+    "de": "je ireumeun annayeyo",
+    "en": "je ireumeun annayeyo"
+   },
+   "meaning": {
+    "de": "Mein Name ist Anna.",
+    "en": "My name is Anna."
+   },
+   "note": {
+    "de": "이름 endet auf ㅁ, also 은.",
+    "en": "이름 ends in ㅁ, so 은."
+   },
+   "parts": [
+    "제",
+    "이름은",
+    "안나예요"
+   ],
+   "extraParts": [
+    "이름는"
+   ],
+   "audio": "audio/s4-s-my-name-is-anna.mp3"
+  },
+  {
+   "id": "s4-s-we-are-tourists",
+   "hangul": "우리는 관광객이에요",
+   "type": "sentence",
+   "sound": {
+    "de": "urineun gwangwanggaegieyo",
+    "en": "urineun gwangwanggaegieyo"
+   },
+   "meaning": {
+    "de": "Wir sind Touristen.",
+    "en": "We are tourists."
+   },
+   "parts": [
+    "우리는",
+    "관광객이에요"
+   ],
+   "extraParts": [
+    "우리은"
+   ],
+   "audio": "audio/s4-s-we-are-tourists.mp3"
+  },
+  {
+   "id": "s4-s-this-is-my-bag",
+   "hangul": "이거는 제 가방이에요",
+   "type": "sentence",
+   "sound": {
+    "de": "igeoneun je gabangieyo",
+    "en": "igeoneun je gabangieyo"
+   },
+   "meaning": {
+    "de": "Das hier ist meine Tasche.",
+    "en": "This is my bag."
+   },
+   "note": {
+    "de": "Im Gespräch oft kurz: 이건.",
+    "en": "In speech often shortened to 이건."
+   },
+   "parts": [
+    "이거는",
+    "제",
+    "가방이에요"
+   ],
+   "extraParts": [
+    "이거은"
+   ],
+   "audio": "audio/s4-s-this-is-my-bag.mp3"
+  },
+  {
+   "id": "s4-s-that-woman-teacher",
+   "hangul": "그 여자는 선생님이에요",
+   "type": "sentence",
+   "sound": {
+    "de": "geu yeojaneun seonsaengnimieyo",
+    "en": "geu yeojaneun seonsaengnimieyo"
+   },
+   "meaning": {
+    "de": "Diese Frau ist Lehrerin.",
+    "en": "That woman is a teacher."
+   },
+   "parts": [
+    "그",
+    "여자는",
+    "선생님이에요"
+   ],
+   "extraParts": [
+    "여자은"
+   ],
+   "audio": "audio/s4-s-that-woman-teacher.mp3"
+  },
+  {
+   "id": "s4-s-friend-is-korean",
+   "hangul": "친구는 한국 사람이에요",
+   "type": "sentence",
+   "sound": {
+    "de": "chinguneun hanguk saramieyo",
+    "en": "chinguneun hanguk saramieyo"
+   },
+   "meaning": {
+    "de": "Mein Freund / meine Freundin ist Koreaner(in).",
+    "en": "My friend is Korean."
+   },
+   "parts": [
+    "친구는",
+    "한국",
+    "사람이에요"
+   ],
+   "extraParts": [
+    "친구은"
+   ],
+   "audio": "audio/s4-s-friend-is-korean.mp3"
+  },
+  {
+   "id": "s4-s-that-is-hotel",
+   "hangul": "저거는 호텔이에요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeogeoneun hoterieyo",
+    "en": "jeogeoneun hoterieyo"
+   },
+   "meaning": {
+    "de": "Das dort ist ein Hotel.",
+    "en": "That over there is a hotel."
+   },
+   "parts": [
+    "저거는",
+    "호텔이에요"
+   ],
+   "extraParts": [
+    "저거은"
+   ],
+   "audio": "audio/s4-s-that-is-hotel.mp3"
+  },
+  {
+   "id": "s4-s-who-is-that-man",
+   "hangul": "그 남자는 누구예요?",
+   "type": "sentence",
+   "sound": {
+    "de": "geu namjaneun nuguyeyo?",
+    "en": "geu namjaneun nuguyeyo?"
+   },
+   "meaning": {
+    "de": "Wer ist dieser Mann?",
+    "en": "Who is that man?"
+   },
+   "parts": [
+    "그",
+    "남자는",
+    "누구예요?"
+   ],
+   "extraParts": [
+    "남자은"
+   ],
+   "audio": "audio/s4-s-who-is-that-man.mp3"
+  }
+ ]
+}

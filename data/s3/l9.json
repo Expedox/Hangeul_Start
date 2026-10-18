@@ -1,0 +1,230 @@
+{
+ "id": "s3-l9",
+ "stage": 3,
+ "lesson": 9,
+ "title": {
+  "de": "Sich vorstellen",
+  "en": "Introducing yourself"
+ },
+ "intro": {
+  "de": "Mit „저는 … 이에요/예요“ sagst du, wer oder was du bist.\nEndet das Wort auf einem Konsonanten, folgt 이에요 (학생이에요). Endet es auf einem Vokal, folgt 예요 (안나예요).\n처음 뵙겠습니다 ist sehr höflich und passt beim ersten Treffen mit Fremden oder Älteren.",
+  "en": "Use \"저는 … 이에요/예요\" to say who or what you are.\nAfter a consonant use 이에요 (학생이에요); after a vowel use 예요 (안나예요).\n처음 뵙겠습니다 is very polite and fits a first meeting with strangers or older people."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "see-sound"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s3-p-cheoeum-boepgetseumnida",
+   "hangul": "처음 뵙겠습니다",
+   "type": "phrase",
+   "topic": "introductions",
+   "sound": {
+    "de": "cheoeum boepgetseumnida",
+    "en": "cheoeum boepgetseumnida"
+   },
+   "meaning": {
+    "de": "Freut mich, Sie kennenzulernen (sehr höflich)",
+    "en": "nice to meet you (very polite)"
+   },
+   "mnemonic": {
+    "de": "Wörtlich etwa „Ich sehe Sie zum ersten Mal“.",
+    "en": "Roughly \"I'm seeing you for the first time\"."
+   },
+   "note": {
+    "de": "Gesprochen etwa [처음 뵙껟씀니다].",
+    "en": "Pronounced roughly [처음 뵙껟씀니다]."
+   },
+   "audio": "audio/s3-p-cheoeum-boepgetseumnida.mp3"
+  },
+  {
+   "id": "s3-p-mannaseo-bangawoyo",
+   "hangul": "만나서 반가워요",
+   "type": "phrase",
+   "topic": "introductions",
+   "sound": {
+    "de": "mannaseo bangawoyo",
+    "en": "mannaseo bangawoyo"
+   },
+   "meaning": {
+    "de": "Schön, dich/Sie zu treffen",
+    "en": "nice to meet you"
+   },
+   "note": {
+    "de": "만나서 = weil wir uns treffen, 반가워요 = ich freue mich.",
+    "en": "만나서 = because we meet, 반가워요 = I'm glad."
+   },
+   "audio": "audio/s3-p-mannaseo-bangawoyo.mp3"
+  },
+  {
+   "id": "s3-p-bangapseumnida",
+   "hangul": "반갑습니다",
+   "type": "phrase",
+   "topic": "introductions",
+   "sound": {
+    "de": "bangapseumnida",
+    "en": "bangapseumnida"
+   },
+   "meaning": {
+    "de": "Freut mich (förmlich)",
+    "en": "pleased to meet you (formal)"
+   },
+   "note": {
+    "de": "Die förmliche Variante von 반가워요.",
+    "en": "The formal version of 반가워요."
+   },
+   "audio": "audio/s3-p-bangapseumnida.mp3"
+  },
+  {
+   "id": "s3-p-ireumi-mwoyeyo",
+   "hangul": "이름이 뭐예요?",
+   "type": "phrase",
+   "topic": "introductions",
+   "sound": {
+    "de": "ireumi mwoyeyo?",
+    "en": "ireumi mwoyeyo?"
+   },
+   "meaning": {
+    "de": "Wie heißt du / heißen Sie?",
+    "en": "what's your name?"
+   },
+   "mnemonic": {
+    "de": "이름 = Name, 뭐 = was.",
+    "en": "이름 = name, 뭐 = what."
+   },
+   "note": {
+    "de": "Noch höflicher: 성함이 어떻게 되세요?",
+    "en": "Even more polite: 성함이 어떻게 되세요?"
+   },
+   "audio": "audio/s3-p-ireumi-mwoyeyo.mp3"
+  },
+  {
+   "id": "s3-p-je-ireumeun-annayeyo",
+   "hangul": "제 이름은 안나예요",
+   "type": "phrase",
+   "topic": "introductions",
+   "sound": {
+    "de": "je ireumeun annayeyo",
+    "en": "je ireumeun annayeyo"
+   },
+   "meaning": {
+    "de": "Mein Name ist Anna",
+    "en": "my name is Anna"
+   },
+   "note": {
+    "de": "Setz deinen eigenen Namen ein. Nach Vokal 예요, nach Konsonant 이에요.",
+    "en": "Put in your own name. 예요 after a vowel, 이에요 after a consonant."
+   },
+   "audio": "audio/s3-p-je-ireumeun-annayeyo.mp3"
+  },
+  {
+   "id": "s3-p-jeoneun-haksaengieyo",
+   "hangul": "저는 학생이에요",
+   "type": "phrase",
+   "topic": "introductions",
+   "sound": {
+    "de": "jeoneun haksaengieyo",
+    "en": "jeoneun haksaengieyo"
+   },
+   "meaning": {
+    "de": "Ich bin Student/in",
+    "en": "I'm a student"
+   },
+   "note": {
+    "de": "학생 endet auf Konsonant, also 이에요. Gesprochen [학쌩].",
+    "en": "학생 ends in a consonant, so 이에요. Pronounced [학쌩]."
+   },
+   "audio": "audio/s3-p-jeoneun-haksaengieyo.mp3"
+  },
+  {
+   "id": "s3-p-jeoneun-dogil-saramieyo",
+   "hangul": "저는 독일 사람이에요",
+   "type": "phrase",
+   "topic": "introductions",
+   "sound": {
+    "de": "jeoneun dogil saramieyo",
+    "en": "jeoneun dogil saramieyo"
+   },
+   "meaning": {
+    "de": "Ich bin Deutsche/r",
+    "en": "I'm German"
+   },
+   "mnemonic": {
+    "de": "Land + 사람 = Person aus dem Land.",
+    "en": "Country + 사람 = person from that country."
+   },
+   "note": {
+    "de": "Auch: 오스트리아 사람 (Österreich), 스위스 사람 (Schweiz).",
+    "en": "Also: 미국 사람 (American), 영국 사람 (British)."
+   },
+   "audio": "audio/s3-p-jeoneun-dogil-saramieyo.mp3"
+  },
+  {
+   "id": "s3-p-eodieseo-wasseoyo",
+   "hangul": "어디에서 왔어요?",
+   "type": "phrase",
+   "topic": "introductions",
+   "sound": {
+    "de": "eodieseo wasseoyo?",
+    "en": "eodieseo wasseoyo?"
+   },
+   "meaning": {
+    "de": "Woher kommst du / kommen Sie?",
+    "en": "where are you from?"
+   },
+   "note": {
+    "de": "어디 = wo, 에서 = von, 왔어요 = bin gekommen.",
+    "en": "어디 = where, 에서 = from, 왔어요 = came."
+   },
+   "audio": "audio/s3-p-eodieseo-wasseoyo.mp3"
+  },
+  {
+   "id": "s3-p-dogireseo-wasseoyo",
+   "hangul": "독일에서 왔어요",
+   "type": "phrase",
+   "topic": "introductions",
+   "sound": {
+    "de": "dogireseo wasseoyo",
+    "en": "dogireseo wasseoyo"
+   },
+   "meaning": {
+    "de": "Ich komme aus Deutschland",
+    "en": "I'm from Germany"
+   },
+   "note": {
+    "de": "독일 = Deutschland. Gesprochen [도기레서].",
+    "en": "독일 = Germany. Pronounced [도기레서]."
+   },
+   "audio": "audio/s3-p-dogireseo-wasseoyo.mp3"
+  },
+  {
+   "id": "s3-p-jal-butakdeurimnida",
+   "hangul": "잘 부탁드립니다",
+   "type": "phrase",
+   "topic": "introductions",
+   "sound": {
+    "de": "jal butakdeurimnida",
+    "en": "jal butakdeurimnida"
+   },
+   "meaning": {
+    "de": "Auf gute Zusammenarbeit",
+    "en": "I look forward to working with you"
+   },
+   "mnemonic": {
+    "de": "Höfliche Floskel nach dem Vorstellen; schwer wörtlich zu übersetzen.",
+    "en": "Polite set phrase after introducing yourself; hard to translate literally."
+   },
+   "note": {
+    "de": "Gesprochen [잘 부탁뜨림니다].",
+    "en": "Pronounced [잘 부탁뜨림니다]."
+   },
+   "audio": "audio/s3-p-jal-butakdeurimnida.mp3"
+  }
+ ]
+}

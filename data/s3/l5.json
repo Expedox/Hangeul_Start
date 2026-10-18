@@ -1,0 +1,222 @@
+{
+ "id": "s3-l5",
+ "stage": 3,
+ "lesson": 5,
+ "title": {
+  "de": "Preise",
+  "en": "Prices"
+ },
+ "intro": {
+  "de": "Preise nennst du mit sino-koreanischen Zahlen und 원 (Won).\nDa 원 mit einem Vokal beginnt, verbindet sich der Endkonsonant davor: 천 원 klingt wie [처눤].",
+  "en": "Prices use Sino-Korean numbers plus 원 (won).\nBecause 원 starts with a vowel, the final consonant before it links over: 천 원 sounds like [처눤]."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "see-sound"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s3-w-won",
+   "hangul": "원",
+   "type": "word",
+   "topic": "money",
+   "sound": {
+    "de": "won",
+    "en": "won"
+   },
+   "meaning": {
+    "de": "Won (Währung)",
+    "en": "won (currency)"
+   },
+   "mnemonic": {
+    "de": "„Won“ – gewonnen, das ist Geld.",
+    "en": "You won some won."
+   },
+   "note": {
+    "de": "Steht nach der Zahl, wie „Euro“.",
+    "en": "Comes after the number."
+   },
+   "audio": "audio/s3-w-won.mp3"
+  },
+  {
+   "id": "s3-w-eolma",
+   "hangul": "얼마",
+   "type": "word",
+   "topic": "money",
+   "sound": {
+    "de": "eolma",
+    "en": "eolma"
+   },
+   "meaning": {
+    "de": "wie viel (Preis)",
+    "en": "how much (price)"
+   },
+   "note": {
+    "de": "Oma fragt: „Òl-ma kostet das?“",
+    "en": "\"Uh, ma, how much?\""
+   },
+   "audio": "audio/s3-w-eolma.mp3"
+  },
+  {
+   "id": "s3-p-eolmayeyo",
+   "hangul": "얼마예요?",
+   "type": "phrase",
+   "topic": "money",
+   "sound": {
+    "de": "eolmayeyo?",
+    "en": "eolmayeyo?"
+   },
+   "meaning": {
+    "de": "Wie viel kostet das?",
+    "en": "How much is it?"
+   },
+   "mnemonic": {
+    "de": "Die wichtigste Frage beim Einkaufen.",
+    "en": "The most useful shopping question."
+   },
+   "note": {
+    "de": "예요 klingt hier meist wie [에요].",
+    "en": "예요 usually sounds like [에요] here."
+   },
+   "audio": "audio/s3-p-eolmayeyo.mp3"
+  },
+  {
+   "id": "s3-p-baek-won",
+   "hangul": "백 원",
+   "type": "phrase",
+   "topic": "money",
+   "sound": {
+    "de": "baek won",
+    "en": "baek won"
+   },
+   "meaning": {
+    "de": "100 Won",
+    "en": "100 won"
+   },
+   "note": {
+    "de": "Das ㄱ von 백 rutscht weiter: [배권].",
+    "en": "The ㄱ of 백 links over: [배권]."
+   },
+   "audio": "audio/s3-p-baek-won.mp3"
+  },
+  {
+   "id": "s3-p-cheon-won",
+   "hangul": "천 원",
+   "type": "phrase",
+   "topic": "money",
+   "sound": {
+    "de": "cheon won",
+    "en": "cheon won"
+   },
+   "meaning": {
+    "de": "1.000 Won",
+    "en": "1,000 won"
+   },
+   "note": {
+    "de": "Gesprochen [처눤].",
+    "en": "Pronounced [처눤]."
+   },
+   "audio": "audio/s3-p-cheon-won.mp3"
+  },
+  {
+   "id": "s3-p-ocheon-won",
+   "hangul": "오천 원",
+   "type": "phrase",
+   "topic": "money",
+   "sound": {
+    "de": "ocheon won",
+    "en": "ocheon won"
+   },
+   "meaning": {
+    "de": "5.000 Won",
+    "en": "5,000 won"
+   },
+   "note": {
+    "de": "오 (fünf) × 천 (tausend).",
+    "en": "오 (five) × 천 (thousand)."
+   },
+   "audio": "audio/s3-p-ocheon-won.mp3"
+  },
+  {
+   "id": "s3-p-man-won",
+   "hangul": "만 원",
+   "type": "phrase",
+   "topic": "money",
+   "sound": {
+    "de": "man won",
+    "en": "man won"
+   },
+   "meaning": {
+    "de": "10.000 Won",
+    "en": "10,000 won"
+   },
+   "note": {
+    "de": "Ein häufiger Geldschein. Gesprochen [마눤].",
+    "en": "A common banknote. Pronounced [마눤]."
+   },
+   "audio": "audio/s3-p-man-won.mp3"
+  },
+  {
+   "id": "s3-p-samman-won",
+   "hangul": "삼만 원",
+   "type": "phrase",
+   "topic": "money",
+   "sound": {
+    "de": "samman won",
+    "en": "samman won"
+   },
+   "meaning": {
+    "de": "30.000 Won",
+    "en": "30,000 won"
+   },
+   "note": {
+    "de": "Drei Zehntausender: 삼 + 만.",
+    "en": "Three ten-thousands: 삼 + 만."
+   },
+   "audio": "audio/s3-p-samman-won.mp3"
+  },
+  {
+   "id": "s3-p-han-gae",
+   "hangul": "한 개",
+   "type": "phrase",
+   "topic": "money",
+   "sound": {
+    "de": "han gae",
+    "en": "han gae"
+   },
+   "meaning": {
+    "de": "ein Stück",
+    "en": "one piece"
+   },
+   "note": {
+    "de": "개 ist das allgemeine Zählwort für Dinge, mit rein koreanischen Zahlen.",
+    "en": "개 is the general counter for things, used with native numbers."
+   },
+   "audio": "audio/s3-p-han-gae.mp3"
+  },
+  {
+   "id": "s3-p-du-gae",
+   "hangul": "두 개",
+   "type": "phrase",
+   "topic": "money",
+   "sound": {
+    "de": "du gae",
+    "en": "du gae"
+   },
+   "meaning": {
+    "de": "zwei Stück",
+    "en": "two pieces"
+   },
+   "note": {
+    "de": "두 kommt von 둘.",
+    "en": "두 comes from 둘."
+   },
+   "audio": "audio/s3-p-du-gae.mp3"
+  }
+ ]
+}

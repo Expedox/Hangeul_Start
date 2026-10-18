@@ -1,0 +1,238 @@
+{
+ "id": "s3-l3",
+ "stage": 3,
+ "lesson": 3,
+ "title": {
+  "de": "Zahlen 1 bis 10 (rein koreanisch)",
+  "en": "Numbers 1 to 10 (native Korean)"
+ },
+ "intro": {
+  "de": "Mit diesen Zahlen zählst du Dinge und Personen, sagst dein Alter und die Stunde bei der Uhrzeit.\nVor einem Zählwort werden einige kürzer: 하나 → 한, 둘 → 두, 셋 → 세, 넷 → 네. Also 한 시 (ein Uhr), 두 개 (zwei Stück).",
+  "en": "Use these numbers to count things and people, to say your age and the hour on the clock.\nSome get shorter before a counter word: 하나 → 한, 둘 → 두, 셋 → 세, 넷 → 네. So 한 시 (one o'clock), 두 개 (two pieces)."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "see-sound"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s3-w-hana",
+   "hangul": "하나",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "hana",
+    "en": "hana"
+   },
+   "meaning": {
+    "de": "eins",
+    "en": "one"
+   },
+   "mnemonic": {
+    "de": "„Hanna“ ist die Nummer eins.",
+    "en": "Hannah is number one."
+   },
+   "note": {
+    "de": "Vor Zählwörtern: 한 (한 개 = ein Stück).",
+    "en": "Before counters: 한 (한 개 = one piece)."
+   },
+   "audio": "audio/s3-w-hana.mp3"
+  },
+  {
+   "id": "s3-w-dul",
+   "hangul": "둘",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "dul",
+    "en": "dul"
+   },
+   "meaning": {
+    "de": "zwei",
+    "en": "two"
+   },
+   "mnemonic": {
+    "de": "Ein Duell braucht immer zwei.",
+    "en": "It takes two for a duel."
+   },
+   "note": {
+    "de": "Vor Zählwörtern: 두.",
+    "en": "Before counters: 두."
+   },
+   "audio": "audio/s3-w-dul.mp3"
+  },
+  {
+   "id": "s3-w-set",
+   "hangul": "셋",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "set",
+    "en": "set"
+   },
+   "meaning": {
+    "de": "drei",
+    "en": "three"
+   },
+   "mnemonic": {
+    "de": "Ein Set aus drei Teilen.",
+    "en": "A set of three."
+   },
+   "note": {
+    "de": "Vor Zählwörtern: 세. Das ㅅ am Ende klingt wie t.",
+    "en": "Before counters: 세. Final ㅅ sounds like t."
+   },
+   "audio": "audio/s3-w-set.mp3"
+  },
+  {
+   "id": "s3-w-net",
+   "hangul": "넷",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "net",
+    "en": "net"
+   },
+   "meaning": {
+    "de": "vier",
+    "en": "four"
+   },
+   "mnemonic": {
+    "de": "Ein Netz hat vier Ecken.",
+    "en": "A net has four corners."
+   },
+   "note": {
+    "de": "Vor Zählwörtern: 네.",
+    "en": "Before counters: 네."
+   },
+   "audio": "audio/s3-w-net.mp3"
+  },
+  {
+   "id": "s3-w-daseot",
+   "hangul": "다섯",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "daseot",
+    "en": "daseot"
+   },
+   "meaning": {
+    "de": "fünf",
+    "en": "five"
+   },
+   "mnemonic": {
+    "de": "„Da sitzt“ eine Hand mit fünf Fingern.",
+    "en": "\"Dust\" off all five fingers."
+   },
+   "audio": "audio/s3-w-daseot.mp3"
+  },
+  {
+   "id": "s3-w-yeoseot",
+   "hangul": "여섯",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "yeoseot",
+    "en": "yeoseot"
+   },
+   "meaning": {
+    "de": "sechs",
+    "en": "six"
+   },
+   "mnemonic": {
+    "de": "Klingt fast wie 다섯, nur mit „yeo“ vorn: eins mehr.",
+    "en": "Like 다섯 but starting with \"yeo\": one more."
+   },
+   "audio": "audio/s3-w-yeoseot.mp3"
+  },
+  {
+   "id": "s3-w-ilgop",
+   "hangul": "일곱",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "ilgop",
+    "en": "ilgop"
+   },
+   "meaning": {
+    "de": "sieben",
+    "en": "seven"
+   },
+   "mnemonic": {
+    "de": "Sieben Igel hoppeln: „ilgop“.",
+    "en": "Seven eels gobble: \"ilgop\"."
+   },
+   "audio": "audio/s3-w-ilgop.mp3"
+  },
+  {
+   "id": "s3-w-yeodeol",
+   "hangul": "여덟",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "yeodeol",
+    "en": "yeodeol"
+   },
+   "meaning": {
+    "de": "acht",
+    "en": "eight"
+   },
+   "mnemonic": {
+    "de": "Acht Jodler auf dem Berg.",
+    "en": "Eight yodellers on a hill."
+   },
+   "note": {
+    "de": "Das ㅂ in ㄼ bleibt stumm: [여덜].",
+    "en": "The ㅂ in ㄼ is silent: [여덜]."
+   },
+   "audio": "audio/s3-w-yeodeol.mp3"
+  },
+  {
+   "id": "s3-w-ahop",
+   "hangul": "아홉",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "ahop",
+    "en": "ahop"
+   },
+   "meaning": {
+    "de": "neun",
+    "en": "nine"
+   },
+   "mnemonic": {
+    "de": "„Ah, hopp!“ – nur noch ein Sprung bis zehn.",
+    "en": "\"Ah, hop!\" – one more jump to ten."
+   },
+   "audio": "audio/s3-w-ahop.mp3"
+  },
+  {
+   "id": "s3-w-yeol",
+   "hangul": "열",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "yeol",
+    "en": "yeol"
+   },
+   "meaning": {
+    "de": "zehn",
+    "en": "ten"
+   },
+   "mnemonic": {
+    "de": "Zehn Finger, und man jodelt „yeol“.",
+    "en": "Ten fingers up and you yell \"yeol\"!"
+   },
+   "note": {
+    "de": "11 = 열하나, 12 = 열둘. 20 = 스물 (vor Zählwörtern 스무).",
+    "en": "11 = 열하나, 12 = 열둘. 20 = 스물 (스무 before counters)."
+   },
+   "audio": "audio/s3-w-yeol.mp3"
+  }
+ ]
+}

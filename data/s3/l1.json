@@ -1,0 +1,230 @@
+{
+ "id": "s3-l1",
+ "stage": 3,
+ "lesson": 1,
+ "title": {
+  "de": "Zahlen 1 bis 10 (sino-koreanisch)",
+  "en": "Numbers 1 to 10 (Sino-Korean)"
+ },
+ "intro": {
+  "de": "Koreanisch hat zwei Zahlenreihen.\nDie sino-koreanischen Zahlen (일, 이, 삼 …) stammen aus dem Chinesischen. Du brauchst sie für Minuten, Preise, Datum, Telefonnummern und Stockwerke.\nDie rein koreanischen Zahlen (하나, 둘, 셋 …) lernst du gleich danach. Sie dienen zum Zählen von Dingen, für das Alter und für die Stunden der Uhrzeit.",
+  "en": "Korean has two sets of numbers.\nSino-Korean numbers (일, 이, 삼 …) come from Chinese. You use them for minutes, prices, dates, phone numbers and floors.\nNative Korean numbers (하나, 둘, 셋 …) come next. They are used for counting things, for age and for the hours on the clock."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "see-sound"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s3-w-il",
+   "hangul": "일",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "il",
+    "en": "il"
+   },
+   "meaning": {
+    "de": "eins",
+    "en": "one"
+   },
+   "mnemonic": {
+    "de": "Ein einziger Strich im Kopf: „il“ wie eins, ganz kurz.",
+    "en": "Think \"eel\": one long eel, just one."
+   },
+   "note": {
+    "de": "Bedeutet auch „Tag“ und „Arbeit“, je nach Zusammenhang.",
+    "en": "Also means \"day\" or \"work\" depending on context."
+   },
+   "audio": "audio/s3-w-il.mp3"
+  },
+  {
+   "id": "s3-w-i",
+   "hangul": "이",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "i",
+    "en": "i"
+   },
+   "meaning": {
+    "de": "zwei",
+    "en": "two"
+   },
+   "mnemonic": {
+    "de": "Zwei i-Punkte nebeneinander: „i“ ist zwei.",
+    "en": "Two little \"ee\"s side by side make two."
+   },
+   "audio": "audio/s3-w-i.mp3"
+  },
+  {
+   "id": "s3-w-sam",
+   "hangul": "삼",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "sam",
+    "en": "sam"
+   },
+   "meaning": {
+    "de": "drei",
+    "en": "three"
+   },
+   "mnemonic": {
+    "de": "Sam hat drei Hunde.",
+    "en": "Sam is third in line."
+   },
+   "audio": "audio/s3-w-sam.mp3"
+  },
+  {
+   "id": "s3-w-sa",
+   "hangul": "사",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "sa",
+    "en": "sa"
+   },
+   "meaning": {
+    "de": "vier",
+    "en": "four"
+   },
+   "mnemonic": {
+    "de": "Klingt wie das Wort für Tod (사). Deshalb fehlt in manchen Gebäuden der 4. Stock.",
+    "en": "It sounds like the word for death, so some lifts show F instead of 4."
+   },
+   "note": {
+    "de": "Achte im Aufzug auf F statt 4.",
+    "en": "Lifts often show F instead of 4."
+   },
+   "audio": "audio/s3-w-sa.mp3"
+  },
+  {
+   "id": "s3-w-o",
+   "hangul": "오",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "o",
+    "en": "o"
+   },
+   "meaning": {
+    "de": "fünf",
+    "en": "five"
+   },
+   "mnemonic": {
+    "de": "„Oh, fünf Finger!“ – die ganze Hand.",
+    "en": "\"Oh!\" – you hold up all five fingers."
+   },
+   "audio": "audio/s3-w-o.mp3"
+  },
+  {
+   "id": "s3-w-yuk",
+   "hangul": "육",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "yuk",
+    "en": "yuk"
+   },
+   "meaning": {
+    "de": "sechs",
+    "en": "six"
+   },
+   "mnemonic": {
+    "de": "„Juk, juk“ – sechs Mal juckt es.",
+    "en": "\"Yook\" rhymes a little with \"look\": look at six."
+   },
+   "audio": "audio/s3-w-yuk.mp3"
+  },
+  {
+   "id": "s3-w-chil",
+   "hangul": "칠",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "chil",
+    "en": "chil"
+   },
+   "meaning": {
+    "de": "sieben",
+    "en": "seven"
+   },
+   "mnemonic": {
+    "de": "Sieben scharfe Chilis: „tschil“.",
+    "en": "Seven chili peppers: \"cheel\"."
+   },
+   "audio": "audio/s3-w-chil.mp3"
+  },
+  {
+   "id": "s3-w-pal",
+   "hangul": "팔",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "pal",
+    "en": "pal"
+   },
+   "meaning": {
+    "de": "acht",
+    "en": "eight"
+   },
+   "mnemonic": {
+    "de": "Acht Paletten stapeln sich: „pal“.",
+    "en": "Your eight best pals: \"pal\"."
+   },
+   "note": {
+    "de": "팔 heißt auch „Arm“.",
+    "en": "팔 also means \"arm\"."
+   },
+   "audio": "audio/s3-w-pal.mp3"
+  },
+  {
+   "id": "s3-w-gu",
+   "hangul": "구",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "gu",
+    "en": "gu"
+   },
+   "meaning": {
+    "de": "neun",
+    "en": "nine"
+   },
+   "mnemonic": {
+    "de": "Neun Gurken im Glas: „gu“.",
+    "en": "Nine gooey cookies: \"goo\"."
+   },
+   "audio": "audio/s3-w-gu.mp3"
+  },
+  {
+   "id": "s3-w-sip",
+   "hangul": "십",
+   "type": "word",
+   "topic": "numbers",
+   "sound": {
+    "de": "sip",
+    "en": "sip"
+   },
+   "meaning": {
+    "de": "zehn",
+    "en": "ten"
+   },
+   "mnemonic": {
+    "de": "Zehn Schiffe im Hafen: „schip“.",
+    "en": "Count ten sheep and fall asleep."
+   },
+   "note": {
+    "de": "ㅅ vor ㅣ klingt wie „sch“.",
+    "en": "ㅅ before ㅣ sounds like \"sh\"."
+   },
+   "audio": "audio/s3-w-sip.mp3"
+  }
+ ]
+}

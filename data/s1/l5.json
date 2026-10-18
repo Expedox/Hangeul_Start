@@ -1,0 +1,149 @@
+{
+ "id": "s1-l5",
+ "stage": 1,
+ "lesson": 5,
+ "title": {
+  "de": "Erste Silben",
+  "en": "First syllables"
+ },
+ "intro": {
+  "de": "Koreanisch schreibt nicht Buchstabe für Buchstabe, sondern in Silbenblöcken. Ein senkrechter Vokal wie ㅏ steht rechts neben dem Konsonanten: ㄴ + ㅏ = 나.\nIm Silbenbaukasten auf der Startseite kannst du selbst Silben bauen.",
+  "en": "Korean is written in syllable blocks, not letter by letter. A tall vowel like ㅏ sits to the right of the consonant: ㄴ + ㅏ = 나.\nTry the syllable builder on the home screen to make your own."
+ },
+ "exercises": [
+  "see-sound",
+  "build-syllable",
+  "hear-char"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s1-y-ga",
+   "hangul": "가",
+   "type": "syllable",
+   "sound": {
+    "de": "ga",
+    "en": "ga"
+   },
+   "parts": [
+    "ㄱ",
+    "ㅏ"
+   ],
+   "audio": "audio/s1-y-ga.mp3"
+  },
+  {
+   "id": "s1-y-na",
+   "hangul": "나",
+   "type": "syllable",
+   "sound": {
+    "de": "na",
+    "en": "na"
+   },
+   "parts": [
+    "ㄴ",
+    "ㅏ"
+   ],
+   "audio": "audio/s1-y-na.mp3"
+  },
+  {
+   "id": "s1-y-da",
+   "hangul": "다",
+   "type": "syllable",
+   "sound": {
+    "de": "da",
+    "en": "da"
+   },
+   "parts": [
+    "ㄷ",
+    "ㅏ"
+   ],
+   "audio": "audio/s1-y-da.mp3"
+  },
+  {
+   "id": "s1-y-ra",
+   "hangul": "라",
+   "type": "syllable",
+   "sound": {
+    "de": "ra",
+    "en": "ra"
+   },
+   "parts": [
+    "ㄹ",
+    "ㅏ"
+   ],
+   "audio": "audio/s1-y-ra.mp3"
+  },
+  {
+   "id": "s1-y-ma",
+   "hangul": "마",
+   "type": "syllable",
+   "sound": {
+    "de": "ma",
+    "en": "ma"
+   },
+   "parts": [
+    "ㅁ",
+    "ㅏ"
+   ],
+   "audio": "audio/s1-y-ma.mp3"
+  },
+  {
+   "id": "s1-y-ba",
+   "hangul": "바",
+   "type": "syllable",
+   "sound": {
+    "de": "ba",
+    "en": "ba"
+   },
+   "parts": [
+    "ㅂ",
+    "ㅏ"
+   ],
+   "audio": "audio/s1-y-ba.mp3"
+  },
+  {
+   "id": "s1-y-sa",
+   "hangul": "사",
+   "type": "syllable",
+   "sound": {
+    "de": "sa",
+    "en": "sa"
+   },
+   "parts": [
+    "ㅅ",
+    "ㅏ"
+   ],
+   "audio": "audio/s1-y-sa.mp3"
+  },
+  {
+   "id": "s1-y-a",
+   "hangul": "아",
+   "type": "syllable",
+   "sound": {
+    "de": "a",
+    "en": "a"
+   },
+   "parts": [
+    "ㅇ",
+    "ㅏ"
+   ],
+   "audio": "audio/s1-y-a.mp3"
+  },
+  {
+   "id": "s1-y-ja",
+   "hangul": "자",
+   "type": "syllable",
+   "sound": {
+    "de": "ja",
+    "en": "ja"
+   },
+   "parts": [
+    "ㅈ",
+    "ㅏ"
+   ],
+   "audio": "audio/s1-y-ja.mp3"
+  }
+ ]
+}

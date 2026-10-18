@@ -1,0 +1,174 @@
+{
+ "id": "s1-l8",
+ "stage": 1,
+ "lesson": 8,
+ "title": {
+  "de": "Erste Wörter",
+  "en": "First words"
+ },
+ "intro": {
+  "de": "Zwei oder drei Silben hintereinander ergeben ein Wort. Lies Silbe für Silbe, dann zusammen.",
+  "en": "Two or three syllables in a row make a word. Read syllable by syllable, then together."
+ },
+ "exercises": [
+  "see-meaning",
+  "see-sound",
+  "pick-hangul",
+  "hear-meaning"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s1-w-namu",
+   "hangul": "나무",
+   "type": "word",
+   "sound": {
+    "de": "namu",
+    "en": "namu"
+   },
+   "meaning": {
+    "de": "Baum",
+    "en": "tree"
+   },
+   "topic": "nature",
+   "audio": "audio/s1-w-namu.mp3"
+  },
+  {
+   "id": "s1-w-ai",
+   "hangul": "아이",
+   "type": "word",
+   "sound": {
+    "de": "ai",
+    "en": "ai"
+   },
+   "meaning": {
+    "de": "Kind",
+    "en": "child"
+   },
+   "topic": "people",
+   "audio": "audio/s1-w-ai.mp3"
+  },
+  {
+   "id": "s1-w-oi",
+   "hangul": "오이",
+   "type": "word",
+   "sound": {
+    "de": "oi",
+    "en": "oi"
+   },
+   "meaning": {
+    "de": "Gurke",
+    "en": "cucumber"
+   },
+   "topic": "food",
+   "audio": "audio/s1-w-oi.mp3"
+  },
+  {
+   "id": "s1-w-uyu",
+   "hangul": "우유",
+   "type": "word",
+   "sound": {
+    "de": "uyu",
+    "en": "uyu"
+   },
+   "meaning": {
+    "de": "Milch",
+    "en": "milk"
+   },
+   "topic": "food",
+   "audio": "audio/s1-w-uyu.mp3"
+  },
+  {
+   "id": "s1-w-banana",
+   "hangul": "바나나",
+   "type": "word",
+   "sound": {
+    "de": "banana",
+    "en": "banana"
+   },
+   "meaning": {
+    "de": "Banane",
+    "en": "banana"
+   },
+   "topic": "food",
+   "audio": "audio/s1-w-banana.mp3"
+  },
+  {
+   "id": "s1-w-moja",
+   "hangul": "모자",
+   "type": "word",
+   "sound": {
+    "de": "moja",
+    "en": "moja"
+   },
+   "meaning": {
+    "de": "Hut, Mütze",
+    "en": "hat, cap"
+   },
+   "topic": "clothes",
+   "audio": "audio/s1-w-moja.mp3"
+  },
+  {
+   "id": "s1-w-saja",
+   "hangul": "사자",
+   "type": "word",
+   "sound": {
+    "de": "saja",
+    "en": "saja"
+   },
+   "meaning": {
+    "de": "Löwe",
+    "en": "lion"
+   },
+   "topic": "animals",
+   "audio": "audio/s1-w-saja.mp3"
+  },
+  {
+   "id": "s1-w-meori",
+   "hangul": "머리",
+   "type": "word",
+   "sound": {
+    "de": "meori",
+    "en": "meori"
+   },
+   "meaning": {
+    "de": "Kopf, Haare",
+    "en": "head, hair"
+   },
+   "topic": "body",
+   "audio": "audio/s1-w-meori.mp3"
+  },
+  {
+   "id": "s1-w-dari",
+   "hangul": "다리",
+   "type": "word",
+   "sound": {
+    "de": "dari",
+    "en": "dari"
+   },
+   "meaning": {
+    "de": "Bein, Brücke",
+    "en": "leg, bridge"
+   },
+   "topic": "body",
+   "audio": "audio/s1-w-dari.mp3"
+  },
+  {
+   "id": "s1-w-ima",
+   "hangul": "이마",
+   "type": "word",
+   "sound": {
+    "de": "ima",
+    "en": "ima"
+   },
+   "meaning": {
+    "de": "Stirn",
+    "en": "forehead"
+   },
+   "topic": "body",
+   "audio": "audio/s1-w-ima.mp3"
+  }
+ ]
+}

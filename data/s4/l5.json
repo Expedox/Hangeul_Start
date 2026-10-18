@@ -1,0 +1,473 @@
+{
+ "id": "s4-l5",
+ "stage": 4,
+ "lesson": 5,
+ "title": {
+  "de": "해요 und Adjektive",
+  "en": "해요 and adjectives"
+ },
+ "intro": {
+  "de": "Viele Verben enden auf 하다 (machen). 하다 wird immer zu 해요: 공부하다 → 공부해요.\nAdjektive verhalten sich im Koreanischen wie Verben. Sie bekommen dieselben Endungen: 비싸다 → 비싸요 (ist teuer), 맛있다 → 맛있어요 (ist lecker).\nEin extra Wort für „ist“ brauchst du dabei nicht.",
+  "en": "Many verbs end in 하다 (to do). 하다 always becomes 해요: 공부하다 → 공부해요.\nIn Korean, adjectives behave like verbs and take the same endings: 비싸다 → 비싸요 (is expensive), 맛있다 → 맛있어요 (is tasty).\nYou don't need a separate word for \"is\"."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "build-sentence"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-w-do",
+   "hangul": "해요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "haeyo",
+    "en": "haeyo"
+   },
+   "meaning": {
+    "de": "machen, tun",
+    "en": "to do"
+   },
+   "mnemonic": {
+    "de": "„Hä?“ – Was machst du?",
+    "en": "\"Hey, yo\" – what are you doing?"
+   },
+   "note": {
+    "de": "Grundform 하다. Immer 하다 → 해요.",
+    "en": "Dictionary form 하다. Always 하다 → 해요."
+   },
+   "audio": "audio/s4-w-do.mp3"
+  },
+  {
+   "id": "s4-w-study",
+   "hangul": "공부해요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "gongbuhaeyo",
+    "en": "gongbuhaeyo"
+   },
+   "meaning": {
+    "de": "lernen, studieren",
+    "en": "to study"
+   },
+   "mnemonic": {
+    "de": "Gong wie der Gong zur Schulstunde: Jetzt wird gelernt.",
+    "en": "Gong, like the school bell: time to study."
+   },
+   "note": {
+    "de": "Grundform 공부하다.",
+    "en": "Dictionary form 공부하다."
+   },
+   "audio": "audio/s4-w-study.mp3"
+  },
+  {
+   "id": "s4-w-work",
+   "hangul": "일해요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "ilhaeyo",
+    "en": "ilhaeyo"
+   },
+   "meaning": {
+    "de": "arbeiten",
+    "en": "to work"
+   },
+   "mnemonic": {
+    "de": "일 ist die Arbeit. Das ㅎ wird weich: [이래요].",
+    "en": "일 is work. The ㅎ softens: [이래요]."
+   },
+   "note": {
+    "de": "Grundform 일하다.",
+    "en": "Dictionary form 일하다."
+   },
+   "audio": "audio/s4-w-work.mp3"
+  },
+  {
+   "id": "s4-w-like",
+   "hangul": "좋아해요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "joahaeyo",
+    "en": "joahaeyo"
+   },
+   "meaning": {
+    "de": "mögen, gern haben",
+    "en": "to like"
+   },
+   "mnemonic": {
+    "de": "좋아 (gut) + 해요 (machen): etwas gut finden.",
+    "en": "좋아 (good) + 해요 (do): to find something good."
+   },
+   "note": {
+    "de": "Grundform 좋아하다. Mit Objekt: 커피를 좋아해요.",
+    "en": "Dictionary form 좋아하다. With object: 커피를 좋아해요."
+   },
+   "audio": "audio/s4-w-like.mp3"
+  },
+  {
+   "id": "s4-w-exercise",
+   "hangul": "운동해요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "undonghaeyo",
+    "en": "undonghaeyo"
+   },
+   "meaning": {
+    "de": "Sport machen",
+    "en": "to exercise"
+   },
+   "mnemonic": {
+    "de": "„Undong, undong“: wie Schritte beim Joggen.",
+    "en": "\"Undong, undong\": like footsteps on a run."
+   },
+   "note": {
+    "de": "Grundform 운동하다.",
+    "en": "Dictionary form 운동하다."
+   },
+   "audio": "audio/s4-w-exercise.mp3"
+  },
+  {
+   "id": "s4-w-expensive",
+   "hangul": "비싸요",
+   "type": "word",
+   "topic": "adjectives",
+   "sound": {
+    "de": "bissayo",
+    "en": "bissayo"
+   },
+   "meaning": {
+    "de": "teuer sein",
+    "en": "to be expensive"
+   },
+   "mnemonic": {
+    "de": "„Bisschen sehr viel“ – zu teuer.",
+    "en": "\"Bee-ssah!\" – that price stings like a bee."
+   },
+   "note": {
+    "de": "Grundform 비싸다.",
+    "en": "Dictionary form 비싸다."
+   },
+   "audio": "audio/s4-w-expensive.mp3"
+  },
+  {
+   "id": "s4-w-cheap",
+   "hangul": "싸요",
+   "type": "word",
+   "topic": "adjectives",
+   "sound": {
+    "de": "ssayo",
+    "en": "ssayo"
+   },
+   "meaning": {
+    "de": "billig sein",
+    "en": "to be cheap"
+   },
+   "mnemonic": {
+    "de": "비싸요 ohne 비 – ohne den teuren Teil: billig.",
+    "en": "비싸요 without 비 – minus the pricey part: cheap."
+   },
+   "note": {
+    "de": "Grundform 싸다.",
+    "en": "Dictionary form 싸다."
+   },
+   "audio": "audio/s4-w-cheap.mp3"
+  },
+  {
+   "id": "s4-w-tasty",
+   "hangul": "맛있어요",
+   "type": "word",
+   "topic": "adjectives",
+   "sound": {
+    "de": "masisseoyo",
+    "en": "masisseoyo"
+   },
+   "meaning": {
+    "de": "lecker sein",
+    "en": "to be tasty"
+   },
+   "mnemonic": {
+    "de": "맛 ist der Geschmack, 있어요 „ist da“: Geschmack ist da!",
+    "en": "맛 is flavor, 있어요 \"there is\": there's flavor!"
+   },
+   "note": {
+    "de": "Grundform 맛있다. Man hört auch madisseoyo.",
+    "en": "Dictionary form 맛있다. You'll also hear madisseoyo."
+   },
+   "audio": "audio/s4-w-tasty.mp3"
+  },
+  {
+   "id": "s4-w-big",
+   "hangul": "커요",
+   "type": "word",
+   "topic": "adjectives",
+   "sound": {
+    "de": "keoyo",
+    "en": "keoyo"
+   },
+   "meaning": {
+    "de": "groß sein",
+    "en": "to be big"
+   },
+   "mnemonic": {
+    "de": "Ein großer Kran: „keo!“",
+    "en": "Big like a king: \"keo!\""
+   },
+   "note": {
+    "de": "Grundform 크다. Das ㅡ fällt weg: 크 + 어요 → 커요.",
+    "en": "Dictionary form 크다. The ㅡ drops: 크 + 어요 → 커요."
+   },
+   "audio": "audio/s4-w-big.mp3"
+  },
+  {
+   "id": "s4-w-small",
+   "hangul": "작아요",
+   "type": "word",
+   "topic": "adjectives",
+   "sound": {
+    "de": "jagayo",
+    "en": "jagayo"
+   },
+   "meaning": {
+    "de": "klein sein",
+    "en": "to be small"
+   },
+   "mnemonic": {
+    "de": "„Dscha-ga“ – ein kleiner Jaguar, ein Kätzchen.",
+    "en": "\"Jah-gah\" – a tiny jaguar, a kitten."
+   },
+   "note": {
+    "de": "Grundform 작다.",
+    "en": "Dictionary form 작다."
+   },
+   "audio": "audio/s4-w-small.mp3"
+  },
+  {
+   "id": "s4-w-tired",
+   "hangul": "피곤해요",
+   "type": "word",
+   "topic": "adjectives",
+   "sound": {
+    "de": "pigonhaeyo",
+    "en": "pigonhaeyo"
+   },
+   "meaning": {
+    "de": "müde sein",
+    "en": "to be tired"
+   },
+   "mnemonic": {
+    "de": "Nach einem langen Tag ist der Akku weg: „pi…“",
+    "en": "After a long day you just sigh: \"pee…\""
+   },
+   "note": {
+    "de": "Grundform 피곤하다. Das ㅎ wird weich.",
+    "en": "Dictionary form 피곤하다. The ㅎ softens."
+   },
+   "audio": "audio/s4-w-tired.mp3"
+  },
+  {
+   "id": "s4-w-what",
+   "hangul": "뭐",
+   "type": "word",
+   "topic": "questions",
+   "sound": {
+    "de": "mwo",
+    "en": "mwo"
+   },
+   "meaning": {
+    "de": "was",
+    "en": "what"
+   },
+   "mnemonic": {
+    "de": "Ein fragendes „Mwo?“ mit hochgezogenen Augenbrauen.",
+    "en": "A puzzled \"mwo?\" with raised eyebrows."
+   },
+   "note": {
+    "de": "Gesprochene Form von 무엇.",
+    "en": "Spoken form of 무엇."
+   },
+   "audio": "audio/s4-w-what.mp3"
+  },
+  {
+   "id": "s4-s-i-study",
+   "hangul": "저는 공부해요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeoneun gongbuhaeyo",
+    "en": "jeoneun gongbuhaeyo"
+   },
+   "meaning": {
+    "de": "Ich lerne.",
+    "en": "I'm studying."
+   },
+   "parts": [
+    "저는",
+    "공부해요"
+   ],
+   "extraParts": [
+    "공부하요"
+   ],
+   "audio": "audio/s4-s-i-study.mp3"
+  },
+  {
+   "id": "s4-s-bag-expensive",
+   "hangul": "이 가방은 비싸요",
+   "type": "sentence",
+   "sound": {
+    "de": "i gabangeun bissayo",
+    "en": "i gabangeun bissayo"
+   },
+   "meaning": {
+    "de": "Diese Tasche ist teuer.",
+    "en": "This bag is expensive."
+   },
+   "note": {
+    "de": "이 vor einem Nomen heißt „dieser, diese“.",
+    "en": "이 before a noun means \"this\"."
+   },
+   "parts": [
+    "이",
+    "가방은",
+    "비싸요"
+   ],
+   "extraParts": [
+    "가방는"
+   ],
+   "audio": "audio/s4-s-bag-expensive.mp3"
+  },
+  {
+   "id": "s4-s-kimbap-cheap",
+   "hangul": "김밥이 싸요",
+   "type": "sentence",
+   "sound": {
+    "de": "gimbabi ssayo",
+    "en": "gimbabi ssayo"
+   },
+   "meaning": {
+    "de": "Kimbap ist billig.",
+    "en": "Kimbap is cheap."
+   },
+   "parts": [
+    "김밥이",
+    "싸요"
+   ],
+   "extraParts": [
+    "김밥가"
+   ],
+   "audio": "audio/s4-s-kimbap-cheap.mp3"
+  },
+  {
+   "id": "s4-s-bulgogi-tasty",
+   "hangul": "불고기가 맛있어요",
+   "type": "sentence",
+   "sound": {
+    "de": "bulgogiga masisseoyo",
+    "en": "bulgogiga masisseoyo"
+   },
+   "meaning": {
+    "de": "Das Bulgogi ist lecker.",
+    "en": "The bulgogi is tasty."
+   },
+   "parts": [
+    "불고기가",
+    "맛있어요"
+   ],
+   "extraParts": [
+    "맛있아요"
+   ],
+   "audio": "audio/s4-s-bulgogi-tasty.mp3"
+  },
+  {
+   "id": "s4-s-hotel-big",
+   "hangul": "호텔이 커요",
+   "type": "sentence",
+   "sound": {
+    "de": "hoteri keoyo",
+    "en": "hoteri keoyo"
+   },
+   "meaning": {
+    "de": "Das Hotel ist groß.",
+    "en": "The hotel is big."
+   },
+   "parts": [
+    "호텔이",
+    "커요"
+   ],
+   "extraParts": [
+    "크어요"
+   ],
+   "audio": "audio/s4-s-hotel-big.mp3"
+  },
+  {
+   "id": "s4-s-tired-today",
+   "hangul": "저는 오늘 피곤해요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeoneun oneul pigonhaeyo",
+    "en": "jeoneun oneul pigonhaeyo"
+   },
+   "meaning": {
+    "de": "Ich bin heute müde.",
+    "en": "I'm tired today."
+   },
+   "parts": [
+    "저는",
+    "오늘",
+    "피곤해요"
+   ],
+   "extraParts": [
+    "피곤하요"
+   ],
+   "audio": "audio/s4-s-tired-today.mp3"
+  },
+  {
+   "id": "s4-s-what-doing",
+   "hangul": "뭐 해요?",
+   "type": "sentence",
+   "sound": {
+    "de": "mwo haeyo?",
+    "en": "mwo haeyo?"
+   },
+   "meaning": {
+    "de": "Was machst du? / Was machen Sie?",
+    "en": "What are you doing?"
+   },
+   "parts": [
+    "뭐",
+    "해요?"
+   ],
+   "extraParts": [
+    "하요?"
+   ],
+   "audio": "audio/s4-s-what-doing.mp3"
+  },
+  {
+   "id": "s4-s-father-works",
+   "hangul": "아버지는 일해요",
+   "type": "sentence",
+   "sound": {
+    "de": "abeojineun ilhaeyo",
+    "en": "abeojineun ilhaeyo"
+   },
+   "meaning": {
+    "de": "Mein Vater arbeitet.",
+    "en": "My father works."
+   },
+   "parts": [
+    "아버지는",
+    "일해요"
+   ],
+   "extraParts": [
+    "일하요"
+   ],
+   "audio": "audio/s4-s-father-works.mp3"
+  }
+ ]
+}

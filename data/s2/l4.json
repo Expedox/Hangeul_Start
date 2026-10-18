@@ -1,0 +1,135 @@
+{
+ "id": "s2-l4",
+ "stage": 2,
+ "lesson": 4,
+ "title": {
+  "de": "Vokale ㅐ ㅔ ㅒ ㅖ",
+  "en": "Vowels ㅐ ㅔ ㅒ ㅖ"
+ },
+ "intro": {
+  "de": "ㅐ und ㅔ wurden früher unterschiedlich gesprochen, heute klingen sie bei den meisten Sprechern fast gleich, wie ein e. Beim Schreiben muss man sie trotzdem unterscheiden.\nEin zweiter Ast macht wie bei ㅑ ein j davor: ㅐ → ㅒ, ㅔ → ㅖ.\nNach einem Konsonanten wird ㅖ meist einfach wie e gesprochen.",
+  "en": "ㅐ and ㅔ used to sound different. Today most speakers say them almost the same, like the e in \"bed\". In writing you still have to tell them apart.\nAs with ㅑ, a second branch adds a y sound: ㅐ → ㅒ, ㅔ → ㅖ.\nAfter a consonant, ㅖ is usually just said like \"eh\"."
+ },
+ "exercises": [
+  "see-sound",
+  "hear-char",
+  "build-syllable"
+ ],
+ "check": {
+  "questions": 6
+ },
+ "items": [
+  {
+   "id": "s2-v-ae",
+   "hangul": "ㅐ",
+   "type": "vowel",
+   "sound": {
+    "de": "ae",
+    "en": "ae"
+   },
+   "mnemonic": {
+    "de": "ㅏ und ㅣ zusammengeschoben: Aus a und i wird ein ä.",
+    "en": "ㅏ and ㅣ pushed together: a and i blend into \"ae\", like in \"bed\"."
+   },
+   "audio": "audio/s2-v-ae.mp3"
+  },
+  {
+   "id": "s2-v-e",
+   "hangul": "ㅔ",
+   "type": "vowel",
+   "sound": {
+    "de": "e",
+    "en": "e"
+   },
+   "mnemonic": {
+    "de": "ㅓ plus ㅣ ergibt ein e. Der Ast zeigt nach links, zur anderen Seite als bei ㅐ.",
+    "en": "ㅓ plus ㅣ gives \"eh\". The branch points left, the opposite side from ㅐ."
+   },
+   "audio": "audio/s2-v-e.mp3"
+  },
+  {
+   "id": "s2-v-yae",
+   "hangul": "ㅒ",
+   "type": "vowel",
+   "sound": {
+    "de": "yae",
+    "en": "yae"
+   },
+   "mnemonic": {
+    "de": "Wie ㅐ, nur mit zwei Ästen. Der zweite Ast bringt ein j davor.",
+    "en": "Like ㅐ but with two branches. The second branch adds a y in front."
+   },
+   "audio": "audio/s2-v-yae.mp3"
+  },
+  {
+   "id": "s2-v-ye",
+   "hangul": "ㅖ",
+   "type": "vowel",
+   "sound": {
+    "de": "ye",
+    "en": "ye"
+   },
+   "mnemonic": {
+    "de": "ㅔ mit doppeltem Ast: je.",
+    "en": "ㅔ with a double branch: yeh."
+   },
+   "audio": "audio/s2-v-ye.mp3"
+  },
+  {
+   "id": "s2-y-bae",
+   "hangul": "배",
+   "type": "syllable",
+   "sound": {
+    "de": "bae",
+    "en": "bae"
+   },
+   "parts": [
+    "ㅂ",
+    "ㅐ"
+   ],
+   "audio": "audio/s2-y-bae.mp3"
+  },
+  {
+   "id": "s2-y-ne",
+   "hangul": "네",
+   "type": "syllable",
+   "sound": {
+    "de": "ne",
+    "en": "ne"
+   },
+   "parts": [
+    "ㄴ",
+    "ㅔ"
+   ],
+   "audio": "audio/s2-y-ne.mp3"
+  },
+  {
+   "id": "s2-y-yae",
+   "hangul": "얘",
+   "type": "syllable",
+   "sound": {
+    "de": "yae",
+    "en": "yae"
+   },
+   "parts": [
+    "ㅇ",
+    "ㅒ"
+   ],
+   "audio": "audio/s2-y-yae.mp3"
+  },
+  {
+   "id": "s2-y-ye",
+   "hangul": "예",
+   "type": "syllable",
+   "sound": {
+    "de": "ye",
+    "en": "ye"
+   },
+   "parts": [
+    "ㅇ",
+    "ㅖ"
+   ],
+   "audio": "audio/s2-y-ye.mp3"
+  }
+ ]
+}

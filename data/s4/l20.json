@@ -1,0 +1,368 @@
+{
+ "id": "s4-l20",
+ "stage": 4,
+ "lesson": 20,
+ "title": {
+  "de": "Wiederholung: Sätze und Reisen",
+  "en": "Review: sentences and travel"
+ },
+ "intro": {
+  "de": "Hier kommt alles zusammen: Partikeln, Verben, Verneinung und kurze Gespräche.\nTipp: Erst das Verb am Ende suchen, dann die Partikeln. Sie sagen dir, wer was wo tut.",
+  "en": "Everything comes together here: particles, verbs, negation and short conversations.\nTip: find the verb at the end first, then the particles. They tell you who does what where."
+ },
+ "exercises": [
+  "see-meaning",
+  "build-sentence",
+  "dialog-reply"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-s-rev-korea-next-week",
+   "hangul": "저는 다음 주에 한국에 가요",
+   "type": "sentence",
+   "topic": "travel",
+   "sound": {
+    "de": "jeoneun daeum jue hanguge gayo",
+    "en": "jeoneun daeum jue hanguge gayo"
+   },
+   "meaning": {
+    "de": "Ich fliege nächste Woche nach Korea.",
+    "en": "I'm going to Korea next week."
+   },
+   "parts": [
+    "저는",
+    "다음",
+    "주에",
+    "한국에",
+    "가요"
+   ],
+   "extraParts": [
+    "한국에서"
+   ],
+   "audio": "audio/s4-s-rev-korea-next-week.mp3",
+   "verify": true,
+   "verifyNote": "Gespanntes ㅈ in 다음 주 (da-ŭm ttschu) prüfen"
+  },
+  {
+   "id": "s4-s-rev-market-souvenir",
+   "hangul": "우리는 시장에서 기념품을 사요",
+   "type": "sentence",
+   "topic": "shopping",
+   "sound": {
+    "de": "urineun sijangeseo ginyeompumeul sayo",
+    "en": "urineun sijangeseo ginyeompumeul sayo"
+   },
+   "meaning": {
+    "de": "Wir kaufen auf dem Markt Souvenirs.",
+    "en": "We buy souvenirs at the market."
+   },
+   "parts": [
+    "우리는",
+    "시장에서",
+    "기념품을",
+    "사요"
+   ],
+   "extraParts": [
+    "시장에"
+   ],
+   "audio": "audio/s4-s-rev-market-souvenir.mp3"
+  },
+  {
+   "id": "s4-s-rev-restaurant-cheap",
+   "hangul": "이 식당은 안 비싸요",
+   "type": "sentence",
+   "topic": "restaurant",
+   "sound": {
+    "de": "i sikdangeun an bissayo",
+    "en": "i sikdangeun an bissayo"
+   },
+   "meaning": {
+    "de": "Dieses Restaurant ist nicht teuer.",
+    "en": "This restaurant isn't expensive."
+   },
+   "parts": [
+    "이",
+    "식당은",
+    "안",
+    "비싸요"
+   ],
+   "extraParts": [
+    "식당는"
+   ],
+   "audio": "audio/s4-s-rev-restaurant-cheap.mp3"
+  },
+  {
+   "id": "s4-s-rev-taxi-airport",
+   "hangul": "공항에서 택시를 타요",
+   "type": "sentence",
+   "topic": "travel",
+   "sound": {
+    "de": "gonghangeseo taeksireul tayo",
+    "en": "gonghangeseo taeksireul tayo"
+   },
+   "meaning": {
+    "de": "Am Flughafen nehme ich ein Taxi.",
+    "en": "I take a taxi at the airport."
+   },
+   "parts": [
+    "공항에서",
+    "택시를",
+    "타요"
+   ],
+   "extraParts": [
+    "택시가"
+   ],
+   "audio": "audio/s4-s-rev-taxi-airport.mp3"
+  },
+  {
+   "id": "s4-s-rev-no-wifi-room",
+   "hangul": "방에 와이파이가 없어요",
+   "type": "sentence",
+   "topic": "hotel",
+   "sound": {
+    "de": "bange waipaiga eopseoyo",
+    "en": "bange waipaiga eopseoyo"
+   },
+   "meaning": {
+    "de": "Im Zimmer gibt es kein WLAN.",
+    "en": "There's no Wi-Fi in the room."
+   },
+   "parts": [
+    "방에",
+    "와이파이가",
+    "없어요"
+   ],
+   "extraParts": [
+    "와이파이를"
+   ],
+   "audio": "audio/s4-s-rev-no-wifi-room.mp3"
+  },
+  {
+   "id": "s4-s-rev-like-korean-food",
+   "hangul": "저는 한국 음식을 좋아해요",
+   "type": "sentence",
+   "topic": "restaurant",
+   "sound": {
+    "de": "jeoneun hanguk eumsigeul joahaeyo",
+    "en": "jeoneun hanguk eumsigeul joahaeyo"
+   },
+   "meaning": {
+    "de": "Ich mag koreanisches Essen.",
+    "en": "I like Korean food."
+   },
+   "parts": [
+    "저는",
+    "한국",
+    "음식을",
+    "좋아해요"
+   ],
+   "extraParts": [
+    "음식이"
+   ],
+   "audio": "audio/s4-s-rev-like-korean-food.mp3"
+  },
+  {
+   "id": "s4-d-rev-are-you-korean",
+   "hangul": "한국 사람이에요?",
+   "type": "dialog",
+   "topic": "people",
+   "sound": {
+    "de": "hanguk saramieyo?",
+    "en": "hanguk saramieyo?"
+   },
+   "meaning": {
+    "de": "Sind Sie Koreaner(in)?",
+    "en": "Are you Korean?"
+   },
+   "reply": {
+    "hangul": "아니요, 독일 사람이에요",
+    "sound": {
+     "de": "aniyo, dogil saramieyo",
+     "en": "aniyo, dogil saramieyo"
+    },
+    "meaning": {
+     "de": "Nein, ich bin Deutsche(r).",
+     "en": "No, I'm German."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "네, 공원에 가요",
+     "meaning": {
+      "de": "Ja, ich gehe in den Park.",
+      "en": "Yes, I'm going to the park."
+     }
+    },
+    {
+     "hangul": "아니요, 안 매워요",
+     "meaning": {
+      "de": "Nein, es ist nicht scharf.",
+      "en": "No, it's not spicy."
+     }
+    },
+    {
+     "hangul": "네, 표가 있어요",
+     "meaning": {
+      "de": "Ja, ich habe eine Fahrkarte.",
+      "en": "Yes, I have a ticket."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-rev-are-you-korean.mp3"
+  },
+  {
+   "id": "s4-d-rev-what-doing",
+   "hangul": "지금 뭐 해요?",
+   "type": "dialog",
+   "topic": "people",
+   "sound": {
+    "de": "jigeum mwo haeyo?",
+    "en": "jigeum mwo haeyo?"
+   },
+   "meaning": {
+    "de": "Was machst du gerade?",
+    "en": "What are you doing right now?"
+   },
+   "reply": {
+    "hangul": "카페에서 친구를 기다려요",
+    "sound": {
+     "de": "kapeeseo chingureul gidaryeoyo",
+     "en": "kapeeseo chingureul gidaryeoyo"
+    },
+    "meaning": {
+     "de": "Ich warte im Café auf einen Freund.",
+     "en": "I'm waiting for a friend at a café."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "네, 학생이에요",
+     "meaning": {
+      "de": "Ja, ich bin Student(in).",
+      "en": "Yes, I'm a student."
+     }
+    },
+    {
+     "hangul": "이거는 제 우산이에요",
+     "meaning": {
+      "de": "Das ist mein Regenschirm.",
+      "en": "This is my umbrella."
+     }
+    },
+    {
+     "hangul": "아니요, 안 멀어요",
+     "meaning": {
+      "de": "Nein, es ist nicht weit.",
+      "en": "No, it's not far."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-rev-what-doing.mp3"
+  },
+  {
+   "id": "s4-d-rev-pharmacy-nearby",
+   "hangul": "이 근처에 약국이 있어요?",
+   "type": "dialog",
+   "topic": "travel",
+   "sound": {
+    "de": "i geuncheoe yakgugi isseoyo?",
+    "en": "i geuncheoe yakgugi isseoyo?"
+   },
+   "meaning": {
+    "de": "Gibt es hier in der Nähe eine Apotheke?",
+    "en": "Is there a pharmacy near here?"
+   },
+   "reply": {
+    "hangul": "네, 저기 있어요",
+    "sound": {
+     "de": "ne, jeogi isseoyo",
+     "en": "ne, jeogi isseoyo"
+    },
+    "meaning": {
+     "de": "Ja, dort drüben.",
+     "en": "Yes, over there."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "아니요, 피곤해요",
+     "meaning": {
+      "de": "Nein, ich bin müde.",
+      "en": "No, I'm tired."
+     }
+    },
+    {
+     "hangul": "네, 영화를 봐요",
+     "meaning": {
+      "de": "Ja, ich sehe einen Film.",
+      "en": "Yes, I'm watching a movie."
+     }
+    },
+    {
+     "hangul": "네, 맛있어요",
+     "meaning": {
+      "de": "Ja, es ist lecker.",
+      "en": "Yes, it's tasty."
+     }
+    }
+   ],
+   "note": {
+    "de": "근처 heißt „Nähe, Umgebung“.",
+    "en": "근처 means \"vicinity, nearby\"."
+   },
+   "audio": "audio/s4-d-rev-pharmacy-nearby.mp3"
+  },
+  {
+   "id": "s4-d-rev-tomorrow-plan",
+   "hangul": "내일 뭐 해요?",
+   "type": "dialog",
+   "topic": "travel",
+   "sound": {
+    "de": "naeil mwo haeyo?",
+    "en": "naeil mwo haeyo?"
+   },
+   "meaning": {
+    "de": "Was machst du morgen?",
+    "en": "What are you doing tomorrow?"
+   },
+   "reply": {
+    "hangul": "박물관에 가요",
+    "sound": {
+     "de": "bangmulgwane gayo",
+     "en": "bangmulgwane gayo"
+    },
+    "meaning": {
+     "de": "Ich gehe ins Museum.",
+     "en": "I'm going to the museum."
+    }
+   },
+   "wrongReplies": [
+    {
+     "hangul": "수건이 없어요",
+     "meaning": {
+      "de": "Es gibt kein Handtuch.",
+      "en": "There's no towel."
+     }
+    },
+    {
+     "hangul": "저는 의사가 아니에요",
+     "meaning": {
+      "de": "Ich bin kein Arzt.",
+      "en": "I'm not a doctor."
+     }
+    },
+    {
+     "hangul": "네, 봉투 주세요",
+     "meaning": {
+      "de": "Ja, eine Tüte, bitte.",
+      "en": "Yes, a bag, please."
+     }
+    }
+   ],
+   "audio": "audio/s4-d-rev-tomorrow-plan.mp3"
+  }
+ ]
+}

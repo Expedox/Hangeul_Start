@@ -1,0 +1,106 @@
+{
+ "id": "s1-l1",
+ "stage": 1,
+ "lesson": 1,
+ "title": {
+  "de": "Erste Vokale",
+  "en": "First vowels"
+ },
+ "intro": {
+  "de": "Hangul ist eine Buchstabenschrift mit nur wenigen Grundzeichen. Die Vokale bestehen aus Strichen: ein langer Strich und ein kurzer Ast.\nWohin der Ast zeigt, bestimmt den Laut. Merk dir die Richtung, dann hast du den Vokal.",
+  "en": "Hangul is an alphabet with only a handful of basic shapes. Vowels are made of strokes: one long line and one short branch.\nThe direction of the branch tells you the sound. Remember the direction and you have the vowel."
+ },
+ "exercises": [
+  "see-sound",
+  "hear-char"
+ ],
+ "check": {
+  "questions": 6
+ },
+ "items": [
+  {
+   "id": "s1-v-a",
+   "hangul": "ㅏ",
+   "type": "vowel",
+   "sound": {
+    "de": "a",
+    "en": "a"
+   },
+   "mnemonic": {
+    "de": "Der Ast zeigt nach rechts, nach außen: Mund weit auf, „a“.",
+    "en": "The branch points right, outwards: open wide and say \"ah\"."
+   },
+   "audio": "audio/s1-v-a.mp3"
+  },
+  {
+   "id": "s1-v-eo",
+   "hangul": "ㅓ",
+   "type": "vowel",
+   "sound": {
+    "de": "eo",
+    "en": "eo"
+   },
+   "mnemonic": {
+    "de": "Der Ast zeigt nach links, zurück zu dir: ein offenes „o“ wie in „Sonne“.",
+    "en": "The branch points left, back at you: a relaxed \"uh\" as in \"cup\"."
+   },
+   "audio": "audio/s1-v-eo.mp3"
+  },
+  {
+   "id": "s1-v-o",
+   "hangul": "ㅗ",
+   "type": "vowel",
+   "sound": {
+    "de": "o",
+    "en": "o"
+   },
+   "mnemonic": {
+    "de": "Der Ast zeigt nach oben wie ein Pilz: runde Lippen, „o“ wie in „Boot“.",
+    "en": "The branch points up like a mushroom: round your lips for \"oh\"."
+   },
+   "audio": "audio/s1-v-o.mp3"
+  },
+  {
+   "id": "s1-v-u",
+   "hangul": "ㅜ",
+   "type": "vowel",
+   "sound": {
+    "de": "u",
+    "en": "u"
+   },
+   "mnemonic": {
+    "de": "Der Ast zeigt nach unten wie eine Wurzel: „u“ wie in „gut“.",
+    "en": "The branch points down like a root: \"oo\" as in \"moon\"."
+   },
+   "audio": "audio/s1-v-u.mp3"
+  },
+  {
+   "id": "s1-v-eu",
+   "hangul": "ㅡ",
+   "type": "vowel",
+   "sound": {
+    "de": "eu",
+    "en": "eu"
+   },
+   "mnemonic": {
+    "de": "Ein flacher Strich wie ein breiter Mund: „u“ sagen, aber die Lippen breit lassen.",
+    "en": "A flat line like a wide grin: say \"oo\" but keep your lips spread."
+   },
+   "audio": "audio/s1-v-eu.mp3"
+  },
+  {
+   "id": "s1-v-i",
+   "hangul": "ㅣ",
+   "type": "vowel",
+   "sound": {
+    "de": "i",
+    "en": "i"
+   },
+   "mnemonic": {
+    "de": "Ein aufrechter Strich wie ein schlanker Mensch: „i“.",
+    "en": "A tall, thin line like a person standing: \"ee\" as in \"see\"."
+   },
+   "audio": "audio/s1-v-i.mp3"
+  }
+ ]
+}

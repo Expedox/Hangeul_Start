@@ -1,0 +1,121 @@
+{
+  "passMark": 0.8,
+  "finalQuestions": 12,
+  "stages": [
+    {
+      "id": "s1",
+      "number": 1,
+      "title": {
+        "de": "Die Buchstaben",
+        "en": "The letters"
+      },
+      "subtitle": {
+        "de": "Grundvokale, Grundkonsonanten, erste Silben",
+        "en": "Basic vowels, basic consonants, first syllables"
+      },
+      "lessons": [
+        "data/s1/l1.json",
+        "data/s1/l2.json",
+        "data/s1/l3.json",
+        "data/s1/l4.json",
+        "data/s1/l5.json",
+        "data/s1/l6.json",
+        "data/s1/l7.json",
+        "data/s1/l8.json",
+        "data/s1/l9.json"
+      ],
+      "tools": [
+        "builder"
+      ]
+    },
+    {
+      "id": "s2",
+      "number": 2,
+      "title": {
+        "de": "Alle Zeichen und Lesen",
+        "en": "All characters and reading"
+      },
+      "subtitle": {
+        "de": "Weitere Konsonanten und Vokale, Batchim, Schilder lesen",
+        "en": "More consonants and vowels, batchim, reading signs"
+      },
+      "lessons": [
+        "data/s2/l1.json",
+        "data/s2/l2.json",
+        "data/s2/l3.json",
+        "data/s2/l4.json",
+        "data/s2/l5.json",
+        "data/s2/l6.json",
+        "data/s2/l7.json",
+        "data/s2/l8.json",
+        "data/s2/l9.json",
+        "data/s2/l10.json",
+        "data/s2/l11.json"
+      ]
+    },
+    {
+      "id": "s3",
+      "number": 3,
+      "title": {
+        "de": "Wörter und Alltag",
+        "en": "Words and everyday life"
+      },
+      "subtitle": {
+        "de": "Zahlen, Uhrzeit, Grundwortschatz, Begrüßen",
+        "en": "Numbers, time, core vocabulary, greetings"
+      },
+      "lessons": [
+        "data/s3/l1.json",
+        "data/s3/l2.json",
+        "data/s3/l3.json",
+        "data/s3/l4.json",
+        "data/s3/l5.json",
+        "data/s3/l6.json",
+        "data/s3/l7.json",
+        "data/s3/l8.json",
+        "data/s3/l9.json",
+        "data/s3/l10.json",
+        "data/s3/l11.json",
+        "data/s3/l12.json",
+        "data/s3/l13.json",
+        "data/s3/l14.json",
+        "data/s3/l15.json",
+        "data/s3/l16.json"
+      ]
+    },
+    {
+      "id": "s4",
+      "number": 4,
+      "title": {
+        "de": "Sätze und Reisen",
+        "en": "Sentences and travel"
+      },
+      "subtitle": {
+        "de": "Satzbau, Partikel, Dialoge für unterwegs",
+        "en": "Sentence building, particles, travel dialogues"
+      },
+      "lessons": [
+        "data/s4/l1.json",
+        "data/s4/l2.json",
+        "data/s4/l3.json",
+        "data/s4/l4.json",
+        "data/s4/l5.json",
+        "data/s4/l6.json",
+        "data/s4/l7.json",
+        "data/s4/l8.json",
+        "data/s4/l9.json",
+        "data/s4/l10.json",
+        "data/s4/l11.json",
+        "data/s4/l12.json",
+        "data/s4/l13.json",
+        "data/s4/l14.json",
+        "data/s4/l15.json",
+        "data/s4/l16.json",
+        "data/s4/l17.json",
+        "data/s4/l18.json",
+        "data/s4/l19.json",
+        "data/s4/l20.json"
+      ]
+    }
+  ]
+}

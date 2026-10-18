@@ -1,0 +1,207 @@
+{
+ "id": "s3-l8",
+ "stage": 3,
+ "lesson": 8,
+ "title": {
+  "de": "Ja, nein und Verstehen",
+  "en": "Yes, no and understanding"
+ },
+ "intro": {
+  "de": "Kleine Sätze, die dir im Gespräch helfen, wenn du etwas nicht verstehst.\n네 heißt „ja“, kann aber auch einfach „ich höre zu“ bedeuten.",
+  "en": "Short phrases that help when you don't understand something.\n네 means \"yes\", but it can also just mean \"I'm listening\"."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "see-sound"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s3-p-ne",
+   "hangul": "네",
+   "type": "phrase",
+   "topic": "basics",
+   "sound": {
+    "de": "ne",
+    "en": "ne"
+   },
+   "meaning": {
+    "de": "ja",
+    "en": "yes"
+   },
+   "mnemonic": {
+    "de": "Klingt wie „nee“, heißt aber „ja“ – Vorsicht!",
+    "en": "Sounds like \"nay\" but means yes!"
+   },
+   "note": {
+    "de": "Auch: „Wie bitte?“ mit fragender Stimme.",
+    "en": "With a rising tone it also means \"pardon?\"."
+   },
+   "audio": "audio/s3-p-ne.mp3"
+  },
+  {
+   "id": "s3-p-aniyo",
+   "hangul": "아니요",
+   "type": "phrase",
+   "topic": "basics",
+   "sound": {
+    "de": "aniyo",
+    "en": "aniyo"
+   },
+   "meaning": {
+    "de": "nein",
+    "en": "no"
+   },
+   "note": {
+    "de": "Höfliches Nein.",
+    "en": "A polite no."
+   },
+   "audio": "audio/s3-p-aniyo.mp3"
+  },
+  {
+   "id": "s3-p-majayo",
+   "hangul": "맞아요",
+   "type": "phrase",
+   "topic": "basics",
+   "sound": {
+    "de": "majayo",
+    "en": "majayo"
+   },
+   "meaning": {
+    "de": "Genau / Stimmt",
+    "en": "that's right"
+   },
+   "note": {
+    "de": "Gesprochen [마자요].",
+    "en": "Pronounced [마자요]."
+   },
+   "audio": "audio/s3-p-majayo.mp3"
+  },
+  {
+   "id": "s3-p-joayo",
+   "hangul": "좋아요",
+   "type": "phrase",
+   "topic": "basics",
+   "sound": {
+    "de": "joayo",
+    "en": "joayo"
+   },
+   "meaning": {
+    "de": "Gut / Gern",
+    "en": "good / sounds good"
+   },
+   "note": {
+    "de": "Das ㅎ verschwindet: [조아요].",
+    "en": "The ㅎ disappears: [조아요]."
+   },
+   "audio": "audio/s3-p-joayo.mp3"
+  },
+  {
+   "id": "s3-p-mollayo",
+   "hangul": "몰라요",
+   "type": "phrase",
+   "topic": "basics",
+   "sound": {
+    "de": "mollayo",
+    "en": "mollayo"
+   },
+   "meaning": {
+    "de": "Ich weiß nicht",
+    "en": "I don't know"
+   },
+   "note": {
+    "de": "Kann direkt klingen; höflicher ist 잘 모르겠어요.",
+    "en": "Can sound blunt; 잘 모르겠어요 is softer."
+   },
+   "audio": "audio/s3-p-mollayo.mp3"
+  },
+  {
+   "id": "s3-p-algesseoyo",
+   "hangul": "알겠어요",
+   "type": "phrase",
+   "topic": "basics",
+   "sound": {
+    "de": "algesseoyo",
+    "en": "algesseoyo"
+   },
+   "meaning": {
+    "de": "Verstanden / Alles klar",
+    "en": "got it / understood"
+   },
+   "note": {
+    "de": "Gesprochen [알게써요].",
+    "en": "Pronounced [알게써요]."
+   },
+   "audio": "audio/s3-p-algesseoyo.mp3"
+  },
+  {
+   "id": "s3-p-jal-moreugesseoyo",
+   "hangul": "잘 모르겠어요",
+   "type": "phrase",
+   "topic": "basics",
+   "sound": {
+    "de": "jal moreugesseoyo",
+    "en": "jal moreugesseoyo"
+   },
+   "meaning": {
+    "de": "Das weiß ich nicht so genau",
+    "en": "I'm not sure"
+   },
+   "note": {
+    "de": "Sanfter als 몰라요.",
+    "en": "Softer than 몰라요."
+   },
+   "audio": "audio/s3-p-jal-moreugesseoyo.mp3"
+  },
+  {
+   "id": "s3-p-dasi-malhae-juseyo",
+   "hangul": "다시 한 번 말해 주세요",
+   "type": "phrase",
+   "topic": "basics",
+   "sound": {
+    "de": "dasi han beon malhae juseyo",
+    "en": "dasi han beon malhae juseyo"
+   },
+   "meaning": {
+    "de": "Bitte noch einmal sagen",
+    "en": "please say it again"
+   },
+   "mnemonic": {
+    "de": "다시 = wieder, 한 번 = einmal.",
+    "en": "다시 = again, 한 번 = once."
+   },
+   "note": {
+    "de": "말해 klingt wie [마래], das ㅎ wird schwach.",
+    "en": "말해 sounds like [마래]; the ㅎ weakens."
+   },
+   "audio": "audio/s3-p-dasi-malhae-juseyo.mp3"
+  },
+  {
+   "id": "s3-p-cheoncheonhi-juseyo",
+   "hangul": "천천히 말해 주세요",
+   "type": "phrase",
+   "topic": "basics",
+   "sound": {
+    "de": "cheoncheonhi malhae juseyo",
+    "en": "cheoncheonhi malhae juseyo"
+   },
+   "meaning": {
+    "de": "Bitte langsam sprechen",
+    "en": "please speak slowly"
+   },
+   "mnemonic": {
+    "de": "천천히 = langsam.",
+    "en": "천천히 = slowly."
+   },
+   "note": {
+    "de": "천천히 klingt wie [천처니].",
+    "en": "천천히 sounds like [천처니]."
+   },
+   "audio": "audio/s3-p-cheoncheonhi-juseyo.mp3"
+  }
+ ]
+}

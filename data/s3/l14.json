@@ -1,0 +1,256 @@
+{
+ "id": "s3-l14",
+ "stage": 3,
+ "lesson": 14,
+ "title": {
+  "de": "Orte",
+  "en": "Places"
+ },
+ "intro": {
+  "de": "Orte in der Stadt und in der Natur. Viele Wörter für Gebäude haben eine eigene Endung, z. B. 관 (Gebäude, Halle) in 도서관.",
+  "en": "Places in town and in nature. Many building names have their own ending, for example 관 (hall, building) in 도서관."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "see-sound"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s3-w-hakgyo",
+   "hangul": "학교",
+   "type": "word",
+   "topic": "places",
+   "sound": {
+    "de": "hakgyo",
+    "en": "hakgyo"
+   },
+   "meaning": {
+    "de": "Schule",
+    "en": "school"
+   },
+   "note": {
+    "de": "Gesprochen [학꾜].",
+    "en": "Pronounced [학꾜]."
+   },
+   "audio": "audio/s3-w-hakgyo.mp3"
+  },
+  {
+   "id": "s3-w-hoesa",
+   "hangul": "회사",
+   "type": "word",
+   "topic": "places",
+   "sound": {
+    "de": "hoesa",
+    "en": "hoesa"
+   },
+   "meaning": {
+    "de": "Firma",
+    "en": "company, office"
+   },
+   "note": {
+    "de": "Zur Arbeit: 회사에 가요.",
+    "en": "Going to work: 회사에 가요."
+   },
+   "audio": "audio/s3-w-hoesa.mp3"
+  },
+  {
+   "id": "s3-w-gongwon",
+   "hangul": "공원",
+   "type": "word",
+   "topic": "places",
+   "sound": {
+    "de": "gongwon",
+    "en": "gongwon"
+   },
+   "meaning": {
+    "de": "Park",
+    "en": "park"
+   },
+   "mnemonic": {
+    "de": "Im Park schlägt ein Gong.",
+    "en": "A gong rings in the park."
+   },
+   "audio": "audio/s3-w-gongwon.mp3"
+  },
+  {
+   "id": "s3-w-sijang",
+   "hangul": "시장",
+   "type": "word",
+   "topic": "places",
+   "sound": {
+    "de": "sijang",
+    "en": "sijang"
+   },
+   "meaning": {
+    "de": "Markt",
+    "en": "market"
+   },
+   "mnemonic": {
+    "de": "Auf dem Markt wird geschachert: „sijang“.",
+    "en": "Shopping at the market: \"sijang\"."
+   },
+   "audio": "audio/s3-w-sijang.mp3"
+  },
+  {
+   "id": "s3-w-gage",
+   "hangul": "가게",
+   "type": "word",
+   "topic": "places",
+   "sound": {
+    "de": "gage",
+    "en": "gage"
+   },
+   "meaning": {
+    "de": "Laden, Geschäft",
+    "en": "shop, store"
+   },
+   "mnemonic": {
+    "de": "Ein kleiner Laden an der Gasse.",
+    "en": "A small shop: \"gage\"."
+   },
+   "audio": "audio/s3-w-gage.mp3"
+  },
+  {
+   "id": "s3-w-gonghang",
+   "hangul": "공항",
+   "type": "word",
+   "topic": "places",
+   "sound": {
+    "de": "gonghang",
+    "en": "gonghang"
+   },
+   "meaning": {
+    "de": "Flughafen",
+    "en": "airport"
+   },
+   "mnemonic": {
+    "de": "Ein Gong in der Flughafenhalle.",
+    "en": "A gong in the airport hall."
+   },
+   "audio": "audio/s3-w-gonghang.mp3"
+  },
+  {
+   "id": "s3-w-doseogwan",
+   "hangul": "도서관",
+   "type": "word",
+   "topic": "places",
+   "sound": {
+    "de": "doseogwan",
+    "en": "doseogwan"
+   },
+   "meaning": {
+    "de": "Bibliothek",
+    "en": "library"
+   },
+   "note": {
+    "de": "도서 = Bücher, 관 = Gebäude.",
+    "en": "도서 = books, 관 = building."
+   },
+   "audio": "audio/s3-w-doseogwan.mp3"
+  },
+  {
+   "id": "s3-w-ucheguk",
+   "hangul": "우체국",
+   "type": "word",
+   "topic": "places",
+   "sound": {
+    "de": "ucheguk",
+    "en": "ucheguk"
+   },
+   "meaning": {
+    "de": "Post (Postamt)",
+    "en": "post office"
+   },
+   "note": {
+    "de": "Hier gibt es Briefmarken und Pakete.",
+    "en": "Where you send letters and parcels."
+   },
+   "audio": "audio/s3-w-ucheguk.mp3"
+  },
+  {
+   "id": "s3-w-bada",
+   "hangul": "바다",
+   "type": "word",
+   "topic": "places",
+   "sound": {
+    "de": "bada",
+    "en": "bada"
+   },
+   "meaning": {
+    "de": "Meer",
+    "en": "sea"
+   },
+   "mnemonic": {
+    "de": "Am Meer geht man baden: „bada“.",
+    "en": "Splash in the sea: \"bada\"."
+   },
+   "audio": "audio/s3-w-bada.mp3"
+  },
+  {
+   "id": "s3-w-san",
+   "hangul": "산",
+   "type": "word",
+   "topic": "places",
+   "sound": {
+    "de": "san",
+    "en": "san"
+   },
+   "meaning": {
+    "de": "Berg",
+    "en": "mountain"
+   },
+   "mnemonic": {
+    "de": "Auf dem Berg liegt Sand? Nein, Fels: „san“.",
+    "en": "Climb the mountain to see the sun: \"sahn\"."
+   },
+   "note": {
+    "de": "In Namen: 남산, 설악산.",
+    "en": "In names: 남산, 설악산."
+   },
+   "audio": "audio/s3-w-san.mp3"
+  },
+  {
+   "id": "s3-w-kape",
+   "hangul": "카페",
+   "type": "word",
+   "topic": "places",
+   "sound": {
+    "de": "kape",
+    "en": "kape"
+   },
+   "meaning": {
+    "de": "Café",
+    "en": "café"
+   },
+   "mnemonic": {
+    "de": "Fast wie „Café“.",
+    "en": "Almost \"café\"."
+   },
+   "audio": "audio/s3-w-kape.mp3"
+  },
+  {
+   "id": "s3-w-gil",
+   "hangul": "길",
+   "type": "word",
+   "topic": "places",
+   "sound": {
+    "de": "gil",
+    "en": "gil"
+   },
+   "meaning": {
+    "de": "Weg, Straße",
+    "en": "road, way"
+   },
+   "mnemonic": {
+    "de": "Den Weg entlang, Schritt für Schritt.",
+    "en": "Follow the road: \"geel\"."
+   },
+   "audio": "audio/s3-w-gil.mp3"
+  }
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "id": "s3-l11",
+ "stage": 3,
+ "lesson": 11,
+ "title": {
+  "de": "Essen und Trinken",
+  "en": "Food and drink"
+ },
+ "intro": {
+  "de": "Grundwörter für Lebensmittel. 고기 (Fleisch) kennst du schon; 닭고기 ist wörtlich „Huhn-Fleisch“.",
+  "en": "Basic food words. You already know 고기 (meat); 닭고기 is literally \"chicken meat\"."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "see-sound"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s3-w-eumsik",
+   "hangul": "음식",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "eumsik",
+    "en": "eumsik"
+   },
+   "meaning": {
+    "de": "Essen, Speise",
+    "en": "food"
+   },
+   "mnemonic": {
+    "de": "„Ŭm“ – das klingt nach leckerem Essen.",
+    "en": "\"Mmm\" – that's food."
+   },
+   "note": {
+    "de": "한국 음식 = koreanisches Essen.",
+    "en": "한국 음식 = Korean food."
+   },
+   "audio": "audio/s3-w-eumsik.mp3"
+  },
+  {
+   "id": "s3-w-ppang",
+   "hangul": "빵",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "ppang",
+    "en": "ppang"
+   },
+   "meaning": {
+    "de": "Brot",
+    "en": "bread"
+   },
+   "mnemonic": {
+    "de": "„Ppang!“ – das Brot knallt aus dem Ofen.",
+    "en": "\"Ppahng!\" – bread pops out of the oven."
+   },
+   "audio": "audio/s3-w-ppang.mp3"
+  },
+  {
+   "id": "s3-w-gwail",
+   "hangul": "과일",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "gwail",
+    "en": "gwail"
+   },
+   "meaning": {
+    "de": "Obst",
+    "en": "fruit"
+   },
+   "mnemonic": {
+    "de": "Obst in der Wanne: „gwail“.",
+    "en": "A bowl of fruit: \"gwail\"."
+   },
+   "audio": "audio/s3-w-gwail.mp3"
+  },
+  {
+   "id": "s3-w-sagwa",
+   "hangul": "사과",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "sagwa",
+    "en": "sagwa"
+   },
+   "meaning": {
+    "de": "Apfel",
+    "en": "apple"
+   },
+   "mnemonic": {
+    "de": "„Sag, wa?“ – ein Apfel!",
+    "en": "\"Saw a\" big red apple."
+   },
+   "note": {
+    "de": "Bedeutet auch „Entschuldigung“ (die Bitte um Verzeihung).",
+    "en": "Also means \"an apology\"."
+   },
+   "audio": "audio/s3-w-sagwa.mp3"
+  },
+  {
+   "id": "s3-w-gyeran",
+   "hangul": "계란",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "gyeran",
+    "en": "gyeran"
+   },
+   "meaning": {
+    "de": "Ei",
+    "en": "egg"
+   },
+   "mnemonic": {
+    "de": "Ein Ei rollt „gyeran“ vom Tisch.",
+    "en": "An egg rolls around: \"gyeran\"."
+   },
+   "note": {
+    "de": "Auch 달걀 ist üblich. ㅖ klingt meist wie ㅔ.",
+    "en": "달걀 is also common. ㅖ usually sounds like ㅔ."
+   },
+   "audio": "audio/s3-w-gyeran.mp3"
+  },
+  {
+   "id": "s3-w-saengseon",
+   "hangul": "생선",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "saengseon",
+    "en": "saengseon"
+   },
+   "meaning": {
+    "de": "Fisch (als Essen)",
+    "en": "fish (as food)"
+   },
+   "note": {
+    "de": "Der lebende Fisch heißt 물고기.",
+    "en": "A live fish is 물고기."
+   },
+   "audio": "audio/s3-w-saengseon.mp3"
+  },
+  {
+   "id": "s3-w-dakgogi",
+   "hangul": "닭고기",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "dakgogi",
+    "en": "dakgogi"
+   },
+   "meaning": {
+    "de": "Hühnerfleisch",
+    "en": "chicken (meat)"
+   },
+   "mnemonic": {
+    "de": "닭 = Huhn, 고기 = Fleisch.",
+    "en": "닭 = chicken, 고기 = meat."
+   },
+   "note": {
+    "de": "Gesprochen [닥꼬기].",
+    "en": "Pronounced [닥꼬기]."
+   },
+   "audio": "audio/s3-w-dakgogi.mp3"
+  },
+  {
+   "id": "s3-w-chaeso",
+   "hangul": "채소",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "chaeso",
+    "en": "chaeso"
+   },
+   "meaning": {
+    "de": "Gemüse",
+    "en": "vegetables"
+   },
+   "note": {
+    "de": "Auch 야채 ist sehr gebräuchlich.",
+    "en": "야채 is also very common."
+   },
+   "audio": "audio/s3-w-chaeso.mp3"
+  },
+  {
+   "id": "s3-w-cha",
+   "hangul": "차",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "cha",
+    "en": "cha"
+   },
+   "meaning": {
+    "de": "Tee",
+    "en": "tea"
+   },
+   "mnemonic": {
+    "de": "„Tscha“ – fast wie Chai.",
+    "en": "Like \"chai\": tea."
+   },
+   "note": {
+    "de": "Bedeutet auch „Auto“.",
+    "en": "Also means \"car\"."
+   },
+   "audio": "audio/s3-w-cha.mp3"
+  },
+  {
+   "id": "s3-w-maekju",
+   "hangul": "맥주",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "maekju",
+    "en": "maekju"
+   },
+   "meaning": {
+    "de": "Bier",
+    "en": "beer"
+   },
+   "note": {
+    "de": "Gesprochen [맥쭈].",
+    "en": "Pronounced [맥쭈]."
+   },
+   "audio": "audio/s3-w-maekju.mp3"
+  },
+  {
+   "id": "s3-w-sul",
+   "hangul": "술",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "sul",
+    "en": "sul"
+   },
+   "meaning": {
+    "de": "Alkohol, alkoholisches Getränk",
+    "en": "alcohol, drinks"
+   },
+   "mnemonic": {
+    "de": "Nach zu viel 술 wird man süßlich-müde.",
+    "en": "Too much and you'll feel \"sool\"-ish."
+   },
+   "note": {
+    "de": "Oberbegriff für Bier, Wein, Soju usw.",
+    "en": "General word for beer, wine, soju and so on."
+   },
+   "audio": "audio/s3-w-sul.mp3"
+  },
+  {
+   "id": "s3-w-guk",
+   "hangul": "국",
+   "type": "word",
+   "topic": "food",
+   "sound": {
+    "de": "guk",
+    "en": "guk"
+   },
+   "meaning": {
+    "de": "Suppe",
+    "en": "soup"
+   },
+   "mnemonic": {
+    "de": "Guck mal, Suppe!",
+    "en": "Look, a good soup: \"gook\"."
+   },
+   "audio": "audio/s3-w-guk.mp3"
+  }
+ ]
+}

@@ -1,0 +1,233 @@
+{
+ "id": "s2-l3",
+ "stage": 2,
+ "lesson": 3,
+ "title": {
+  "de": "Normal, behaucht, gespannt",
+  "en": "Plain, aspirated, tense"
+ },
+ "intro": {
+  "de": "Viele Konsonanten gibt es in drei Varianten:\nNormal (ㄱ ㄷ ㅂ ㅈ ㅅ): weich, mit wenig Luft. Am Wortanfang klingen sie oft zwischen g und k, d und t, b und p.\nBehaucht (ㅋ ㅌ ㅍ ㅊ): mit kräftigem Luftstoß.\nGespannt (ㄲ ㄸ ㅃ ㅉ ㅆ): hart und gepresst, ohne Luft.\nBei ㅅ gibt es keine behauchte Form, nur ㅆ. ㅎ steht für sich.",
+  "en": "Many consonants come in three versions:\nPlain (ㄱ ㄷ ㅂ ㅈ ㅅ): soft, with little air. At the start of a word they often sound halfway between g and k, d and t, b and p.\nAspirated (ㅋ ㅌ ㅍ ㅊ): with a strong puff of air.\nTense (ㄲ ㄸ ㅃ ㅉ ㅆ): tight and sharp, with no air.\nㅅ has no aspirated partner, only ㅆ. ㅎ stands on its own."
+ },
+ "exercises": [
+  "see-sound",
+  "hear-char",
+  "build-syllable"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s2-y-ga",
+   "hangul": "가",
+   "type": "syllable",
+   "sound": {
+    "de": "ga",
+    "en": "ga"
+   },
+   "parts": [
+    "ㄱ",
+    "ㅏ"
+   ],
+   "audio": "audio/s2-y-ga.mp3"
+  },
+  {
+   "id": "s2-y-ka",
+   "hangul": "카",
+   "type": "syllable",
+   "sound": {
+    "de": "ka",
+    "en": "ka"
+   },
+   "parts": [
+    "ㅋ",
+    "ㅏ"
+   ],
+   "audio": "audio/s2-y-ka.mp3"
+  },
+  {
+   "id": "s2-y-kka",
+   "hangul": "까",
+   "type": "syllable",
+   "sound": {
+    "de": "kka",
+    "en": "kka"
+   },
+   "parts": [
+    "ㄲ",
+    "ㅏ"
+   ],
+   "audio": "audio/s2-y-kka.mp3"
+  },
+  {
+   "id": "s2-y-da",
+   "hangul": "다",
+   "type": "syllable",
+   "sound": {
+    "de": "da",
+    "en": "da"
+   },
+   "parts": [
+    "ㄷ",
+    "ㅏ"
+   ],
+   "audio": "audio/s2-y-da.mp3"
+  },
+  {
+   "id": "s2-y-ta",
+   "hangul": "타",
+   "type": "syllable",
+   "sound": {
+    "de": "ta",
+    "en": "ta"
+   },
+   "parts": [
+    "ㅌ",
+    "ㅏ"
+   ],
+   "audio": "audio/s2-y-ta.mp3"
+  },
+  {
+   "id": "s2-y-tta",
+   "hangul": "따",
+   "type": "syllable",
+   "sound": {
+    "de": "tta",
+    "en": "tta"
+   },
+   "parts": [
+    "ㄸ",
+    "ㅏ"
+   ],
+   "audio": "audio/s2-y-tta.mp3"
+  },
+  {
+   "id": "s2-y-ba",
+   "hangul": "바",
+   "type": "syllable",
+   "sound": {
+    "de": "ba",
+    "en": "ba"
+   },
+   "parts": [
+    "ㅂ",
+    "ㅏ"
+   ],
+   "audio": "audio/s2-y-ba.mp3"
+  },
+  {
+   "id": "s2-y-pa",
+   "hangul": "파",
+   "type": "syllable",
+   "sound": {
+    "de": "pa",
+    "en": "pa"
+   },
+   "parts": [
+    "ㅍ",
+    "ㅏ"
+   ],
+   "audio": "audio/s2-y-pa.mp3"
+  },
+  {
+   "id": "s2-y-ppa",
+   "hangul": "빠",
+   "type": "syllable",
+   "sound": {
+    "de": "ppa",
+    "en": "ppa"
+   },
+   "parts": [
+    "ㅃ",
+    "ㅏ"
+   ],
+   "audio": "audio/s2-y-ppa.mp3"
+  },
+  {
+   "id": "s2-y-ja",
+   "hangul": "자",
+   "type": "syllable",
+   "sound": {
+    "de": "ja",
+    "en": "ja"
+   },
+   "parts": [
+    "ㅈ",
+    "ㅏ"
+   ],
+   "audio": "audio/s2-y-ja.mp3"
+  },
+  {
+   "id": "s2-y-cha",
+   "hangul": "차",
+   "type": "syllable",
+   "sound": {
+    "de": "cha",
+    "en": "cha"
+   },
+   "parts": [
+    "ㅊ",
+    "ㅏ"
+   ],
+   "audio": "audio/s2-y-cha.mp3"
+  },
+  {
+   "id": "s2-y-jja",
+   "hangul": "짜",
+   "type": "syllable",
+   "sound": {
+    "de": "jja",
+    "en": "jja"
+   },
+   "parts": [
+    "ㅉ",
+    "ㅏ"
+   ],
+   "audio": "audio/s2-y-jja.mp3"
+  },
+  {
+   "id": "s2-y-sa",
+   "hangul": "사",
+   "type": "syllable",
+   "sound": {
+    "de": "sa",
+    "en": "sa"
+   },
+   "parts": [
+    "ㅅ",
+    "ㅏ"
+   ],
+   "audio": "audio/s2-y-sa.mp3"
+  },
+  {
+   "id": "s2-y-ssa",
+   "hangul": "싸",
+   "type": "syllable",
+   "sound": {
+    "de": "ssa",
+    "en": "ssa"
+   },
+   "parts": [
+    "ㅆ",
+    "ㅏ"
+   ],
+   "audio": "audio/s2-y-ssa.mp3"
+  },
+  {
+   "id": "s2-y-ha",
+   "hangul": "하",
+   "type": "syllable",
+   "sound": {
+    "de": "ha",
+    "en": "ha"
+   },
+   "parts": [
+    "ㅎ",
+    "ㅏ"
+   ],
+   "audio": "audio/s2-y-ha.mp3"
+  }
+ ]
+}

@@ -1,0 +1,206 @@
+{
+ "id": "s2-l10",
+ "stage": 2,
+ "lesson": 10,
+ "title": {
+  "de": "Lies das Schild",
+  "en": "Read the sign"
+ },
+ "intro": {
+  "de": "Mit Hangeul kannst du jetzt Schilder lesen. Diese Wörter siehst du überall in Bahnhöfen und auf der Straße.\nNeue Regel: Nach den Endlauten k, t, p wird ein folgendes ㄱ, ㄷ, ㅂ, ㅅ, ㅈ gespannt. 입구 klingt wie 입꾸, 식당 wie 식땅.",
+  "en": "With Hangeul you can now read signs. You'll see these words everywhere in stations and on the street.\nNew rule: after the final sounds k, t, p, a following ㄱ, ㄷ, ㅂ, ㅅ, ㅈ becomes tense. 입구 sounds like 입꾸, 식당 like 식땅."
+ },
+ "exercises": [
+  "see-sound",
+  "see-meaning",
+  "hear-meaning",
+  "pick-hangul"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s2-g-chulgu",
+   "hangul": "출구",
+   "type": "sign",
+   "topic": "signs",
+   "sound": {
+    "de": "chulgu",
+    "en": "chulgu"
+   },
+   "meaning": {
+    "de": "Ausgang",
+    "en": "exit"
+   },
+   "audio": "audio/s2-g-chulgu.mp3"
+  },
+  {
+   "id": "s2-g-ipgu",
+   "hangul": "입구",
+   "type": "sign",
+   "topic": "signs",
+   "sound": {
+    "de": "ipgu",
+    "en": "ipgu"
+   },
+   "meaning": {
+    "de": "Eingang",
+    "en": "entrance"
+   },
+   "mnemonic": {
+    "de": "입 heißt Mund: Der Eingang ist der Mund des Gebäudes. 구 (Öffnung) steckt auch in 출구.",
+    "en": "입 means mouth: the entrance is the building's mouth. 구 (opening) is also in 출구."
+   },
+   "note": {
+    "de": "Nach dem Batchim ㅂ wird ㄱ gespannt: 입꾸.",
+    "en": "After the batchim ㅂ, ㄱ becomes tense: 입꾸."
+   },
+   "audio": "audio/s2-g-ipgu.mp3"
+  },
+  {
+   "id": "s2-g-hwajangsil",
+   "hangul": "화장실",
+   "type": "sign",
+   "topic": "signs",
+   "sound": {
+    "de": "hwajangsil",
+    "en": "hwajangsil"
+   },
+   "meaning": {
+    "de": "Toilette",
+    "en": "restroom, toilet"
+   },
+   "audio": "audio/s2-g-hwajangsil.mp3"
+  },
+  {
+   "id": "s2-g-jihacheol",
+   "hangul": "지하철",
+   "type": "sign",
+   "topic": "signs",
+   "sound": {
+    "de": "jihacheol",
+    "en": "jihacheol"
+   },
+   "meaning": {
+    "de": "U-Bahn",
+    "en": "subway"
+   },
+   "mnemonic": {
+    "de": "지하 heißt unter der Erde, 철 kommt von Eisenbahn.",
+    "en": "지하 means underground, 철 comes from railway."
+   },
+   "audio": "audio/s2-g-jihacheol.mp3"
+  },
+  {
+   "id": "s2-g-yeok",
+   "hangul": "역",
+   "type": "sign",
+   "topic": "signs",
+   "sound": {
+    "de": "yeok",
+    "en": "yeok"
+   },
+   "meaning": {
+    "de": "Bahnhof, Station",
+    "en": "station"
+   },
+   "audio": "audio/s2-g-yeok.mp3"
+  },
+  {
+   "id": "s2-g-byeongwon",
+   "hangul": "병원",
+   "type": "sign",
+   "topic": "signs",
+   "sound": {
+    "de": "byeongwon",
+    "en": "byeongwon"
+   },
+   "meaning": {
+    "de": "Krankenhaus, Arztpraxis",
+    "en": "hospital, clinic"
+   },
+   "audio": "audio/s2-g-byeongwon.mp3"
+  },
+  {
+   "id": "s2-g-yakguk",
+   "hangul": "약국",
+   "type": "sign",
+   "topic": "signs",
+   "sound": {
+    "de": "yakguk",
+    "en": "yakguk"
+   },
+   "meaning": {
+    "de": "Apotheke",
+    "en": "pharmacy"
+   },
+   "mnemonic": {
+    "de": "약 heißt Medizin.",
+    "en": "약 means medicine."
+   },
+   "note": {
+    "de": "Nach ㄱ wird das zweite ㄱ gespannt: 약꾹.",
+    "en": "After ㄱ the second ㄱ becomes tense: 약꾹."
+   },
+   "audio": "audio/s2-g-yakguk.mp3"
+  },
+  {
+   "id": "s2-g-eunhaeng",
+   "hangul": "은행",
+   "type": "sign",
+   "topic": "signs",
+   "sound": {
+    "de": "eunhaeng",
+    "en": "eunhaeng"
+   },
+   "meaning": {
+    "de": "Bank",
+    "en": "bank"
+   },
+   "note": {
+    "de": "Im schnellen Sprechen wird das ㅎ oft schwach: fast 으냉.",
+    "en": "In fast speech the ㅎ often weakens: almost 으냉."
+   },
+   "audio": "audio/s2-g-eunhaeng.mp3"
+  },
+  {
+   "id": "s2-g-pyeonuijeom",
+   "hangul": "편의점",
+   "type": "sign",
+   "topic": "signs",
+   "sound": {
+    "de": "pyeonuijeom",
+    "en": "pyeonuijeom"
+   },
+   "meaning": {
+    "de": "Minimarkt (rund um die Uhr)",
+    "en": "convenience store"
+   },
+   "note": {
+    "de": "Bindung, und ㅢ klingt hier wie i: 펴니점.",
+    "en": "Linking, and ㅢ sounds like ee here: 펴니점."
+   },
+   "audio": "audio/s2-g-pyeonuijeom.mp3"
+  },
+  {
+   "id": "s2-g-sikdang",
+   "hangul": "식당",
+   "type": "sign",
+   "topic": "signs",
+   "sound": {
+    "de": "sikdang",
+    "en": "sikdang"
+   },
+   "meaning": {
+    "de": "Restaurant",
+    "en": "restaurant"
+   },
+   "note": {
+    "de": "Nach ㄱ wird ㄷ gespannt: 식땅.",
+    "en": "After ㄱ, ㄷ becomes tense: 식땅."
+   },
+   "audio": "audio/s2-g-sikdang.mp3"
+  }
+ ]
+}

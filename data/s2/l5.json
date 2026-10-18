@@ -1,0 +1,189 @@
+{
+ "id": "s2-l5",
+ "stage": 2,
+ "lesson": 5,
+ "title": {
+  "de": "Zusammengesetzte Vokale",
+  "en": "Combined vowels"
+ },
+ "intro": {
+  "de": "Diese Vokale entstehen aus zwei einfachen Vokalen, die man schnell hintereinander spricht: ㅗ + ㅏ = ㅘ, ㅜ + ㅓ = ㅝ, ㅡ + ㅣ = ㅢ.\nDer erste Teil (ㅗ oder ㅜ) wird zu einem kurzen w.\nㅙ, ㅚ und ㅞ klingen heute fast gleich, wie we.",
+  "en": "These vowels are built from two simple vowels said quickly one after the other: ㅗ + ㅏ = ㅘ, ㅜ + ㅓ = ㅝ, ㅡ + ㅣ = ㅢ.\nThe first part (ㅗ or ㅜ) turns into a quick w.\nㅙ, ㅚ and ㅞ sound almost the same today, like \"weh\"."
+ },
+ "exercises": [
+  "see-sound",
+  "hear-char",
+  "build-syllable"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s2-v-wa",
+   "hangul": "ㅘ",
+   "type": "vowel",
+   "sound": {
+    "de": "wa",
+    "en": "wa"
+   },
+   "mnemonic": {
+    "de": "ㅗ + ㅏ: o und a schnell hintereinander ergibt wa.",
+    "en": "ㅗ + ㅏ: say oh and ah quickly and you get wah."
+   },
+   "audio": "audio/s2-v-wa.mp3"
+  },
+  {
+   "id": "s2-v-wae",
+   "hangul": "ㅙ",
+   "type": "vowel",
+   "sound": {
+    "de": "wae",
+    "en": "wae"
+   },
+   "mnemonic": {
+    "de": "ㅗ + ㅐ: o gleitet in ä hinein.",
+    "en": "ㅗ + ㅐ: oh glides into ae."
+   },
+   "audio": "audio/s2-v-wae.mp3"
+  },
+  {
+   "id": "s2-v-oe",
+   "hangul": "ㅚ",
+   "type": "vowel",
+   "sound": {
+    "de": "oe",
+    "en": "oe"
+   },
+   "mnemonic": {
+    "de": "ㅗ + ㅣ sieht nach o + i aus, klingt heute aber wie we.",
+    "en": "ㅗ + ㅣ looks like o + i, but today it sounds like \"we\" in \"wet\"."
+   },
+   "note": {
+    "de": "ㅙ, ㅚ und ㅞ klingen heute fast gleich.",
+    "en": "ㅙ, ㅚ and ㅞ sound almost the same today."
+   },
+   "audio": "audio/s2-v-oe.mp3"
+  },
+  {
+   "id": "s2-v-wo",
+   "hangul": "ㅝ",
+   "type": "vowel",
+   "sound": {
+    "de": "wo",
+    "en": "wo"
+   },
+   "mnemonic": {
+    "de": "ㅜ + ㅓ: u gleitet in ein offenes o.",
+    "en": "ㅜ + ㅓ: oo slides into uh."
+   },
+   "audio": "audio/s2-v-wo.mp3"
+  },
+  {
+   "id": "s2-v-we",
+   "hangul": "ㅞ",
+   "type": "vowel",
+   "sound": {
+    "de": "we",
+    "en": "we"
+   },
+   "mnemonic": {
+    "de": "ㅜ + ㅔ: u und e verschmelzen zu we.",
+    "en": "ㅜ + ㅔ: oo and eh melt into weh."
+   },
+   "note": {
+    "de": "Klingt wie ㅚ. Kommt in Wörtern selten vor.",
+    "en": "Sounds like ㅚ. It is rare in words."
+   },
+   "audio": "audio/s2-v-we.mp3"
+  },
+  {
+   "id": "s2-v-wi",
+   "hangul": "ㅟ",
+   "type": "vowel",
+   "sound": {
+    "de": "wi",
+    "en": "wi"
+   },
+   "mnemonic": {
+    "de": "ㅜ + ㅣ: u und i zusammen ergeben wi.",
+    "en": "ㅜ + ㅣ: oo and ee together make wee."
+   },
+   "audio": "audio/s2-v-wi.mp3"
+  },
+  {
+   "id": "s2-v-ui",
+   "hangul": "ㅢ",
+   "type": "vowel",
+   "sound": {
+    "de": "ui",
+    "en": "ui"
+   },
+   "mnemonic": {
+    "de": "ㅡ + ㅣ: erst breite Lippen für eu, dann schnell zu i.",
+    "en": "ㅡ + ㅣ: start with flat lips for eu, then move quickly to ee."
+   },
+   "note": {
+    "de": "Nach einem Konsonanten klingt ㅢ wie i (희 → hi). Als Wort 의 („von“) oft wie e.",
+    "en": "After a consonant ㅢ sounds like ee (희 → hee). As the word 의 (\"of\") it often sounds like eh."
+   },
+   "audio": "audio/s2-v-ui.mp3"
+  },
+  {
+   "id": "s2-y-wa",
+   "hangul": "와",
+   "type": "syllable",
+   "sound": {
+    "de": "wa",
+    "en": "wa"
+   },
+   "parts": [
+    "ㅇ",
+    "ㅘ"
+   ],
+   "audio": "audio/s2-y-wa.mp3"
+  },
+  {
+   "id": "s2-y-wae",
+   "hangul": "왜",
+   "type": "syllable",
+   "sound": {
+    "de": "wae",
+    "en": "wae"
+   },
+   "parts": [
+    "ㅇ",
+    "ㅙ"
+   ],
+   "audio": "audio/s2-y-wae.mp3"
+  },
+  {
+   "id": "s2-y-wi",
+   "hangul": "위",
+   "type": "syllable",
+   "sound": {
+    "de": "wi",
+    "en": "wi"
+   },
+   "parts": [
+    "ㅇ",
+    "ㅟ"
+   ],
+   "audio": "audio/s2-y-wi.mp3"
+  },
+  {
+   "id": "s2-y-ui",
+   "hangul": "의",
+   "type": "syllable",
+   "sound": {
+    "de": "ui",
+    "en": "ui"
+   },
+   "parts": [
+    "ㅇ",
+    "ㅢ"
+   ],
+   "audio": "audio/s2-y-ui.mp3"
+  }
+ ]
+}

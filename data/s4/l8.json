@@ -1,0 +1,311 @@
+{
+ "id": "s4-l8",
+ "stage": 4,
+ "lesson": 8,
+ "title": {
+  "de": "Wo etwas passiert: 에서",
+  "en": "Where it happens: 에서"
+ },
+ "intro": {
+  "de": "에서 zeigt den Ort, an dem jemand etwas tut: 카페에서 커피를 마셔요 = Ich trinke im Café Kaffee.\nDer Unterschied: 에 steht bei Ziel und Dasein (가요, 와요, 있어요). 에서 steht bei Tätigkeiten (먹어요, 일해요, 공부해요).\nNach 여기, 거기 und 어디 wird 에서 im Gespräch oft kurz zu 서: 여기서.",
+  "en": "에서 marks the place where someone does something: 카페에서 커피를 마셔요 = I drink coffee at the café.\nThe difference: 에 goes with destination and being somewhere (가요, 와요, 있어요). 에서 goes with activities (먹어요, 일해요, 공부해요).\nAfter 여기, 거기 and 어디, 에서 is often shortened to 서 in speech: 여기서."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "build-sentence"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-w-department-store",
+   "hangul": "백화점",
+   "type": "word",
+   "topic": "places",
+   "sound": {
+    "de": "baekwajeom",
+    "en": "baekwajeom"
+   },
+   "meaning": {
+    "de": "Kaufhaus",
+    "en": "department store"
+   },
+   "mnemonic": {
+    "de": "백 heißt hundert: ein Laden mit hundert Waren.",
+    "en": "백 means hundred: a store with a hundred kinds of goods."
+   },
+   "note": {
+    "de": "ㄱ und ㅎ verschmelzen zu einem kräftigen k: baekwajeom.",
+    "en": "ㄱ and ㅎ merge into a strong k: baekwajeom."
+   },
+   "audio": "audio/s4-w-department-store.mp3"
+  },
+  {
+   "id": "s4-w-swim",
+   "hangul": "수영해요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "suyeonghaeyo",
+    "en": "suyeonghaeyo"
+   },
+   "meaning": {
+    "de": "schwimmen",
+    "en": "to swim"
+   },
+   "mnemonic": {
+    "de": "수 heißt Wasser: im Wasser etwas tun.",
+    "en": "수 means water: doing something in the water."
+   },
+   "note": {
+    "de": "Grundform 수영하다.",
+    "en": "Dictionary form 수영하다."
+   },
+   "audio": "audio/s4-w-swim.mp3"
+  },
+  {
+   "id": "s4-w-rest",
+   "hangul": "쉬어요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "swieoyo",
+    "en": "swieoyo"
+   },
+   "meaning": {
+    "de": "sich ausruhen, Pause machen",
+    "en": "to rest"
+   },
+   "mnemonic": {
+    "de": "Ein langer Seufzer: „swi…“ – endlich Pause.",
+    "en": "A long sigh: \"swee…\" – finally a break."
+   },
+   "note": {
+    "de": "Grundform 쉬다.",
+    "en": "Dictionary form 쉬다."
+   },
+   "audio": "audio/s4-w-rest.mp3"
+  },
+  {
+   "id": "s4-w-play",
+   "hangul": "놀아요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "norayo",
+    "en": "norayo"
+   },
+   "meaning": {
+    "de": "spielen, Spaß haben",
+    "en": "to play, to hang out"
+   },
+   "mnemonic": {
+    "de": "Kinder rufen „Nora!“ und rennen los.",
+    "en": "Kids shout \"Nora!\" and run off to play."
+   },
+   "note": {
+    "de": "Grundform 놀다. Auch für Erwachsene: ausgehen, abhängen.",
+    "en": "Dictionary form 놀다. Adults use it too: to hang out."
+   },
+   "audio": "audio/s4-w-play.mp3"
+  },
+  {
+   "id": "s4-w-go-shopping",
+   "hangul": "쇼핑해요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "syopinghaeyo",
+    "en": "syopinghaeyo"
+   },
+   "meaning": {
+    "de": "shoppen, einkaufen gehen",
+    "en": "to go shopping"
+   },
+   "mnemonic": {
+    "de": "Shopping + 해요: einfach angehängt.",
+    "en": "Shopping + 해요: just tacked on."
+   },
+   "note": {
+    "de": "Grundform 쇼핑하다.",
+    "en": "Dictionary form 쇼핑하다."
+   },
+   "audio": "audio/s4-w-go-shopping.mp3"
+  },
+  {
+   "id": "s4-s-coffee-at-cafe",
+   "hangul": "저는 카페에서 커피를 마셔요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeoneun kapeeseo keopireul masyeoyo",
+    "en": "jeoneun kapeeseo keopireul masyeoyo"
+   },
+   "meaning": {
+    "de": "Ich trinke im Café Kaffee.",
+    "en": "I drink coffee at the café."
+   },
+   "parts": [
+    "저는",
+    "카페에서",
+    "커피를",
+    "마셔요"
+   ],
+   "extraParts": [
+    "카페에"
+   ],
+   "audio": "audio/s4-s-coffee-at-cafe.mp3"
+  },
+  {
+   "id": "s4-s-friend-works-bank",
+   "hangul": "친구는 은행에서 일해요",
+   "type": "sentence",
+   "sound": {
+    "de": "chinguneun eunhaengeseo ilhaeyo",
+    "en": "chinguneun eunhaengeseo ilhaeyo"
+   },
+   "meaning": {
+    "de": "Mein Freund / meine Freundin arbeitet bei der Bank.",
+    "en": "My friend works at a bank."
+   },
+   "parts": [
+    "친구는",
+    "은행에서",
+    "일해요"
+   ],
+   "extraParts": [
+    "은행에"
+   ],
+   "audio": "audio/s4-s-friend-works-bank.mp3"
+  },
+  {
+   "id": "s4-s-study-library",
+   "hangul": "도서관에서 공부해요",
+   "type": "sentence",
+   "sound": {
+    "de": "doseogwaneseo gongbuhaeyo",
+    "en": "doseogwaneseo gongbuhaeyo"
+   },
+   "meaning": {
+    "de": "Ich lerne in der Bibliothek.",
+    "en": "I study at the library."
+   },
+   "parts": [
+    "도서관에서",
+    "공부해요"
+   ],
+   "extraParts": [
+    "도서관에"
+   ],
+   "audio": "audio/s4-s-study-library.mp3"
+  },
+  {
+   "id": "s4-s-shop-department-store",
+   "hangul": "백화점에서 쇼핑해요",
+   "type": "sentence",
+   "sound": {
+    "de": "baekwajeomeseo syopinghaeyo",
+    "en": "baekwajeomeseo syopinghaeyo"
+   },
+   "meaning": {
+    "de": "Ich gehe im Kaufhaus shoppen.",
+    "en": "I go shopping at the department store."
+   },
+   "parts": [
+    "백화점에서",
+    "쇼핑해요"
+   ],
+   "extraParts": [
+    "백화점을"
+   ],
+   "audio": "audio/s4-s-shop-department-store.mp3"
+  },
+  {
+   "id": "s4-s-child-plays-park",
+   "hangul": "아이가 공원에서 놀아요",
+   "type": "sentence",
+   "sound": {
+    "de": "aiga gongwoneseo norayo",
+    "en": "aiga gongwoneseo norayo"
+   },
+   "meaning": {
+    "de": "Das Kind spielt im Park.",
+    "en": "The child is playing in the park."
+   },
+   "parts": [
+    "아이가",
+    "공원에서",
+    "놀아요"
+   ],
+   "extraParts": [
+    "공원에"
+   ],
+   "audio": "audio/s4-s-child-plays-park.mp3"
+  },
+  {
+   "id": "s4-s-rest-at-hotel",
+   "hangul": "호텔에서 쉬어요",
+   "type": "sentence",
+   "sound": {
+    "de": "hotereseo swieoyo",
+    "en": "hotereseo swieoyo"
+   },
+   "meaning": {
+    "de": "Ich ruhe mich im Hotel aus.",
+    "en": "I'm resting at the hotel."
+   },
+   "parts": [
+    "호텔에서",
+    "쉬어요"
+   ],
+   "extraParts": [
+    "호텔에"
+   ],
+   "audio": "audio/s4-s-rest-at-hotel.mp3"
+  },
+  {
+   "id": "s4-s-swim-in-sea",
+   "hangul": "바다에서 수영해요",
+   "type": "sentence",
+   "sound": {
+    "de": "badaeseo suyeonghaeyo",
+    "en": "badaeseo suyeonghaeyo"
+   },
+   "meaning": {
+    "de": "Ich schwimme im Meer.",
+    "en": "I swim in the sea."
+   },
+   "parts": [
+    "바다에서",
+    "수영해요"
+   ],
+   "extraParts": [
+    "바다가"
+   ],
+   "audio": "audio/s4-s-swim-in-sea.mp3"
+  },
+  {
+   "id": "s4-s-eat-at-restaurant",
+   "hangul": "식당에서 비빔밥을 먹어요",
+   "type": "sentence",
+   "sound": {
+    "de": "sikdangeseo bibimbabeul meogeoyo",
+    "en": "sikdangeseo bibimbabeul meogeoyo"
+   },
+   "meaning": {
+    "de": "Ich esse im Restaurant Bibimbap.",
+    "en": "I eat bibimbap at the restaurant."
+   },
+   "parts": [
+    "식당에서",
+    "비빔밥을",
+    "먹어요"
+   ],
+   "extraParts": [
+    "식당에"
+   ],
+   "audio": "audio/s4-s-eat-at-restaurant.mp3"
+  }
+ ]
+}

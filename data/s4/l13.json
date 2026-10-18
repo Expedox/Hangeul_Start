@@ -1,0 +1,417 @@
+{
+ "id": "s4-l13",
+ "stage": 4,
+ "lesson": 13,
+ "title": {
+  "de": "Einkaufen",
+  "en": "Shopping"
+ },
+ "intro": {
+  "de": "Auf Märkten kannst du manchmal handeln: 깎아 주세요. In Kaufhäusern gelten feste Preise.\nKarten werden fast überall angenommen. Tüten kosten oft etwas extra.",
+  "en": "At markets you can sometimes haggle: 깎아 주세요. Department stores have fixed prices.\nCards are accepted almost everywhere. Bags often cost a little extra."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "hear-meaning",
+  "build-sentence"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-w-clothes",
+   "hangul": "옷",
+   "type": "word",
+   "topic": "shopping",
+   "sound": {
+    "de": "ot",
+    "en": "ot"
+   },
+   "meaning": {
+    "de": "Kleidung",
+    "en": "clothes"
+   },
+   "mnemonic": {
+    "de": "Ein kurzes Wort für etwas, das du jeden Tag anziehst.",
+    "en": "A short word for something you put on every day."
+   },
+   "note": {
+    "de": "Am Ende klingt ㅅ wie t.",
+    "en": "At the end, ㅅ sounds like t."
+   },
+   "audio": "audio/s4-w-clothes.mp3"
+  },
+  {
+   "id": "s4-w-shoes",
+   "hangul": "신발",
+   "type": "word",
+   "topic": "shopping",
+   "sound": {
+    "de": "sinbal",
+    "en": "sinbal"
+   },
+   "meaning": {
+    "de": "Schuhe",
+    "en": "shoes"
+   },
+   "mnemonic": {
+    "de": "„Schin-bal“: Schienbein abwärts kommen die Schuhe.",
+    "en": "\"Sheen-bahl\": shiny shoes."
+   },
+   "note": {
+    "de": "In Wohnungen zieht man sie aus.",
+    "en": "Taken off indoors in Korea."
+   },
+   "audio": "audio/s4-w-shoes.mp3"
+  },
+  {
+   "id": "s4-w-size",
+   "hangul": "사이즈",
+   "type": "word",
+   "topic": "shopping",
+   "sound": {
+    "de": "saijeu",
+    "en": "saijeu"
+   },
+   "meaning": {
+    "de": "Größe (Kleidung)",
+    "en": "size"
+   },
+   "mnemonic": {
+    "de": "Das englische „size“, auf Koreanisch.",
+    "en": "English \"size\", Korean style."
+   },
+   "audio": "audio/s4-w-size.mp3"
+  },
+  {
+   "id": "s4-w-wear",
+   "hangul": "입어요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "ibeoyo",
+    "en": "ibeoyo"
+   },
+   "meaning": {
+    "de": "anziehen, tragen",
+    "en": "to wear, to put on"
+   },
+   "mnemonic": {
+    "de": "„Ibeo“ – rein in die Jacke.",
+    "en": "\"Ibeo\" – slipping into a jacket."
+   },
+   "note": {
+    "de": "Grundform 입다. Für Kleidung, nicht für Schuhe.",
+    "en": "Dictionary form 입다. For clothes, not shoes."
+   },
+   "audio": "audio/s4-w-wear.mp3"
+  },
+  {
+   "id": "s4-w-card",
+   "hangul": "카드",
+   "type": "word",
+   "topic": "shopping",
+   "sound": {
+    "de": "kadeu",
+    "en": "kadeu"
+   },
+   "meaning": {
+    "de": "Karte (Kreditkarte)",
+    "en": "card (credit card)"
+   },
+   "mnemonic": {
+    "de": "Wie „Karte“, mit kräftigem k: kadeu.",
+    "en": "Like \"card\", with a strong k: kadeu."
+   },
+   "audio": "audio/s4-w-card.mp3"
+  },
+  {
+   "id": "s4-w-cash",
+   "hangul": "현금",
+   "type": "word",
+   "topic": "shopping",
+   "sound": {
+    "de": "hyeongeum",
+    "en": "hyeongeum"
+   },
+   "meaning": {
+    "de": "Bargeld",
+    "en": "cash"
+   },
+   "mnemonic": {
+    "de": "금 heißt Gold: Geld in der Hand.",
+    "en": "금 means gold: money in hand."
+   },
+   "audio": "audio/s4-w-cash.mp3"
+  },
+  {
+   "id": "s4-w-discount",
+   "hangul": "할인",
+   "type": "word",
+   "topic": "shopping",
+   "sound": {
+    "de": "harin",
+    "en": "harin"
+   },
+   "meaning": {
+    "de": "Rabatt",
+    "en": "discount"
+   },
+   "mnemonic": {
+    "de": "Steht auf Schildern mit Prozent: 30% 할인.",
+    "en": "On signs with percentages: 30% 할인."
+   },
+   "note": {
+    "de": "ㄹ rückt nach: harin.",
+    "en": "ㄹ moves on: harin."
+   },
+   "audio": "audio/s4-w-discount.mp3"
+  },
+  {
+   "id": "s4-w-bag",
+   "hangul": "봉투",
+   "type": "word",
+   "topic": "shopping",
+   "sound": {
+    "de": "bongtu",
+    "en": "bongtu"
+   },
+   "meaning": {
+    "de": "Tüte",
+    "en": "(shopping) bag"
+   },
+   "mnemonic": {
+    "de": "Die Tüte raschelt: „bongtu“.",
+    "en": "The bag rustles: \"bongtu\"."
+   },
+   "audio": "audio/s4-w-bag.mp3"
+  },
+  {
+   "id": "s4-w-souvenir",
+   "hangul": "기념품",
+   "type": "word",
+   "topic": "shopping",
+   "sound": {
+    "de": "ginyeompum",
+    "en": "ginyeompum"
+   },
+   "meaning": {
+    "de": "Souvenir, Andenken",
+    "en": "souvenir"
+   },
+   "mnemonic": {
+    "de": "기념 heißt Erinnerung: ein Ding zum Erinnern.",
+    "en": "기념 means remembrance: a thing to remember by."
+   },
+   "audio": "audio/s4-w-souvenir.mp3"
+  },
+  {
+   "id": "s4-w-other",
+   "hangul": "다른",
+   "type": "word",
+   "topic": "shopping",
+   "sound": {
+    "de": "dareun",
+    "en": "dareun"
+   },
+   "meaning": {
+    "de": "andere(r), anderes",
+    "en": "other, different"
+   },
+   "mnemonic": {
+    "de": "„Da rum“ – nimm das andere.",
+    "en": "\"Dah-reun\" – the other one, over there."
+   },
+   "note": {
+    "de": "Steht vor dem Nomen: 다른 색 = andere Farbe.",
+    "en": "Goes before the noun: 다른 색 = another color."
+   },
+   "audio": "audio/s4-w-other.mp3"
+  },
+  {
+   "id": "s4-w-too-much",
+   "hangul": "너무",
+   "type": "word",
+   "topic": "shopping",
+   "sound": {
+    "de": "neomu",
+    "en": "neomu"
+   },
+   "meaning": {
+    "de": "zu, sehr",
+    "en": "too, very"
+   },
+   "mnemonic": {
+    "de": "„No, mu!“ – zu viel!",
+    "en": "\"No, moo!\" – that's too much!"
+   },
+   "note": {
+    "de": "너무 비싸요 = zu teuer.",
+    "en": "너무 비싸요 = too expensive."
+   },
+   "audio": "audio/s4-w-too-much.mp3"
+  },
+  {
+   "id": "s4-w-possible",
+   "hangul": "돼요",
+   "type": "word",
+   "topic": "verbs",
+   "sound": {
+    "de": "dwaeyo",
+    "en": "dwaeyo"
+   },
+   "meaning": {
+    "de": "geht, ist möglich",
+    "en": "it works, is possible"
+   },
+   "mnemonic": {
+    "de": "Ein Daumen hoch: „dwaeyo“ – das geht.",
+    "en": "A thumbs up: \"dwaeyo\" – that works."
+   },
+   "note": {
+    "de": "Grundform 되다. 카드 돼요? = Geht Karte?",
+    "en": "Dictionary form 되다. 카드 돼요? = Do you take cards?"
+   },
+   "audio": "audio/s4-w-possible.mp3"
+  },
+  {
+   "id": "s4-p-discount-please",
+   "hangul": "깎아 주세요",
+   "type": "phrase",
+   "topic": "shopping",
+   "sound": {
+    "de": "kkakka juseyo",
+    "en": "kkakka juseyo"
+   },
+   "meaning": {
+    "de": "Bitte etwas billiger.",
+    "en": "Can you lower the price, please?"
+   },
+   "mnemonic": {
+    "de": "깎다 heißt abschneiden: ein Stück vom Preis abschneiden.",
+    "en": "깎다 means to shave off: shave a bit off the price."
+   },
+   "note": {
+    "de": "Auf Märkten ok, in Kaufhäusern nicht üblich.",
+    "en": "Fine at markets, not in department stores."
+   },
+   "audio": "audio/s4-p-discount-please.mp3"
+  },
+  {
+   "id": "s4-s-card-ok",
+   "hangul": "카드 돼요?",
+   "type": "sentence",
+   "topic": "shopping",
+   "sound": {
+    "de": "kadeu dwaeyo?",
+    "en": "kadeu dwaeyo?"
+   },
+   "meaning": {
+    "de": "Kann ich mit Karte zahlen?",
+    "en": "Do you take cards?"
+   },
+   "parts": [
+    "카드",
+    "돼요?"
+   ],
+   "extraParts": [
+    "카드를"
+   ],
+   "audio": "audio/s4-s-card-ok.mp3"
+  },
+  {
+   "id": "s4-s-bag-please",
+   "hangul": "봉투 주세요",
+   "type": "sentence",
+   "topic": "shopping",
+   "sound": {
+    "de": "bongtu juseyo",
+    "en": "bongtu juseyo"
+   },
+   "meaning": {
+    "de": "Eine Tüte, bitte.",
+    "en": "A bag, please."
+   },
+   "parts": [
+    "봉투",
+    "주세요"
+   ],
+   "extraParts": [
+    "봉투가"
+   ],
+   "audio": "audio/s4-s-bag-please.mp3"
+  },
+  {
+   "id": "s4-s-other-size",
+   "hangul": "다른 사이즈 있어요?",
+   "type": "sentence",
+   "topic": "shopping",
+   "sound": {
+    "de": "dareun saijeu isseoyo?",
+    "en": "dareun saijeu isseoyo?"
+   },
+   "meaning": {
+    "de": "Haben Sie eine andere Größe?",
+    "en": "Do you have another size?"
+   },
+   "parts": [
+    "다른",
+    "사이즈",
+    "있어요?"
+   ],
+   "extraParts": [
+    "사이즈를"
+   ],
+   "audio": "audio/s4-s-other-size.mp3"
+  },
+  {
+   "id": "s4-s-buy-souvenir",
+   "hangul": "저는 기념품을 사요",
+   "type": "sentence",
+   "topic": "shopping",
+   "sound": {
+    "de": "jeoneun ginyeompumeul sayo",
+    "en": "jeoneun ginyeompumeul sayo"
+   },
+   "meaning": {
+    "de": "Ich kaufe Souvenirs.",
+    "en": "I'm buying souvenirs."
+   },
+   "parts": [
+    "저는",
+    "기념품을",
+    "사요"
+   ],
+   "extraParts": [
+    "기념품이"
+   ],
+   "audio": "audio/s4-s-buy-souvenir.mp3"
+  },
+  {
+   "id": "s4-s-shoes-too-expensive",
+   "hangul": "이 신발은 너무 비싸요",
+   "type": "sentence",
+   "topic": "shopping",
+   "sound": {
+    "de": "i sinbareun neomu bissayo",
+    "en": "i sinbareun neomu bissayo"
+   },
+   "meaning": {
+    "de": "Diese Schuhe sind zu teuer.",
+    "en": "These shoes are too expensive."
+   },
+   "parts": [
+    "이",
+    "신발은",
+    "너무",
+    "비싸요"
+   ],
+   "extraParts": [
+    "신발는"
+   ],
+   "audio": "audio/s4-s-shoes-too-expensive.mp3"
+  }
+ ]
+}

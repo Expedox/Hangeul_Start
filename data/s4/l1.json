@@ -1,0 +1,380 @@
+{
+ "id": "s4-l1",
+ "stage": 4,
+ "lesson": 1,
+ "title": {
+  "de": "Ich bin …: 이에요/예요",
+  "en": "I am …: 이에요/예요"
+ },
+ "intro": {
+  "de": "이에요/예요 heißt „ist“, „bin“ oder „bist“. Es hängt direkt am Nomen.\nEndet das Nomen auf einen Konsonanten, nimmst du 이에요: 학생이에요. Endet es auf einen Vokal, nimmst du 예요: 의사예요.\nFür eine Frage hebst du nur die Stimme am Ende: 학생이에요?\n저는 heißt „ich“ (als Thema). Mehr dazu in der nächsten Lektion.",
+  "en": "이에요/예요 means \"is\", \"am\" or \"are\". It attaches straight to the noun.\nIf the noun ends in a consonant, use 이에요: 학생이에요. If it ends in a vowel, use 예요: 의사예요.\nTo ask, just raise your voice at the end: 학생이에요?\n저는 means \"I\" (as the topic). More on that in the next lesson."
+ },
+ "exercises": [
+  "see-meaning",
+  "pick-hangul",
+  "build-sentence"
+ ],
+ "check": {
+  "questions": 8
+ },
+ "items": [
+  {
+   "id": "s4-w-student",
+   "hangul": "학생",
+   "type": "word",
+   "topic": "people",
+   "sound": {
+    "de": "haksaeng",
+    "en": "haksaeng"
+   },
+   "meaning": {
+    "de": "Schüler, Student",
+    "en": "student"
+   },
+   "mnemonic": {
+    "de": "„Hak“ wie ein kurzer Haken: Wer lernt, hakt Aufgaben ab.",
+    "en": "Picture a student ticking off homework: \"hak\", done."
+   },
+   "note": {
+    "de": "ㅅ nach ㄱ wird gespannt: haksaeng klingt wie [학쌩].",
+    "en": "ㅅ after ㄱ becomes tense: haksaeng sounds like [학쌩]."
+   },
+   "audio": "audio/s4-w-student.mp3"
+  },
+  {
+   "id": "s4-w-teacher",
+   "hangul": "선생님",
+   "type": "word",
+   "topic": "people",
+   "sound": {
+    "de": "seonsaengnim",
+    "en": "seonsaengnim"
+   },
+   "meaning": {
+    "de": "Lehrer, Lehrerin",
+    "en": "teacher"
+   },
+   "mnemonic": {
+    "de": "님 ist eine respektvolle Endung, wie ein kleiner Hut für die Person.",
+    "en": "님 is a respectful ending, like a little hat on the word."
+   },
+   "note": {
+    "de": "Wird auch als höfliche Anrede benutzt.",
+    "en": "Also used as a polite way to address someone."
+   },
+   "audio": "audio/s4-w-teacher.mp3"
+  },
+  {
+   "id": "s4-w-office-worker",
+   "hangul": "회사원",
+   "type": "word",
+   "topic": "people",
+   "sound": {
+    "de": "hoesawon",
+    "en": "hoesawon"
+   },
+   "meaning": {
+    "de": "Büroangestellter, Angestellte",
+    "en": "office worker"
+   },
+   "mnemonic": {
+    "de": "회사 ist die Firma, 원 das Mitglied: ein Firmenmensch.",
+    "en": "회사 is the company, 원 a member: a company person."
+   },
+   "audio": "audio/s4-w-office-worker.mp3"
+  },
+  {
+   "id": "s4-w-doctor",
+   "hangul": "의사",
+   "type": "word",
+   "topic": "people",
+   "sound": {
+    "de": "uisa",
+    "en": "uisa"
+   },
+   "meaning": {
+    "de": "Arzt, Ärztin",
+    "en": "doctor"
+   },
+   "mnemonic": {
+    "de": "Ein Arzt sagt „ui“, wenn er in den Hals schaut.",
+    "en": "Imagine a doctor looking into your throat: \"ui\"."
+   },
+   "note": {
+    "de": "Endet auf Vokal, also 의사예요.",
+    "en": "Ends in a vowel, so 의사예요."
+   },
+   "audio": "audio/s4-w-doctor.mp3"
+  },
+  {
+   "id": "s4-w-germany",
+   "hangul": "독일",
+   "type": "word",
+   "topic": "countries",
+   "sound": {
+    "de": "dogil",
+    "en": "dogil"
+   },
+   "meaning": {
+    "de": "Deutschland",
+    "en": "Germany"
+   },
+   "mnemonic": {
+    "de": "Do-gil klingt ein bisschen wie „Dogge“: ein deutscher Hund.",
+    "en": "Do-gil: think of a Great Dane, the German dog."
+   },
+   "note": {
+    "de": "Deutsche(r): 독일 사람.",
+    "en": "A German person: 독일 사람."
+   },
+   "audio": "audio/s4-w-germany.mp3"
+  },
+  {
+   "id": "s4-w-america",
+   "hangul": "미국",
+   "type": "word",
+   "topic": "countries",
+   "sound": {
+    "de": "miguk",
+    "en": "miguk"
+   },
+   "meaning": {
+    "de": "USA, Amerika",
+    "en": "USA, America"
+   },
+   "mnemonic": {
+    "de": "Mi-guk: „mich guckt“ die Freiheitsstatue an.",
+    "en": "Mee-gook: the Statue of Liberty \"looks\" at me."
+   },
+   "note": {
+    "de": "Amerikaner(in): 미국 사람, miguk saram, gesprochen [미국싸람].",
+    "en": "An American: 미국 사람, miguk saram, said [미국싸람]."
+   },
+   "audio": "audio/s4-w-america.mp3"
+  },
+  {
+   "id": "s4-w-tourist",
+   "hangul": "관광객",
+   "type": "word",
+   "topic": "travel",
+   "sound": {
+    "de": "gwangwanggaek",
+    "en": "gwangwanggaek"
+   },
+   "meaning": {
+    "de": "Tourist, Touristin",
+    "en": "tourist"
+   },
+   "mnemonic": {
+    "de": "Gwan-gwang klingt wie Kameras, die klicken: Touristen.",
+    "en": "Gwahn-gwahng sounds like clicking cameras: tourists."
+   },
+   "note": {
+    "de": "관광 heißt Sightseeing, 객 Gast.",
+    "en": "관광 means sightseeing, 객 guest."
+   },
+   "audio": "audio/s4-w-tourist.mp3"
+  },
+  {
+   "id": "s4-w-cook",
+   "hangul": "요리사",
+   "type": "word",
+   "topic": "people",
+   "sound": {
+    "de": "yorisa",
+    "en": "yorisa"
+   },
+   "meaning": {
+    "de": "Koch, Köchin",
+    "en": "cook, chef"
+   },
+   "mnemonic": {
+    "de": "요리 kennst du schon (Kochen). Mit 사 wird daraus der Beruf.",
+    "en": "You know 요리 (cooking). Add 사 and it becomes the job."
+   },
+   "audio": "audio/s4-w-cook.mp3"
+  },
+  {
+   "id": "s4-s-i-am-student",
+   "hangul": "저는 학생이에요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeoneun haksaengieyo",
+    "en": "jeoneun haksaengieyo"
+   },
+   "meaning": {
+    "de": "Ich bin Student(in).",
+    "en": "I am a student."
+   },
+   "note": {
+    "de": "학생 endet auf ㅇ, also 이에요.",
+    "en": "학생 ends in ㅇ, so 이에요."
+   },
+   "parts": [
+    "저는",
+    "학생이에요"
+   ],
+   "extraParts": [
+    "학생예요"
+   ],
+   "audio": "audio/s4-s-i-am-student.mp3"
+  },
+  {
+   "id": "s4-s-i-am-doctor",
+   "hangul": "저는 의사예요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeoneun uisayeyo",
+    "en": "jeoneun uisayeyo"
+   },
+   "meaning": {
+    "de": "Ich bin Arzt / Ärztin.",
+    "en": "I am a doctor."
+   },
+   "note": {
+    "de": "의사 endet auf einen Vokal, also 예요.",
+    "en": "의사 ends in a vowel, so 예요."
+   },
+   "parts": [
+    "저는",
+    "의사예요"
+   ],
+   "extraParts": [
+    "의사이에요"
+   ],
+   "audio": "audio/s4-s-i-am-doctor.mp3"
+  },
+  {
+   "id": "s4-s-i-am-german",
+   "hangul": "저는 독일 사람이에요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeoneun dogil saramieyo",
+    "en": "jeoneun dogil saramieyo"
+   },
+   "meaning": {
+    "de": "Ich bin Deutsche(r).",
+    "en": "I am German."
+   },
+   "parts": [
+    "저는",
+    "독일",
+    "사람이에요"
+   ],
+   "extraParts": [
+    "사람예요"
+   ],
+   "audio": "audio/s4-s-i-am-german.mp3"
+  },
+  {
+   "id": "s4-s-i-am-tourist",
+   "hangul": "저는 관광객이에요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeoneun gwangwanggaegieyo",
+    "en": "jeoneun gwangwanggaegieyo"
+   },
+   "meaning": {
+    "de": "Ich bin Tourist(in).",
+    "en": "I am a tourist."
+   },
+   "parts": [
+    "저는",
+    "관광객이에요"
+   ],
+   "extraParts": [
+    "관광객예요"
+   ],
+   "audio": "audio/s4-s-i-am-tourist.mp3"
+  },
+  {
+   "id": "s4-s-friend-is-cook",
+   "hangul": "친구는 요리사예요",
+   "type": "sentence",
+   "sound": {
+    "de": "chinguneun yorisayeyo",
+    "en": "chinguneun yorisayeyo"
+   },
+   "meaning": {
+    "de": "Mein Freund / meine Freundin ist Koch / Köchin.",
+    "en": "My friend is a cook."
+   },
+   "parts": [
+    "친구는",
+    "요리사예요"
+   ],
+   "extraParts": [
+    "요리사이에요"
+   ],
+   "audio": "audio/s4-s-friend-is-cook.mp3"
+  },
+  {
+   "id": "s4-s-are-you-american",
+   "hangul": "미국 사람이에요?",
+   "type": "sentence",
+   "sound": {
+    "de": "miguk saramieyo?",
+    "en": "miguk saramieyo?"
+   },
+   "meaning": {
+    "de": "Sind Sie Amerikaner(in)?",
+    "en": "Are you American?"
+   },
+   "note": {
+    "de": "Frage: gleiche Form, Stimme hoch am Ende.",
+    "en": "Question: same form, voice goes up at the end."
+   },
+   "parts": [
+    "미국",
+    "사람이에요?"
+   ],
+   "extraParts": [
+    "사람예요?"
+   ],
+   "audio": "audio/s4-s-are-you-american.mp3"
+  },
+  {
+   "id": "s4-s-i-am-office-worker",
+   "hangul": "저는 회사원이에요",
+   "type": "sentence",
+   "sound": {
+    "de": "jeoneun hoesawonieyo",
+    "en": "jeoneun hoesawonieyo"
+   },
+   "meaning": {
+    "de": "Ich bin Büroangestellte(r).",
+    "en": "I am an office worker."
+   },
+   "parts": [
+    "저는",
+    "회사원이에요"
+   ],
+   "extraParts": [
+    "회사원예요"
+   ],
+   "audio": "audio/s4-s-i-am-office-worker.mp3"
+  },
+  {
+   "id": "s4-s-mother-is-teacher",
+   "hangul": "어머니는 선생님이에요",
+   "type": "sentence",
+   "sound": {
+    "de": "eomeonineun seonsaengnimieyo",
+    "en": "eomeonineun seonsaengnimieyo"
+   },
+   "meaning": {
+    "de": "Meine Mutter ist Lehrerin.",
+    "en": "My mother is a teacher."
+   },
+   "parts": [
+    "어머니는",
+    "선생님이에요"
+   ],
+   "extraParts": [
+    "선생님예요"
+   ],
+   "audio": "audio/s4-s-mother-is-teacher.mp3"
+  }
+ ]
+}

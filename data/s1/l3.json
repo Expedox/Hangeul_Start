@@ -1,0 +1,92 @@
+{
+ "id": "s1-l3",
+ "stage": 1,
+ "lesson": 3,
+ "title": {
+  "de": "Erste Konsonanten",
+  "en": "First consonants"
+ },
+ "intro": {
+  "de": "Viele Konsonanten zeigen, wo Zunge oder Lippen beim Sprechen sind. ㄱ, ㄷ und ㅂ klingen am Wortanfang weich (g, d, b), am Silbenende hart (k, t, p).",
+  "en": "Many consonants picture where your tongue or lips are. ㄱ, ㄷ and ㅂ sound soft at the start of a word (g, d, b) and hard at the end of a syllable (k, t, p)."
+ },
+ "exercises": [
+  "see-sound",
+  "hear-char"
+ ],
+ "check": {
+  "questions": 6
+ },
+ "items": [
+  {
+   "id": "s1-c-g",
+   "hangul": "ㄱ",
+   "type": "consonant",
+   "sound": {
+    "de": "g / k",
+    "en": "g / k"
+   },
+   "mnemonic": {
+    "de": "Wie ein abgeknickter Gartenschlauch: „g“ wie Garten.",
+    "en": "Like the corner of a gate: \"g\" as in gate."
+   },
+   "audio": "audio/s1-c-g.mp3"
+  },
+  {
+   "id": "s1-c-n",
+   "hangul": "ㄴ",
+   "type": "consonant",
+   "sound": {
+    "de": "n",
+    "en": "n"
+   },
+   "mnemonic": {
+    "de": "Wie eine Nase von der Seite: „n“ wie Nase.",
+    "en": "Like a nose seen from the side: \"n\" as in nose."
+   },
+   "audio": "audio/s1-c-n.mp3"
+  },
+  {
+   "id": "s1-c-d",
+   "hangul": "ㄷ",
+   "type": "consonant",
+   "sound": {
+    "de": "d / t",
+    "en": "d / t"
+   },
+   "mnemonic": {
+    "de": "Wie eine offene Dose, die nach rechts zeigt: „d“ wie Dose.",
+    "en": "Like an open door: \"d\" as in door."
+   },
+   "audio": "audio/s1-c-d.mp3"
+  },
+  {
+   "id": "s1-c-r",
+   "hangul": "ㄹ",
+   "type": "consonant",
+   "sound": {
+    "de": "r / l",
+    "en": "r / l"
+   },
+   "mnemonic": {
+    "de": "Eine kurvige Rennstrecke: zwischen Vokalen „r“, am Ende „l“.",
+    "en": "A winding road: \"r\" between vowels, \"l\" at the end."
+   },
+   "audio": "audio/s1-c-r.mp3"
+  },
+  {
+   "id": "s1-c-m",
+   "hangul": "ㅁ",
+   "type": "consonant",
+   "sound": {
+    "de": "m",
+    "en": "m"
+   },
+   "mnemonic": {
+    "de": "Ein Fenster, und dahinter das Meer: „m“.",
+    "en": "A square, closed mouth: \"m\" as in mouth."
+   },
+   "audio": "audio/s1-c-m.mp3"
+  }
+ ]
+}
